@@ -1,0 +1,15 @@
+transformers>=4.38.0
+datasets>=2.18.0
+torch>=2.2.0
+scikit-learn>=1.4.0
+pandas>=2.2.0
+numpy>=1.26.0
+requests>=2.31.0
+tqdm>=4.66.0
+seqeval>=1.2.2
+accelerate>=0.27.0
+sentencepiece>=0.1.99
+protobuf>=4.25.0
+evaluate>=0.4.1
+sacrebleu>=2.4.0
+bert-score>=0.3.13

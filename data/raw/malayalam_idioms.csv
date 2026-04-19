@@ -1,0 +1,4 @@
+source_idiom,source_lang,target_idiom,target_lang,label,idiom_string,split,source
+ആനപ്പുറത്ത് ഇരിക്കുക,ml,Sitting on an elephant,en,1,ആനപ്പുറത്ത് ഇരിക്കുക,train,Custom-Malayalam
+കുടത്തിലிட்ட വിളക്ക് പോലെ,ml,Like a lamp kept in a pot,en,1,കുടത്തിലிட்ட വിളക്ക് പോലെ,train,Custom-Malayalam
+പാമ്പിന് പാല് കൊടുക്കുന്നത് പോലെ,ml,Like feeding milk to a snake,en,1,പാമ്പിന് പാല് കൊടുക്കുന്നത് പോലെ,train,Custom-Malayalam

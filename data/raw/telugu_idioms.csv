@@ -1,0 +1,4 @@
+source_idiom,source_lang,target_idiom,target_lang,label,idiom_string,split,source
+అడకత్తెరలో పోకచెక్క,te,Like an areca nut in a nutcracker,en,1,అడకత్తెరలో పోకచెక్క,train,Custom-Telugu
+తాటాకు చప్పుళ్లు,te,Noise of palm leaves,en,1,తాటాకు చప్పుళ్లు,train,Custom-Telugu
+గుమ్మడికాయల దొంగ అంటే భుజాలు తడుముకున్నట్లు,te,Like a pumpkin thief touching his own shoulders,en,1,గుమ్మడికాయల దొంగ అంటే భుజాలు తడుముకున్నట్లు,train,Custom-Telugu
