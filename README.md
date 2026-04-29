@@ -164,6 +164,44 @@ results = detector.predict_batch([
 
 ---
 
+## Person 2 — Semantic Similarity & Retrieval (LaBSE + FAISS)
+
+### Build retrieval index
+```bash
+python src/semantic_retriever.py --mode build
+```
+
+By default this consumes:
+- `data/processed/cross_lingual.csv`
+- idiom files in `data/raw/` (`hindi.json`, `malayalam.json`, `telugu.json`, `*_idioms.csv`)
+
+Note: generic parallel corpora are excluded by default for retrieval quality.
+
+Saved artifacts:
+- `models/semantic_retriever/idiom_index.faiss`
+- `models/semantic_retriever/metadata.csv`
+
+### Query nearest idiom equivalents
+```bash
+python src/semantic_retriever.py --mode query \
+  --text "He kicked the bucket" \
+  --target_lang hi \
+  --top_k 5
+```
+
+### Run detector + retrieval pipeline
+```bash
+python src/semantic_retriever.py --mode pipeline \
+  --text "He kicked the bucket last year." \
+  --target_lang hi \
+  --top_k 3
+```
+
+If detector predicts `Literal`, retrieval is skipped. If detector predicts `Idiomatic`,
+the module returns top semantic matches from the FAISS index.
+
+---
+
 ## Compute Notes
 - **Google Colab (T4)** — Recommended for training. Upload repo, install requirements, run scripts.
 - **Kaggle Notebooks** — 30hrs/week free GPU, good for longer runs.
