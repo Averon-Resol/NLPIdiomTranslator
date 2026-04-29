@@ -390,7 +390,7 @@ def build_unified_dataset():
     print(f"[SAVED] detection_only.csv  → {len(detection_df)} rows")
 
     # ── Cross-lingual subset for Person 2 & 3 ──
-    cross_df = unified[unified["target_idiom"].str.strip() != ""].copy()
+    cross_df = unified[unified["target_idiom"].notna() & (unified["target_idiom"].str.strip() != "")].copy()
     out_cross = DATA_PROC / "cross_lingual.csv"
     cross_df.to_csv(out_cross, index=False, encoding="utf-8")
     print(f"[SAVED] cross_lingual.csv   → {len(cross_df)} rows")

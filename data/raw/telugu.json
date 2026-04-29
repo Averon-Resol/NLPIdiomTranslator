@@ -1,72 +1,681 @@
 [
-  {
-    "idiom": "గొంతు కట్టడం",
-    "literal_meaning": "To tie the throat.",
-    "figurative_meaning": "To face a difficult situation bravely.",
-    "example": "He had to tie his throat and speak up during the meeting.",
-    "language": "Telugu"
-  },
-  {
-    "idiom": "చెట్టు కింద కూర్చోవడం",
-    "literal_meaning": "Sitting under a tree.",
-    "figurative_meaning": "To take shelter or rest.",
-    "example": "After a long day, he just wanted to sit under a tree and relax.",
-    "language": "Telugu"
-  },
-  {
-    "idiom": "వాటిని పక్కన పెట్టడం",
-    "literal_meaning": "Putting them aside.",
-    "figurative_meaning": "Ignoring distractions or irrelevant matters.",
-    "example": "In order to focus, he decided to put those thoughts aside.",
-    "language": "Telugu"
-  },
-  {
-    "idiom": "నక్క కడుపులో నడవడం",
-    "literal_meaning": "Walking in the belly of a jackal.",
-    "figurative_meaning": "Being in a dangerous or tricky situation.",
-    "example": "He felt like he was walking in the belly of a jackal during the negotiations.",
-    "language": "Telugu"
-  },
-  {
-    "idiom": "కాళ్ళు కట్టడం",
-    "literal_meaning": "Tying the legs.",
-    "figurative_meaning": "To restrict someone's freedom or movement.",
-    "example": "The new rules are tying our legs and making it hard to work efficiently.",
-    "language": "Telugu"
-  },
-  {
-    "idiom": "కలలు కనడం",
-    "literal_meaning": "To see dreams.",
-    "figurative_meaning": "To aspire or hope for something better.",
-    "example": "She always sees dreams of becoming a doctor one day.",
-    "language": "Telugu"
-  },
-  {
-    "idiom": "చెట్టు మీద ఎక్కడం",
-    "literal_meaning": "To climb the tree.",
-    "figurative_meaning": "To take risks or venture into unknown territory.",
-    "example": "He decided to climb the tree and start his own business despite the risks.",
-    "language": "Telugu"
-  },
-  {
-    "idiom": "అల్లుడు కొట్టడం",
-    "literal_meaning": "To hit the son-in-law.",
-    "figurative_meaning": "To blame someone for problems they didn't cause.",
-    "example": "Don't blame him for the failure; it's like hitting the son-in-law for no reason.",
-    "language": "Telugu"
-  },
-  {
-    "idiom": "పచ్చి మిరపకాయలు",
-    "literal_meaning": "Green chilies.",
-    "figurative_meaning": "Something that is fresh and lively.",
-    "example": "The festival was full of life, just like fresh green chilies.",
-    "language": "Telugu"
-  },
-  {
-    "idiom": "మంచి పనికి ముద్ర వేయడం",
-    "literal_meaning": "To stamp a good work.",
-    "figurative_meaning": "To acknowledge or validate good work.",
-    "example": "The manager stamped her good work with praise during the meeting.",
-    "language": "Telugu"
-  }
+    {
+        "idiom": "గొంతు కట్టడం",
+        "literal_meaning": "To tie the throat.",
+        "figurative_meaning": "To face a difficult situation bravely.",
+        "example": "He had to tie his throat and speak up during the meeting.",
+        "language": "Telugu"
+    },
+    {
+        "idiom": "చెట్టు కింద కూర్చోవడం",
+        "literal_meaning": "Sitting under a tree.",
+        "figurative_meaning": "To take shelter or rest.",
+        "example": "After a long day, he just wanted to sit under a tree and relax.",
+        "language": "Telugu"
+    },
+    {
+        "idiom": "వాటిని పక్కన పెట్టడం",
+        "literal_meaning": "Putting them aside.",
+        "figurative_meaning": "Ignoring distractions or irrelevant matters.",
+        "example": "In order to focus, he decided to put those thoughts aside.",
+        "language": "Telugu"
+    },
+    {
+        "idiom": "నక్క కడుపులో నడవడం",
+        "literal_meaning": "Walking in the belly of a jackal.",
+        "figurative_meaning": "Being in a dangerous or tricky situation.",
+        "example": "He felt like he was walking in the belly of a jackal during the negotiations.",
+        "language": "Telugu"
+    },
+    {
+        "idiom": "కాళ్ళు కట్టడం",
+        "literal_meaning": "Tying the legs.",
+        "figurative_meaning": "To restrict someone's freedom or movement.",
+        "example": "The new rules are tying our legs and making it hard to work efficiently.",
+        "language": "Telugu"
+    },
+    {
+        "idiom": "కలలు కనడం",
+        "literal_meaning": "To see dreams.",
+        "figurative_meaning": "To aspire or hope for something better.",
+        "example": "She always sees dreams of becoming a doctor one day.",
+        "language": "Telugu"
+    },
+    {
+        "idiom": "చెట్టు మీద ఎక్కడం",
+        "literal_meaning": "To climb the tree.",
+        "figurative_meaning": "To take risks or venture into unknown territory.",
+        "example": "He decided to climb the tree and start his own business despite the risks.",
+        "language": "Telugu"
+    },
+    {
+        "idiom": "అల్లుడు కొట్టడం",
+        "literal_meaning": "To hit the son-in-law.",
+        "figurative_meaning": "To blame someone for problems they didn't cause.",
+        "example": "Don't blame him for the failure; it's like hitting the son-in-law for no reason.",
+        "language": "Telugu"
+    },
+    {
+        "idiom": "పచ్చి మిరపకాయలు",
+        "literal_meaning": "Green chilies.",
+        "figurative_meaning": "Something that is fresh and lively.",
+        "example": "The festival was full of life, just like fresh green chilies.",
+        "language": "Telugu"
+    },
+    {
+        "idiom": "మంచి పనికి ముద్ర వేయడం",
+        "literal_meaning": "To stamp a good work.",
+        "figurative_meaning": "To acknowledge or validate good work.",
+        "example": "The manager stamped her good work with praise during the meeting.",
+        "language": "Telugu"
+    },
+    {
+        "idiom": "కుక్క తోక వంకర (Kukka thoka vankara)",
+        "literal_meaning": "A dog's tail is crooked.",
+        "figurative_meaning": "Old habits die hard; a person's basic nature cannot be changed easily.",
+        "example": "Vaadu maradu, kukka thoka vankara.",
+        "language": "Telugu"
+    },
+    {
+        "idiom": "అందని ద్రాక్ష పండ్లు పుల్లన (Andani draksha pandlu pullana)",
+        "literal_meaning": "Unreachable grapes are sour.",
+        "figurative_meaning": "Disparaging what you cannot achieve; sour grapes.",
+        "example": "Job raakapothe company baaledannadu, andani draksha pandlu pullana.",
+        "language": "Telugu"
+    },
+    {
+        "idiom": "చేతులు కాలాక ఆకులు పట్టుకున్నట్లు (Chetulu kalaka aakulu pattukunnatlu)",
+        "literal_meaning": "Holding leaves after the hands are burnt.",
+        "figurative_meaning": "Crying over spilt milk; taking precautions when it is too late.",
+        "example": "Exam fail ayyaka chadavadam chetulu kalaka aakulu pattukunnatlu.",
+        "language": "Telugu"
+    },
+    {
+        "idiom": "కాకి పిల్ల కాకికి ముద్దు (Kaaki pilla kaakiki muddu)",
+        "literal_meaning": "A crow's child is beautiful to the crow.",
+        "figurative_meaning": "Everyone loves their own offspring, regardless of their flaws.",
+        "example": "Vaadu em chesina valla ammaku nacchuthundi, kaaki pilla kaakiki muddu.",
+        "language": "Telugu"
+    },
+    {
+        "idiom": "పిట్ట కొంచెం కూత ఘనం (Pitta koncham kootha ghanam)",
+        "literal_meaning": "Small bird, loud song.",
+        "figurative_meaning": "Small in size or status but making a big impact or loud noise.",
+        "example": "Vaadu chinnavaadaina goppa pani chesadu, pitta koncham kootha ghanam.",
+        "language": "Telugu"
+    },
+    {
+        "idiom": "పులిని చూసి నక్క వాతలు పెట్టుకున్నట్లు (Pulini chusi nakka vathalu pettukunnatlu)",
+        "literal_meaning": "Fox branding itself after seeing a tiger.",
+        "figurative_meaning": "Foolishly imitating someone greater and hurting oneself.",
+        "example": "Vaadini chusi nuvvu appu cheyaku, pulini chusi nakka vathalu pettukunnatlu avuthundi.",
+        "language": "Telugu"
+    },
+    {
+        "idiom": "అడవిలో కాచిన వెన్నెల (Adavilo kaachina vennela)",
+        "literal_meaning": "Moonlight in the forest.",
+        "figurative_meaning": "Wasted effort or beauty that goes unappreciated.",
+        "example": "Ee project gurinchi evariki theliyaledu, adavilo kaachina vennela aindi.",
+        "language": "Telugu"
+    },
+    {
+        "idiom": "రొట్టె విరిగి నేతిలో పడ్డట్టు (Rotte virigi nethilo paddattu)",
+        "literal_meaning": "Bread breaking and falling into ghee.",
+        "figurative_meaning": "A completely unexpected stroke of good luck.",
+        "example": "Job pothe inka manchi job vachindi, rotte virigi nethilo paddattu.",
+        "language": "Telugu"
+    },
+    {
+        "idiom": "గాలిలో దీపం పెట్టి దేవుడా అన్నట్లు (Gaalilo deepam petti devuda annatlu)",
+        "literal_meaning": "Keeping a lamp in the wind and calling God.",
+        "figurative_meaning": "Acting carelessly and hoping for a miracle.",
+        "example": "Chadavakunda pass avvali anukovadam gaalilo deepam petti devuda annatlu.",
+        "language": "Telugu"
+    },
+    {
+        "idiom": "ఏ ఎండకు ఆ గొడుగు (Ye endaku aa godugu)",
+        "literal_meaning": "An umbrella for the respective sun.",
+        "figurative_meaning": "Adapting to situations for personal benefit; being an opportunist.",
+        "example": "Vaadu ye endaku aa godugu padathadu, nammakam ledu.",
+        "language": "Telugu"
+    },
+    {
+        "idiom": "నిండు కుండ తొణకదు (Nindu kunda thonakadu)",
+        "literal_meaning": "A full pot doesn't spill.",
+        "figurative_meaning": "A truly wise and knowledgeable person is calm and doesn't show off.",
+        "example": "Aayana entha goppavadaina garvam ledu, nindu kunda thonakadu.",
+        "language": "Telugu"
+    },
+    {
+        "idiom": "గోరంత దాన్ని కొండంత చేయడం (Goranta daanni kondanta cheyadam)",
+        "literal_meaning": "Making a fingernail-sized thing into a mountain.",
+        "figurative_meaning": "Making a mountain out of a molehill; exaggerating a small issue.",
+        "example": "Chinna godavani goranta daanni kondanta chesaru.",
+        "language": "Telugu"
+    },
+    {
+        "idiom": "చెవిటి వాడి ముందు శంఖం ఊదినట్లు (Cheviti vaadi mundu shankham oodinatlu)",
+        "literal_meaning": "Blowing a conch in front of a deaf person.",
+        "figurative_meaning": "Wasting words on someone who refuses to listen or understand.",
+        "example": "Vaadiki advice ivvadam cheviti vaadi mundu shankham oodinatlu.",
+        "language": "Telugu"
+    },
+    {
+        "idiom": "గుడ్డి కన్నా మెల్ల మేలు (Guddi kanna mella melu)",
+        "literal_meaning": "A squint is better than blindness.",
+        "figurative_meaning": "Something is better than nothing.",
+        "example": "Asalu job lekapovadam kante chinna job raavadam guddi kanna mella melu.",
+        "language": "Telugu"
+    },
+    {
+        "idiom": "చంకలో పిల్లిని పెట్టుకొని ఊరంతా వెతికినట్లు (Chankalo pillini pettukoni oorantha vethikinatlu)",
+        "literal_meaning": "Keeping a cat in the armpit and searching the whole town.",
+        "figurative_meaning": "Searching everywhere for something that is right in front of you.",
+        "example": "Pen chethilone pettukoni chankalo pillini pettukoni oorantha vethikinatlu vethukuthunnava?",
+        "language": "Telugu"
+    },
+    {
+        "idiom": "పిల్లి కళ్ళు మూసుకుని పాలు తాగుతూ... (Pilli kallu musukuni paalu thaguthu...)",
+        "literal_meaning": "A cat drinks milk with its eyes closed thinking no one sees.",
+        "figurative_meaning": "Doing something wrong secretly, foolishly believing no one notices.",
+        "example": "Nuvvu chese thappulu andarikii thelusu, pilli kallu musukuni paalu thaguthunnanukoku.",
+        "language": "Telugu"
+    },
+    {
+        "idiom": "గురువింద గింజ తన నలుపు ఎరుగదు (Guruvinda ginja thana nalupu erugadu)",
+        "literal_meaning": "The guruvinda seed doesn't know its own blackness.",
+        "figurative_meaning": "A person ignoring their own faults while criticizing others.",
+        "example": "Vaadu eppudu itarulanu vimarsisthadu, guruvinda ginja thana nalupu erugadu.",
+        "language": "Telugu"
+    },
+    {
+        "idiom": "కూసే గాడిద మేసే గాడిదని చెడగొట్టినట్లు (Koose gaadida mese gaadidani chedagottinatlu)",
+        "literal_meaning": "A braying donkey ruined the grazing donkey.",
+        "figurative_meaning": "Bad company corrupts good character.",
+        "example": "Vaadi thoti thirigi veedu kuda chedipoyadu, koose gaadida mese gaadidani chedagottinatlu.",
+        "language": "Telugu"
+    },
+    {
+        "idiom": "తల ప్రాణం తోకకు వచ్చినట్లు (Thala pranam thokaku vachinatlu)",
+        "literal_meaning": "Life coming from the head to the tail.",
+        "figurative_meaning": "Facing extreme hardship or fear.",
+        "example": "Aa project complete cheselopu thala pranam thokaku vachindi.",
+        "language": "Telugu"
+    },
+    {
+        "idiom": "మింగ మెతుకు లేదు, మీసాలకు సంపెంగ నూనె (Minga methuku ledu, meesalaku sampenga nune)",
+        "literal_meaning": "No grain to swallow, but jasmine oil for the mustache.",
+        "figurative_meaning": "Showing off outwardly despite extreme inner poverty or lack of substance.",
+        "example": "Pocket lo rupayi ledu gani branded battalu, minga methuku ledu meesalaku sampenga nune.",
+        "language": "Telugu"
+    },
+    {
+        "idiom": "దొంగలు పడ్డ ఆరు నెలలకు కుక్కలు మొరిగినట్లు (Dongalu padda aaru nelalaku kukkalu moriginatlu)",
+        "literal_meaning": "Dogs barking 6 months after the robbery.",
+        "figurative_meaning": "Reacting far too late to a situation to be of any use.",
+        "example": "Incident ayina chaala rojula tharvatha respond avvadam dongalu padda aaru nelalaku kukkalu moriginatlu.",
+        "language": "Telugu"
+    },
+    {
+        "idiom": "నోరు మంచిదైతే ఊరు మంచిదవుతుంది (Noru manchidaite ooru manchidavutundi)",
+        "literal_meaning": "If the mouth is good, the town is good.",
+        "figurative_meaning": "If you speak politely, everyone will be good to you.",
+        "example": "Andarito kalupugoluga undu, noru manchidaite ooru manchidavutundi.",
+        "language": "Telugu"
+    },
+    {
+        "idiom": "ఆవు చేలో మేస్తే దూడ గట్టున మేస్తుందా (Aavu chelo meste, duda gattuna mestunda)",
+        "literal_meaning": "If the cow grazes in the field, will the calf graze on the edge?",
+        "figurative_meaning": "Like father, like son; children imitate their parents.",
+        "example": "Thandri dongathananalu chestunte koduku kooda alage untadu, aavu chelo meste duda gattuna mestunda.",
+        "language": "Telugu"
+    },
+    {
+        "idiom": "కుడితిలో పడ్డ ఎలుక లాగా (Kuditilo padda eluka laaga)",
+        "literal_meaning": "Like a rat fallen in rice wash.",
+        "figurative_meaning": "Being stuck in a messy dilemma unable to get out.",
+        "example": "Rendu offers vachi etu vellalo theliyaka kuditilo padda eluka laaga unnadu.",
+        "language": "Telugu"
+    },
+    {
+        "idiom": "తాంబూలాలిచ్చేశాను తన్నుకు చావండి (Thamboolalichhesanu thannuku chavandi)",
+        "literal_meaning": "I gave the betel leaves, now fight to death.",
+        "figurative_meaning": "Washing one's hands of all responsibility and letting others deal with the mess.",
+        "example": "Nenu rules cheppesanu, thamboolalichhesanu thannuku chavandi.",
+        "language": "Telugu"
+    },
+    {
+        "idiom": "కంచే చేను మేసినట్లు (Kanche chenu mesinatlu)",
+        "literal_meaning": "The fence grazing the crop.",
+        "figurative_meaning": "The protector turning into the predator.",
+        "example": "Police ye donga ayithe kanche chenu mesinatlu.",
+        "language": "Telugu"
+    },
+    {
+        "idiom": "అత్త మీద కోపం దుత్త మీద చూపినట్లు (Attha meeda kopam duttha meeda chupinatlu)",
+        "literal_meaning": "Showing anger towards the mother-in-law on the pot.",
+        "figurative_meaning": "Displaced anger; taking out frustration on innocent people or objects.",
+        "example": "Boss meeda kopam wife meeda chupinchadu, attha meeda kopam duttha meeda chupinatlu.",
+        "language": "Telugu"
+    },
+    {
+        "idiom": "దూరపు కొండలు నునుపు (Doorapu kondalu nunupu)",
+        "literal_meaning": "Distant mountains are smooth.",
+        "figurative_meaning": "The grass is always greener on the other side.",
+        "example": "Vere desham vellali anukuntunnadu, doorapu kondalu nunupu kadha.",
+        "language": "Telugu"
+    },
+    {
+        "idiom": "నీటిలో రాతలు (Neetilo raathalu)",
+        "literal_meaning": "Writings on water.",
+        "figurative_meaning": "Something that is fleeting, impermanent, or useless.",
+        "example": "Vaadi matalu neetilo raathalu, eppudu maripothadu.",
+        "language": "Telugu"
+    },
+    {
+        "idiom": "కప్పకు పుండు వస్తే పాము తల దడిమినట్లు (Kappaku pundu vaste paamu thala dadiminatlu)",
+        "literal_meaning": "Snake massaging a frog's wound.",
+        "figurative_meaning": "Hypocritical help from an enemy who actually intends to harm you.",
+        "example": "Vaadu saayam chestunnanu antunnadu jagratha, kappaku pundu vaste paamu thala dadiminatlu.",
+        "language": "Telugu"
+    },
+    {
+        "idiom": "పెదవి దాటితే పెన్న దాటుతుంది (Pedavi daatithe penna daatuthundi)",
+        "literal_meaning": "If it crosses the lip, it crosses the Penna river.",
+        "figurative_meaning": "A secret once spoken spreads uncontrollably and widely.",
+        "example": "Evarkii cheppaku, pedavi daatithe penna daatuthundi.",
+        "language": "Telugu"
+    },
+    {
+        "idiom": "దీపం ఉండగానే ఇల్లు చక్కబెట్టుకోవాలి (Deepam undagane illu chakkabettukovali)",
+        "literal_meaning": "Set the house in order while the lamp is burning.",
+        "figurative_meaning": "Make hay while the sun shines; utilize opportunities while they last.",
+        "example": "Vayasu unnapude sampaadinchukovali, deepam undagane illu chakkabettukovali.",
+        "language": "Telugu"
+    },
+    {
+        "idiom": "కొత్త బిచ్చగాడు పొద్దెరగడు (Kottha bicchagadu podderagadu)",
+        "literal_meaning": "A new beggar doesn't know the time of day.",
+        "figurative_meaning": "A novice lacks a sense of timing or etiquette in their new role.",
+        "example": "Vaadiki job kothaga vachindi over chestunnadu, kottha bicchagadu podderagadu.",
+        "language": "Telugu"
+    },
+    {
+        "idiom": "ఉరుము ఉరుమి మంగలం మీద పడ్డట్టు (Urumu urumi mangalam meeda paddattu)",
+        "literal_meaning": "Thunder rolling and falling on the earthen pan.",
+        "figurative_meaning": "A huge buildup that results in a minor or pathetic outcome.",
+        "example": "Pedda meeting petti chivariki emi cheppaledu, urumu urumi mangalam meeda paddattu.",
+        "language": "Telugu"
+    },
+    {
+        "idiom": "బొగ్గులు కడిగితే పాలు అవుతాయా (Boggulu kadigithe paalu avuthaya)",
+        "literal_meaning": "If you wash coal, will it become milk?",
+        "figurative_meaning": "You cannot change someone's inherent bad nature.",
+        "example": "Vaadini entha marchalani chusina labham ledu, boggulu kadigithe paalu avuthaya?",
+        "language": "Telugu"
+    },
+    {
+        "idiom": "తాడి చెట్టు ఎక్కే వాడిని ఎంత వరకు ఎగదోయాలి (Thaadi chettu ekke vaadini entha varaku egadoyali)",
+        "literal_meaning": "How far can you push up someone climbing a palm tree?",
+        "figurative_meaning": "You can only help someone so much; eventually, they must do the work themselves.",
+        "example": "Nenu sagam saayam chesanu, thaadi chettu ekke vaadini entha varaku egadoyali?",
+        "language": "Telugu"
+    },
+    {
+        "idiom": "శివుని ఆజ్ఞ లేనిదే చీమైనా కుట్టదు (Shivuni aagna lenide cheemaina kuttadu)",
+        "literal_meaning": "Even an ant won't bite without Lord Shiva's command.",
+        "figurative_meaning": "Everything happens according to the will of God.",
+        "example": "Manam entha badhapaddina jarigede jaruguthundi, shivuni aagna lenide cheemaina kuttadu.",
+        "language": "Telugu"
+    },
+    {
+        "idiom": "తన కోపమే తన శత్రువు (Thana kopame thana shatruvu)",
+        "literal_meaning": "One's anger is one's enemy.",
+        "figurative_meaning": "Anger only destroys the person who is angry.",
+        "example": "Kopam tagginchuko, thana kopame thana shatruvu.",
+        "language": "Telugu"
+    },
+    {
+        "idiom": "పాము చావకూడదు, కర్ర విరగకూడదు (Paamu chavakudadu, karra viragakudadu)",
+        "literal_meaning": "The snake shouldn't die, the stick shouldn't break.",
+        "figurative_meaning": "Resolving a conflict safely without causing harm to either side.",
+        "example": "Godava peddadavvakunda paamu chavakudadu karra viragakudadu anattu problem solve chey.",
+        "language": "Telugu"
+    },
+    {
+        "idiom": "పేరు గొప్ప ఊరు దిబ్బ (Peru goppa ooru dibba)",
+        "literal_meaning": "Great name, but the town is a dump.",
+        "figurative_meaning": "Famous in name but lacking in actual substance.",
+        "example": "Aa college peru matrame goppa, lopala emi ledu, peru goppa ooru dibba.",
+        "language": "Telugu"
+    },
+    {
+        "idiom": "మూలిగే నక్క మీద తాటికాయ పడ్డట్టు (Moolige nakka meeda thaatikaya paddattu)",
+        "literal_meaning": "A palm fruit falling on a groaning fox.",
+        "figurative_meaning": "A sudden disaster striking someone already suffering.",
+        "example": "Appultho unna vaadiki accident ayindi, moolige nakka meeda thaatikaya paddattu.",
+        "language": "Telugu"
+    },
+    {
+        "idiom": "రాత్రి అయితే గానీ రంగులు తెలియవు (Rathri ayithe gaani rangulu theliyavu)",
+        "literal_meaning": "Colors aren't known until night falls.",
+        "figurative_meaning": "True colors or difficulties are only revealed during tough times.",
+        "example": "Kastam vasthene evaru elantivaro thelustundi, rathri ayithe gaani rangulu theliyavu.",
+        "language": "Telugu"
+    },
+    {
+        "idiom": "ఏకు మేకై కూర్చున్నట్లు (Eku mekai kurchunnatlu)",
+        "literal_meaning": "A cotton wick becoming a nail.",
+        "figurative_meaning": "Something insignificant becoming a huge nuisance or threat over time.",
+        "example": "Chinna appu eku mekai kurchundi.",
+        "language": "Telugu"
+    },
+    {
+        "idiom": "ఉపకారికి అపకారం చేయడం (Upakariki apakaram cheyadam)",
+        "literal_meaning": "Doing harm to the benefactor.",
+        "figurative_meaning": "Biting the hand that feeds you.",
+        "example": "Ninnu nammina vaarini mosam cheyaku, upakariki apakaram cheyadam papam.",
+        "language": "Telugu"
+    },
+    {
+        "idiom": "అగ్నికి వాయువు తోడైనట్లు (Agniki vayuvu thodainatlu)",
+        "literal_meaning": "Wind joining the fire.",
+        "figurative_meaning": "A bad situation becoming worse due to an external factor.",
+        "example": "Vaadi kopaniki nee maatalu agniki vayuvu thodainatlu ayyayi.",
+        "language": "Telugu"
+    },
+    {
+        "idiom": "ఎలుకకు పిల్లి సాక్షి (Elukaku pilli sakshi)",
+        "literal_meaning": "A cat standing as witness for a rat.",
+        "figurative_meaning": "An untrustworthy or compromised witness; a conflict of interest.",
+        "example": "Donga ki inko donga support cheyadam elukaku pilli sakshi lanti de.",
+        "language": "Telugu"
+    },
+    {
+        "idiom": "కీలెరిగి వాత పెట్టాలి (Keelerigi vatha pettali)",
+        "literal_meaning": "Find the joint and apply the brand.",
+        "figurative_meaning": "Speak or act precisely where it hurts or matters the most.",
+        "example": "Vaadi weakness thelusukuni keelerigi vatha pettadu.",
+        "language": "Telugu"
+    },
+    {
+        "idiom": "గొంగళిలో తింటూ వెంట్రుకలు ఏరుకున్నట్లు (Gongalilo thintu ventrukalu eerukunnatlu)",
+        "literal_meaning": "Eating from a wool blanket and picking out hairs.",
+        "figurative_meaning": "Complaining about inevitable minor flaws in a situation.",
+        "example": "Chinna thappulanu pattinchukoku, gongalilo thintu ventrukalu eerukunnatlu avuthundi.",
+        "language": "Telugu"
+    },
+    {
+        "idiom": "గుడ్డి ఎద్దు జొన్న చేలో పడ్డట్టు (Guddi eddu jonna chelo paddattu)",
+        "literal_meaning": "A blind ox falling into a cornfield.",
+        "figurative_meaning": "Doing things haphazardly and blindly ruining everything without direction.",
+        "example": "Vaadiki em theliyakunda paninatha paduchesadu, guddi eddu jonna chelo paddattu.",
+        "language": "Telugu"
+    },
+    {
+        "idiom": "తీయగా తీయగా రాగం, మూలగగా మూలగగా రోగం (Theeyaga theeyaga raagam, moolagaga moolagaga rogam)",
+        "literal_meaning": "Singing makes a tune sweet, groaning makes sickness worse.",
+        "figurative_meaning": "Practice makes perfect, but constant complaining breeds negativity.",
+        "example": "Eppudu edavaku, theeyaga theeyaga raagam moolagaga moolagaga rogam.",
+        "language": "Telugu"
+    },
+    {
+        "idiom": "మింగలేక కక్కలేక (Mingaleeka kakkaleeka)",
+        "literal_meaning": "Unable to swallow, unable to vomit.",
+        "figurative_meaning": "Being caught in an extremely difficult dilemma.",
+        "example": "Aa kothha rules tho staff mingaleeka kakkaleeka avastha paduthunnaru.",
+        "language": "Telugu"
+    },
+    {
+        "idiom": "ముందొచ్చిన చెవుల కన్నా వెనకొచ్చిన కొమ్ములు వాడి (Mundochina chevula kanna venakochina kommulu vaadi)",
+        "literal_meaning": "Horns that came later are sharper than the ears that came first.",
+        "figurative_meaning": "Newcomers or juniors outshining the seniors.",
+        "example": "Kothaga vachina kurradu senior kante baaga chestunnadu, mundochina chevula kanna venakochina kommulu vaadi.",
+        "language": "Telugu"
+    },
+    {
+        "idiom": "రొంపిలో పడ్డ పంది లాగా (Rompilo padda pandi laaga)",
+        "literal_meaning": "Like a pig stuck in mud.",
+        "figurative_meaning": "A person who is stuck in a messy situation and cannot escape.",
+        "example": "Appula baadhaltho rompilo padda pandi laaga thayarayyadu.",
+        "language": "Telugu"
+    },
+    {
+        "idiom": "పుండు మీద కారం చల్లినట్లు (Pundu meeda kaaram challinatlu)",
+        "literal_meaning": "Sprinkling chili powder on a wound.",
+        "figurative_meaning": "Adding insult to injury.",
+        "example": "Akkade badhalo unte nuvvu velli inka edipinchadam pundu meeda kaaram challinatlu.",
+        "language": "Telugu"
+    },
+    {
+        "idiom": "ఆకలి రుచి ఎరుగదు, నిద్ర సుఖమెరుగదు (Aakali ruchi erugadu, nidra sukhamerugadu)",
+        "literal_meaning": "Hunger knows no taste, sleep knows no comfort.",
+        "figurative_meaning": "When completely exhausted or starving, quality doesn't matter.",
+        "example": "Rendu rojulu nunchi nidra ledu, aakali ruchi erugadu nidra sukhamerugadu.",
+        "language": "Telugu"
+    },
+    {
+        "idiom": "ఆవు వ్యాకరణం చదివినట్లు (Aavu vyakaranam chadinatlu)",
+        "literal_meaning": "Like a cow studying grammar.",
+        "figurative_meaning": "Doing something completely out of one's depth or comprehension.",
+        "example": "Vaadiki science theliyadu, technical ga matladatam aavu vyakaranam chadinatlu.",
+        "language": "Telugu"
+    },
+    {
+        "idiom": "ఉన్న మాట చెబితే ఉలుకెక్కువ (Unna maata chebithe ulukekkuva)",
+        "literal_meaning": "Speaking the truth causes more irritation.",
+        "figurative_meaning": "People get angry when confronted with the bitter truth.",
+        "example": "Nenu nijam chebithe neeku kopam enduku, unna maata chebithe ulukekkuva.",
+        "language": "Telugu"
+    },
+    {
+        "idiom": "ఎక్కడ వేసిన గొంగళి అక్కడే ఉన్నట్లు (Ekkada vesina gongali akkade unnatlu)",
+        "literal_meaning": "The blanket remaining exactly where it was thrown.",
+        "figurative_meaning": "Zero progress made in a task over a long period of time.",
+        "example": "One year nunchi work chestunnam gani ekkada vesina gongali akkade unnatlu undi.",
+        "language": "Telugu"
+    },
+    {
+        "idiom": "ఏరు దాటాక బోడి మల్లన్న (Eru daataka bodi mallanna)",
+        "literal_meaning": "Calling the boatman 'bald Mallanna' after crossing the river.",
+        "figurative_meaning": "Being extremely ungrateful once a favor is received.",
+        "example": "Sahayam theesukoni ippudu nannu thidutunnava, eru daataka bodi mallanna.",
+        "language": "Telugu"
+    },
+    {
+        "idiom": "కడుపు చించుకుంటే కాళ్ళ మీద పడుతుంది (Kadupu chinchukunte kalla meeda paduthundi)",
+        "literal_meaning": "Tearing your own stomach drops things on your feet.",
+        "figurative_meaning": "Washing dirty linen in public only brings shame to your own family.",
+        "example": "Family godavalu bayata cheppaku, kadupu chinchukunte kalla meeda paduthundi.",
+        "language": "Telugu"
+    },
+    {
+        "idiom": "కుక్కను తెచ్చి సింహాసనం మీద కూర్చోబెట్టినట్లు (Kukkanu thechi simhasanam meeda kurchobettinatlu)",
+        "literal_meaning": "Bringing a dog and making it sit on a throne.",
+        "figurative_meaning": "Elevating an undeserving, ill-mannered person to a high position.",
+        "example": "Vaadiki promotion ivvadam kukkanu thechi simhasanam meeda kurchobettinatlu.",
+        "language": "Telugu"
+    },
+    {
+        "idiom": "కూటికి గతి లేదు, కులమెక్కువ (Kootiki gathi ledu, kulamekkuva)",
+        "literal_meaning": "No food to eat, but boastful of high caste.",
+        "figurative_meaning": "Having no actual wealth or success, but showing off false pride.",
+        "example": "Appulu chesi karchu chestunnadu, kootiki gathi ledu kulamekkuva.",
+        "language": "Telugu"
+    },
+    {
+        "idiom": "గుడిని, గుడిలో లింగాన్ని మింగే రకం (Gudini, gudilo linganni minge rakam)",
+        "literal_meaning": "The type to swallow the temple and the idol inside.",
+        "figurative_meaning": "An extremely corrupt and greedy person.",
+        "example": "Aa politician ni nammaku, gudini gudilo linganni minge rakam.",
+        "language": "Telugu"
+    },
+    {
+        "idiom": "చెట్టు పేరు చెప్పి కాయలు అమ్మినట్లు (Chettu peru cheppi kayalu amminatlu)",
+        "literal_meaning": "Selling fruits by taking the name of the tree.",
+        "figurative_meaning": "Using someone else's famous name or brand to benefit yourself.",
+        "example": "Vaadu nanna peru cheppukoni brathukestunnadu, chettu peru cheppi kayalu amminatlu.",
+        "language": "Telugu"
+    },
+    {
+        "idiom": "చేతికి ఎముక లేదు (Chethiki emuka ledu)",
+        "literal_meaning": "No bone in the hand.",
+        "figurative_meaning": "Being extremely generous and giving freely.",
+        "example": "Aayana dhanam ivvadamlo chethiki emuka ledu.",
+        "language": "Telugu"
+    },
+    {
+        "idiom": "తడి గుడ్డతో గొంతు కోయడం (Thadi guddatho gonthu koyadam)",
+        "literal_meaning": "Cutting a throat with a wet cloth.",
+        "figurative_meaning": "Betraying someone slowly and sweetly from the inside.",
+        "example": "Nuvvu friend ani nammithe thadi guddatho gonthu kosavu.",
+        "language": "Telugu"
+    },
+    {
+        "idiom": "తలలు బోడులైనా తలపులు బోడులా (Thalalu bodulaina thalapulu bodulaa)",
+        "literal_meaning": "Even if heads are bald, are thoughts bald?",
+        "figurative_meaning": "Outward simplicity doesn't mean a lack of intelligence or complex thoughts.",
+        "example": "Sanyasi ani theesipareyaku, thalalu bodulaina thalapulu bodulaa.",
+        "language": "Telugu"
+    },
+    {
+        "idiom": "తాడెత్తు ఎదిగినా బుద్ధెత్తు లేదు (Thaadetthu edigina buddhetthu ledu)",
+        "literal_meaning": "Grew as tall as a palm tree but no brain at all.",
+        "figurative_meaning": "Physical growth without corresponding mental maturity.",
+        "example": "Entha peddavadaivyo gani thaadetthu edigina buddhetthu ledu.",
+        "language": "Telugu"
+    },
+    {
+        "idiom": "నక్క ఎక్కడ, నాగలోకం ఎక్కడ (Nakka ekkada, nagalokam ekkada)",
+        "literal_meaning": "Where is the fox, and where is heaven?",
+        "figurative_meaning": "A mismatch of monumental proportions; comparing the lowest to the highest.",
+        "example": "Vaaditho nannu compare cheyaku, nakka ekkada nagalokam ekkada.",
+        "language": "Telugu"
+    },
+    {
+        "idiom": "నీటిలో మొసలి ఏనుగును పట్టుకుంటుంది (Neetilo mosali enugunu pattukuntundi)",
+        "literal_meaning": "In water, a crocodile can catch an elephant.",
+        "figurative_meaning": "Everyone is powerful on their home turf.",
+        "example": "Vaadi area lo vaade king, neetilo mosali enugunu pattukuntundi kadha.",
+        "language": "Telugu"
+    },
+    {
+        "idiom": "నోటితో నవ్వి నొసటితో వెక్కిరించినట్లు (Notitho navvi nosatitho vekkirinchinatlu)",
+        "literal_meaning": "Smiling with the mouth, mocking with the forehead.",
+        "figurative_meaning": "Being two-faced or hypocritical.",
+        "example": "Vaadu bayataki friend kani notitho navvi nosatitho vekkirinchinatlu chestadu.",
+        "language": "Telugu"
+    },
+    {
+        "idiom": "పండిత పుత్ర శుంఠ (Pandita putra shuntha)",
+        "literal_meaning": "The son of a scholar is a dunce.",
+        "figurative_meaning": "Genius is not always inherited.",
+        "example": "Aayana entho goppa scientist kani vaadi koduku pandita putra shuntha.",
+        "language": "Telugu"
+    },
+    {
+        "idiom": "పాలు తాగి రొమ్ము గుద్దినట్లు (Paalu thaagi rommu gudhinatlu)",
+        "literal_meaning": "Drinking milk and punching the breast.",
+        "figurative_meaning": "Biting the hand that feeds you.",
+        "example": "Company nunchi anni theesukoni vallane mosam chesadu, paalu thaagi rommu gudhinatlu.",
+        "language": "Telugu"
+    },
+    {
+        "idiom": "పెళ్లికి వెళ్తూ పిల్లిని చంకలో పెట్టుకెళ్ళినట్లు (Pelliki velthu pillini chankalo pettukellinatlu)",
+        "literal_meaning": "Carrying a cat in the armpit while going to a wedding.",
+        "figurative_meaning": "Carrying unnecessary trouble to an auspicious or good event.",
+        "example": "Akkada antha manchiga jaruguthunte ee issue thesthaventi, pelliki velthu pillini chankalo pettukellinatlu.",
+        "language": "Telugu"
+    },
+    {
+        "idiom": "మసి పూసి మారేడు కాయ చేసినట్లు (Masi poosi maredu kaya chesinatlu)",
+        "literal_meaning": "Smearing ash and passing it off as a bael fruit.",
+        "figurative_meaning": "Creating a fraudulent disguise or deceiving cleverly.",
+        "example": "Pazhaya bandi ki masi poosi maredu kaya chesinatlu ammesadu.",
+        "language": "Telugu"
+    },
+    {
+        "idiom": "రాజు తలుచుకుంటే దెబ్బలకు కొదవా (Raju thaluchukunte debbalaku kodavaa)",
+        "literal_meaning": "If the king wills it, is there a shortage of beatings?",
+        "figurative_meaning": "Absolute power dictates consequences effortlessly.",
+        "example": "Boss anukunte nuvvu fire avvadaniki entha sepu, raju thaluchukunte debbalaku kodavaa.",
+        "language": "Telugu"
+    },
+    {
+        "idiom": "రోకలికి చిగురు పుట్టినట్లు (Rokaliki chiguru puttinatlu)",
+        "literal_meaning": "Like a wooden pestle sprouting leaves.",
+        "figurative_meaning": "An absolutely impossible event.",
+        "example": "Vaadu exam pass ayyada? Rokaliki chiguru puttinatlu undi.",
+        "language": "Telugu"
+    },
+    {
+        "idiom": "వయసొస్తే వంకర కర్ర కూడా అందంగా ఉంటుంది (Vayasoste vankara karra kuda andanga untundi)",
+        "literal_meaning": "In youth, even a crooked stick looks beautiful.",
+        "figurative_meaning": "Youth imparts an automatic illusion of beauty.",
+        "example": "Pellidu vachaka evaraina andanga kanipistharu, vayasoste vankara karra kuda andanga untundi.",
+        "language": "Telugu"
+    },
+    {
+        "idiom": "వినేవాడు వెర్రివాడైతే, చెప్పేవాడు శివతత్వం చెప్పాడట (Vinevaadu verrivaadaithe, cheppevaadu shivatathvam cheppadata)",
+        "literal_meaning": "If the listener is a fool, the speaker claims to speak divine philosophy.",
+        "figurative_meaning": "Exploiting the ignorance of the audience with grand lies.",
+        "example": "Vaadu cheppevaanni nammuthunnaru, vinevaadu verrivaadaithe cheppevaadu shivatathvam cheppadata.",
+        "language": "Telugu"
+    },
+    {
+        "idiom": "శనగలు తింటూ శంఖం ఊదినట్లు (Sanagalu thintu shankham oodinatlu)",
+        "literal_meaning": "Eating chickpeas while blowing a conch.",
+        "figurative_meaning": "Trying to do two incompatible things at once and failing at both.",
+        "example": "Rendu full-time jobs okesari cheyalem, sanagalu thintu shankham oodinatlu avuthundi.",
+        "language": "Telugu"
+    },
+    {
+        "idiom": "సగం చదువు, సగం వైద్యం ప్రమాదకరం (Sagam chaduvu, sagam vaidyam pramadaakaram)",
+        "literal_meaning": "Half knowledge and half medicine are dangerous.",
+        "figurative_meaning": "Incomplete knowledge is worse than total ignorance.",
+        "example": "Sagam thelusukoni expert laga matladaku, sagam chaduvu sagam vaidyam pramadaakaram.",
+        "language": "Telugu"
+    },
+    {
+        "idiom": "సూది కోసం సోమవారం, దారం కోసం మంగళవారం (Soodi kosam somavaram, daaram kosam mangalavaram)",
+        "literal_meaning": "Monday for a needle, Tuesday for thread.",
+        "figurative_meaning": "Extreme laziness or procrastination.",
+        "example": "Oka chinna pani cheyadaniki intha thiruguthunnava, soodi kosam somavaram daaram kosam mangalavaram laaga.",
+        "language": "Telugu"
+    },
+    {
+        "idiom": "హంస నడక రాక, తన నడక మర్చిపోయినట్లు (Hamsa nadaka raaka, thana nadaka marchipoyinatlu)",
+        "literal_meaning": "Failing to learn the swan's walk, and forgetting one's own.",
+        "figurative_meaning": "Losing your originality while trying to imitate someone else.",
+        "example": "English accent try chesi sontha bhasha marchipoyadu, hamsa nadaka raaka thana nadaka marchipoyinatlu.",
+        "language": "Telugu"
+    },
+    {
+        "idiom": "చేతిలో చిల్లిగవ్వ లేదు, చంకలో జమిందారీ (Chethilo chilligavva ledu, chankalo jamindaari)",
+        "literal_meaning": "Not a penny in hand, but the attitude of a landlord.",
+        "figurative_meaning": "Being broke but putting on wealthy airs.",
+        "example": "Bike ki petrol ledu gani Apple watch kavali, chethilo chilligavva ledu chankalo jamindaari.",
+        "language": "Telugu"
+    },
+    {
+        "idiom": "కోతికి కొబ్బరికాయ ఇచ్చినట్లు (Kothiki kobbarikaya ichinatlu)",
+        "literal_meaning": "Giving a coconut to a monkey.",
+        "figurative_meaning": "Giving something valuable to someone who doesn't know how to use it.",
+        "example": "Vaadiki kothha phone isthe break chesadu, kothiki kobbarikaya ichinatlu.",
+        "language": "Telugu"
+    },
+    {
+        "idiom": "గతం గతః (Gatham gathaha)",
+        "literal_meaning": "The past is past.",
+        "figurative_meaning": "Let bygones be bygones; don't dwell on the past.",
+        "example": "Jarigindedo jarigipoyindi, gatham gathaha anukoni munduku vellu.",
+        "language": "Telugu"
+    },
+    {
+        "idiom": "ముందు నుయ్యి, వెనుక గొయ్యి (Mundu nuyyi, venuka goyyi)",
+        "literal_meaning": "A well in front, a ditch behind.",
+        "figurative_meaning": "Caught between the devil and the deep blue sea.",
+        "example": "Ippudu job quit cheyalenu, ala ani continue avvalenu, mundu nuyyi venuka goyyi la undi.",
+        "language": "Telugu"
+    }
 ]

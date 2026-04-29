@@ -43834,6 +43834,94 @@ Others merely shrug off questions with ‘ your guess is as good as mine’.,en,
 പൂവിന്റെ മണം,ml,Something beautiful or pleasant.,en,1,പൂവിന്റെ മണം,train,Kaggle-Indian-Idioms
 കണ്ണിൽ കുളിക്കുക,ml,To be very close or dear.,en,1,കണ്ണിൽ കുളിക്കുക,train,Kaggle-Indian-Idioms
 പുഴയിൽ ഒഴുകുക,ml,To go with the flow or adapt.,en,1,പുഴയിൽ ഒഴുകുക,train,Kaggle-Indian-Idioms
+മുറ്റത്തെ മുല്ലയ്ക്ക് മണമില്ല (Muttathe mullakku manamilla),ml,Familiarity breeds contempt; undervaluing what is easily available.,en,1,മുറ്റത്തെ മുല്ലയ്ക്ക് മണമില്ല (Muttathe mullakku manamilla),train,Kaggle-Indian-Idioms
+പല തുള്ളി പെരുവെള്ളം (Pala thulli peru vellam),ml,Little contributions add up to a massive result.,en,1,പല തുള്ളി പെരുവെള്ളം (Pala thulli peru vellam),train,Kaggle-Indian-Idioms
+മിന്നുന്നതെല്ലാം പൊന്നല്ല (Minnunnathellam ponnalla),ml,Appearances can be deceptive.,en,1,മിന്നുന്നതെല്ലാം പൊന്നല്ല (Minnunnathellam ponnalla),train,Kaggle-Indian-Idioms
+കാക്കയ്ക്കും തൻ കുഞ്ഞ് പൊൻകുഞ്ഞ് (Kakkakkum than kunju pon kunju),ml,"Everyone loves their own offspring dearly, regardless of flaws.",en,1,കാക്കയ്ക്കും തൻ കുഞ്ഞ് പൊൻകുഞ്ഞ് (Kakkakkum than kunju pon kunju),train,Kaggle-Indian-Idioms
+എരിയുന്ന തീയിൽ എണ്ണ ഒഴിക്കുക (Eriyunna theeyil enna ozhikkuka),ml,To make a bad situation worse; adding fuel to the fire.,en,1,എരിയുന്ന തീയിൽ എണ്ണ ഒഴിക്കുക (Eriyunna theeyil enna ozhikkuka),train,Kaggle-Indian-Idioms
+കഴുതയ്ക്കറിയാമോ കർപ്പൂരത്തിന്റെ മണം (Kazhuthaykkariyamoo karpoorathinte manam),ml,An uncultured person cannot appreciate the value of fine things.,en,1,കഴുതയ്ക്കറിയാമോ കർപ്പൂരത്തിന്റെ മണം (Kazhuthaykkariyamoo karpoorathinte manam),train,Kaggle-Indian-Idioms
+മിണ്ടാപ്പൂച്ച കലം ഉ‌ടയ്ക്കും (Minda poocha kalam udaikkum),ml,Quiet people can sometimes be the most mischievous or surprising.,en,1,മിണ്ടാപ്പൂച്ച കലം ഉ‌ടയ്ക്കും (Minda poocha kalam udaikkum),train,Kaggle-Indian-Idioms
+പാമ്പിന്റെ കാല് പാമ്പറിയും (Paambinte kaalu paambariyum),ml,It takes one to know one; people of similar nature understand each other.,en,1,പാമ്പിന്റെ കാല് പാമ്പറിയും (Paambinte kaalu paambariyum),train,Kaggle-Indian-Idioms
+വേലിയിൽ ഇരുന്ന പാമ്പിനെ എടുത്തു തോളിൽ വയ്ക്കുക (Veliyil irunna paambine eduthu tholil vaykuka),ml,To unnecessarily invite trouble into one's life.,en,1,വേലിയിൽ ഇരുന്ന പാമ്പിനെ എടുത്തു തോളിൽ വയ്ക്കുക (Veliyil irunna paambine eduthu tholil vaykuka),train,Kaggle-Indian-Idioms
+ചക്ക വീണത് മുയൽ ചത്തത് (Chakka veenathu muyal chathathu),ml,A pure coincidence mistaken for cause and effect.,en,1,ചക്ക വീണത് മുയൽ ചത്തത് (Chakka veenathu muyal chathathu),train,Kaggle-Indian-Idioms
+വേലി തന്നെ വിളവു തിന്നുക (Veli thanne vilavu thinnuka),ml,The protector turning into the predator.,en,1,വേലി തന്നെ വിളവു തിന്നുക (Veli thanne vilavu thinnuka),train,Kaggle-Indian-Idioms
+കാക്ക കുളിച്ചാൽ കൊക്കാകുമോ (Kaakka kulichal kokkakumo),ml,You cannot change someone's inherent nature with superficial changes.,en,1,കാക്ക കുളിച്ചാൽ കൊക്കാകുമോ (Kaakka kulichal kokkakumo),train,Kaggle-Indian-Idioms
+വൈദ്യൻ കല്പിച്ചതും രോഗി ഇച്ഛിച്ചതും പാല് (Vaidyan kalpichathum rogi ichichathum paalu),ml,A win-win situation where advice perfectly matches desires.,en,1,വൈദ്യൻ കല്പിച്ചതും രോഗി ഇച്ഛിച്ചതും പാല് (Vaidyan kalpichathum rogi ichichathum paalu),train,Kaggle-Indian-Idioms
+ഉള്ളതുകൊണ്ട് ഓണം പോലെ (Ullathukondu onam pole),ml,Make the best out of what you have.,en,1,ഉള്ളതുകൊണ്ട് ഓണം പോലെ (Ullathukondu onam pole),train,Kaggle-Indian-Idioms
+അക്കരെ നിന്നാൽ ഇക്കരെ പച്ച (Akkare ninnal ikkare paccha),ml,The grass is always greener on the other side.,en,1,അക്കരെ നിന്നാൽ ഇക്കരെ പച്ച (Akkare ninnal ikkare paccha),train,Kaggle-Indian-Idioms
+ആന മെലിഞ്ഞാൽ തൊഴുത്തിൽ കെട്ടാമോ (Aana melinjal thozhuthil kettamo),ml,"Even in decline, a great person or thing retains their inherent stature.",en,1,ആന മെലിഞ്ഞാൽ തൊഴുത്തിൽ കെട്ടാമോ (Aana melinjal thozhuthil kettamo),train,Kaggle-Indian-Idioms
+പടപേടിച്ച് പന്തളത്ത് ചെന്നപ്പോൾ അവിടെ പന്തം കൊളുത്തി പട (Pada pedichu panthalathu chennappol avide pantham koluthi pada),ml,Out of the frying pan and into the fire.,en,1,പടപേടിച്ച് പന്തളത്ത് ചെന്നപ്പോൾ അവിടെ പന്തം കൊളുത്തി പട (Pada pedichu panthalathu chennappol avide pantham koluthi pada),train,Kaggle-Indian-Idioms
+നായ്ക്കenthu തേങ്ങ (Naaykkenthu thenga),ml,Giving something valuable to someone who cannot appreciate or use it.,en,1,നായ്ക്കenthu തേങ്ങ (Naaykkenthu thenga),train,Kaggle-Indian-Idioms
+താൻ പിടിച്ച മുയലിന് കൊമ്പ് മൂന്ന് (Thaan pidicha muyalinu kombu moonnu),ml,Stubbornly clinging to a false or absurd claim.,en,1,താൻ പിടിച്ച മുയലിന് കൊമ്പ് മൂന്ന് (Thaan pidicha muyalinu kombu moonnu),train,Kaggle-Indian-Idioms
+ചുട്ടയിലെ ശീലം ചുടല വരെ (Chuttayile sheelam chudala vare),ml,Old habits die hard.,en,1,ചുട്ടയിലെ ശീലം ചുടല വരെ (Chuttayile sheelam chudala vare),train,Kaggle-Indian-Idioms
+എലിയെ പേടിച്ച് ഇല്ലം ചുടുക (Eliye pedichu illam chuduka),ml,Taking an extreme or destructive measure to solve a small problem.,en,1,എലിയെ പേടിച്ച് ഇല്ലം ചുടുക (Eliye pedichu illam chuduka),train,Kaggle-Indian-Idioms
+ഓടുന്ന നായയ്ക്ക് ഒരു മുഴം മുമ്പേ (Odunna naayakku oru muzham mumpe),ml,Being highly proactive; anticipating actions before they happen.,en,1,ഓടുന്ന നായയ്ക്ക് ഒരു മുഴം മുമ്പേ (Odunna naayakku oru muzham mumpe),train,Kaggle-Indian-Idioms
+കരിമ്പു കാട്ടിൽ ആന കയറിയതു പോലെ (Karimbu kattil aana kayariyathu pole),ml,Being in a state of absolute joy with unlimited access to what one loves.,en,1,കരിമ്പു കാട്ടിൽ ആന കയറിയതു പോലെ (Karimbu kattil aana kayariyathu pole),train,Kaggle-Indian-Idioms
+പട്ടി കുരച്ചാൽ പല്ലക്ക് നിൽക്കുമോ (Patti kurachal pallakku nilkkumo),ml,The progress of the great will not be stopped by the criticism of the insignificant.,en,1,പട്ടി കുരച്ചാൽ പല്ലക്ക് നിൽക്കുമോ (Patti kurachal pallakku nilkkumo),train,Kaggle-Indian-Idioms
+കുറുക്കന്റെ കണ്ണ് കോഴിക്കൂട്ടിൽ (Kurukkante kannu kozhikkoottil),ml,A person with ulterior motives always focuses on their target.,en,1,കുറുക്കന്റെ കണ്ണ് കോഴിക്കൂട്ടിൽ (Kurukkante kannu kozhikkoottil),train,Kaggle-Indian-Idioms
+തലയിരിക്കുമ്പോൾ വാലാടരുത് (Thalayirikkumbol vaaladaruthu),ml,Subordinates should not overstep when the leader is present.,en,1,തലയിരിക്കുമ്പോൾ വാലാടരുത് (Thalayirikkumbol vaaladaruthu),train,Kaggle-Indian-Idioms
+പാല് കുടിച്ച പാമ്പും കടിക്കും (Paalu kudicha paambum kadikkum),ml,A wicked person will betray you even if you treat them well.,en,1,പാല് കുടിച്ച പാമ്പും കടിക്കും (Paalu kudicha paambum kadikkum),train,Kaggle-Indian-Idioms
+മീൻ കുഞ്ഞിനെ നീന്താൻ പഠിപ്പിക്കണോ (Meen kunjine neenthan padippikkano),ml,You don't need to teach someone what they are naturally talented at.,en,1,മീൻ കുഞ്ഞിനെ നീന്താൻ പഠിപ്പിക്കണോ (Meen kunjine neenthan padippikkano),train,Kaggle-Indian-Idioms
+ഒരുമയുണ്ടെങ്കിൽ ഉലക്കമേലും കിടക്കാം (Orumayundengil ulakkamelum kidakkam),ml,Any difficult situation is manageable if people stand united.,en,1,ഒരുമയുണ്ടെങ്കിൽ ഉലക്കമേലും കിടക്കാം (Orumayundengil ulakkamelum kidakkam),train,Kaggle-Indian-Idioms
+മുങ്ങിച്ചാവാൻ പോകുന്നവൻ കച്ചിത്തുരുമ്പും പിടിക്കും (Mungichavan pokunnavan kachithurumbum pidikkum),ml,A desperate person will try any small chance to save themselves.,en,1,മുങ്ങിച്ചാവാൻ പോകുന്നവൻ കച്ചിത്തുരുമ്പും പിടിക്കും (Mungichavan pokunnavan kachithurumbum pidikkum),train,Kaggle-Indian-Idioms
+കാക്ക മലർന്നു പറക്കുമോ (Kaakka malarnnu parakkumo),ml,Something that is completely impossible.,en,1,കാക്ക മലർന്നു പറക്കുമോ (Kaakka malarnnu parakkumo),train,Kaggle-Indian-Idioms
+ഉപ്പു തിന്നവൻ വെള്ളം കുടിക്കും (Uppu thinnavan vellam kudikkum),ml,You will have to face the consequences of your wrong actions.,en,1,ഉപ്പു തിന്നവൻ വെള്ളം കുടിക്കും (Uppu thinnavan vellam kudikkum),train,Kaggle-Indian-Idioms
+അണ്ണാറക്കണ്ണനും തന്നാലായത് (Annarakkannanum thannalayathu),ml,Every small contribution matters.,en,1,അണ്ണാറക്കണ്ണനും തന്നാലായത് (Annarakkannanum thannalayathu),train,Kaggle-Indian-Idioms
+വേരറുത്ത മരം പോലെ (Verarutha maram pole),ml,Completely helpless and falling.,en,1,വേരറുത്ത മരം പോലെ (Verarutha maram pole),train,Kaggle-Indian-Idioms
+മുള്ളു കൊണ്ടു മുള്ളെടുക്കണം (Mullu kondu mulledukkanam),ml,Fight fire with fire; use a bad thing to cure another bad thing.,en,1,മുള്ളു കൊണ്ടു മുള്ളെടുക്കണം (Mullu kondu mulledukkanam),train,Kaggle-Indian-Idioms
+കാറ്റുളളപ്പോൾ പാറ്റണം (Kattullappol pattanam),ml,Make hay while the sun shines; seize the opportunity.,en,1,കാറ്റുളളപ്പോൾ പാറ്റണം (Kattullappol pattanam),train,Kaggle-Indian-Idioms
+ആശാന് അടുപ്പിലും ആവാം (Aashaanu aduppilum aavam),ml,Experts or masters are granted exceptions to the rules.,en,1,ആശാന് അടുപ്പിലും ആവാം (Aashaanu aduppilum aavam),train,Kaggle-Indian-Idioms
+തിളച്ച വെള്ളത്തിൽ വീണ പൂച്ച പച്ചവെള്ളം കണ്ടാലും പേടിക്കും (Thilacha vellathil veena poocha pachavellam kandalum pedikkum),ml,"Once bitten, twice shy.",en,1,തിളച്ച വെള്ളത്തിൽ വീണ പൂച്ച പച്ചവെള്ളം കണ്ടാലും പേടിക്കും (Thilacha vellathil veena poocha pachavellam kandalum pedikkum),train,Kaggle-Indian-Idioms
+നനഞ്ഞെടം കുഴിക്കുക (Nananjedam kuzhikkuka),ml,Taking the easy way out; exploiting a vulnerable person.,en,1,നനഞ്ഞെടം കുഴിക്കുക (Nananjedam kuzhikkuka),train,Kaggle-Indian-Idioms
+പൊന്നുരുക്കുന്നിടത്ത് പൂച്ചക്കെന്തു കാര്യം (Ponnurukkunnidathu poochakkenthu karyam),ml,What business does an ignorant/irrelevant person have in serious matters?,en,1,പൊന്നുരുക്കുന്നിടത്ത് പൂച്ചക്കെന്തു കാര്യം (Ponnurukkunnidathu poochakkenthu karyam),train,Kaggle-Indian-Idioms
+വാളെടുക്കുന്നവൻ വാളാൽ (Valedukkunnavan valal),ml,Those who commit violence will eventually suffer from it.,en,1,വാളെടുക്കുന്നവൻ വാളാൽ (Valedukkunnavan valal),train,Kaggle-Indian-Idioms
+ശ്വാനന്റെ വാല് പന്തീരാണ്ട് കുഴലിലിട്ടാലും വളഞ്ഞു തന്നെ (Shwanante vaalu pantheerandu kuzhalilittalum valanju thanne),ml,You cannot change the fundamental bad nature of a person.,en,1,ശ്വാനന്റെ വാല് പന്തീരാണ്ട് കുഴലിലിട്ടാലും വളഞ്ഞു തന്നെ (Shwanante vaalu pantheerandu kuzhalilittalum valanju thanne),train,Kaggle-Indian-Idioms
+ചക്കിക്കൊത്ത ചങ്കരൻ (Chakkikkotha Chankaran),ml,"Made for each other, usually used for two similarly flawed people.",en,1,ചക്കിക്കൊത്ത ചങ്കരൻ (Chakkikkotha Chankaran),train,Kaggle-Indian-Idioms
+ഇരുന്നിട്ടു വേണം കാലു നീട്ടാൻ (Irunnittu venam kaalu neettan),ml,Secure your position before demanding more or acting arrogant.,en,1,ഇരുന്നിട്ടു വേണം കാലു നീട്ടാൻ (Irunnittu venam kaalu neettan),train,Kaggle-Indian-Idioms
+കുളക്കോഴിക്ക് എന്ത് കുളിക്കടവ് (Kulakkozhikku enthu kulikkadavu),ml,A person who is always wandering has no fixed home or boundaries.,en,1,കുളക്കോഴിക്ക് എന്ത് കുളിക്കടവ് (Kulakkozhikku enthu kulikkadavu),train,Kaggle-Indian-Idioms
+വെളുക്കാൻ തേച്ചത് പാണ്ടായി (Velukkan thechathu paandaayi),ml,An attempt to improve a situation made it disastrously worse.,en,1,വെളുക്കാൻ തേച്ചത് പാണ്ടായി (Velukkan thechathu paandaayi),train,Kaggle-Indian-Idioms
+അൽപ്പന് അർത്ഥം കിട്ടിയാൽ അർദ്ധരാത്രിക്ക് കുട പിടിക്കും (Alpanu artham kittiyal ardharathrikku kuda pidikkum),ml,"When an undeserving person gets sudden wealth, they show off foolishly.",en,1,അൽപ്പന് അർത്ഥം കിട്ടിയാൽ അർദ്ധരാത്രിക്ക് കുട പിടിക്കും (Alpanu artham kittiyal ardharathrikku kuda pidikkum),train,Kaggle-Indian-Idioms
+ഉറുമ്പിനും തന്റെ ജീവൻ വലുതാണ് (Urumbinum thante jeevan valuthaanu),ml,"Every living being values its own existence, no matter how small.",en,1,ഉറുമ്പിനും തന്റെ ജീവൻ വലുതാണ് (Urumbinum thante jeevan valuthaanu),train,Kaggle-Indian-Idioms
+ചുട്ടു തിന്നാലും വാസന പോവില്ല (Chuttu thinnalum vaasana povilla),ml,Deep-rooted bad habits cannot be eradicated easily.,en,1,ചുട്ടു തിന്നാലും വാസന പോവില്ല (Chuttu thinnalum vaasana povilla),train,Kaggle-Indian-Idioms
+പുര കത്തുമ്പോൾ വാഴ വെട്ടുക (Pura kathumbol vazha vettuka),ml,Selfishly taking advantage of someone else's disaster.,en,1,പുര കത്തുമ്പോൾ വാഴ വെട്ടുക (Pura kathumbol vazha vettuka),train,Kaggle-Indian-Idioms
+അടി തെറ്റിയാൽ ആനയും വീഴും (Adi thettiyaal aaneyum veezhum),ml,Even the strongest or most experienced person can fail if they are careless.,en,1,അടി തെറ്റിയാൽ ആനയും വീഴും (Adi thettiyaal aaneyum veezhum),train,Kaggle-Indian-Idioms
+അക്കരെ നിൽക്കുമ്പോൾ ഇക്കരെ പച്ച (Akkare nilkkumpol ikkare pacha),ml,The grass is always greener on the other side.,en,1,അക്കരെ നിൽക്കുമ്പോൾ ഇക്കരെ പച്ച (Akkare nilkkumpol ikkare pacha),train,Kaggle-Indian-Idioms
+അനുഭവം ആണ് മഹാ ഗുരു (Anubhavam aanu mahaa guru),ml,You learn the best lessons from your own experiences.,en,1,അനുഭവം ആണ് മഹാ ഗുരു (Anubhavam aanu mahaa guru),train,Kaggle-Indian-Idioms
+ഏഴാം അറിവ് അനുഭവമാണ് (Ezham arivu anubhavamaanu),ml,True wisdom comes from personal experience.,en,1,ഏഴാം അറിവ് അനുഭവമാണ് (Ezham arivu anubhavamaanu),train,Kaggle-Indian-Idioms
+കണ്ണുള്ളപ്പോൾ കണ്ണിന്റെ വില അറിയില്ല (Kannullappol kanninte vila ariyilla),ml,People don't appreciate what they have until they lose it.,en,1,കണ്ണുള്ളപ്പോൾ കണ്ണിന്റെ വില അറിയില്ല (Kannullappol kanninte vila ariyilla),train,Kaggle-Indian-Idioms
+പുഴു തിന്നാത്ത പഴം ഇല്ല (Puzhu thinnatha pazham illa),ml,No one is completely flawless or perfect.,en,1,പുഴു തിന്നാത്ത പഴം ഇല്ല (Puzhu thinnatha pazham illa),train,Kaggle-Indian-Idioms
+അരയ്ക്കുന്ന കല്ല് പൊടിക്കും (Araykkunna kall podikkum),ml,Consistent hard work will eventually yield results.,en,1,അരയ്ക്കുന്ന കല്ല് പൊടിക്കും (Araykkunna kall podikkum),train,Kaggle-Indian-Idioms
+അട്ടയെപ്പിടിച്ച് മെത്തയിൽ കിടത്തിയാൽ കിടക്കുമോ (Attayepidichu methayil kidathiyaal kidakkumo),ml,People naturally revert to their own base environments or habits.,en,1,അട്ടയെപ്പിടിച്ച് മെത്തയിൽ കിടത്തിയാൽ കിടക്കുമോ (Attayepidichu methayil kidathiyaal kidakkumo),train,Kaggle-Indian-Idioms
+ആന വായയിൽ അമ്പഴങ്ങ (Aana vayil ampazhanga),ml,An amount that is absurdly too small for a huge need.,en,1,ആന വായയിൽ അമ്പഴങ്ങ (Aana vayil ampazhanga),train,Kaggle-Indian-Idioms
+കുരയ്ക്കുന്ന പട്ടി കടിക്കില്ല (Kuraykkunna patti kadikkilla),ml,People who make a lot of noise or threats rarely take action.,en,1,കുരയ്ക്കുന്ന പട്ടി കടിക്കില്ല (Kuraykkunna patti kadikkilla),train,Kaggle-Indian-Idioms
+കനകം മൂലം കാമിനി മൂലം (Kanakam moolam kaamini moolam),ml,Wealth and women are the root causes of all conflicts in the world.,en,1,കനകം മൂലം കാമിനി മൂലം (Kanakam moolam kaamini moolam),train,Kaggle-Indian-Idioms
+ആളറിയാതെ ആളെ കൊല്ലരുത് (Aalariyathe aale kollaruthu),ml,Do not judge or punish someone before knowing the full truth about them.,en,1,ആളറിയാതെ ആളെ കൊല്ലരുത് (Aalariyathe aale kollaruthu),train,Kaggle-Indian-Idioms
+കണ്ടതറിയാത്തവൻ കൊണ്ടതറിയും (Kandathariyathavan kondathariyum),ml,"Some people only learn their lesson the hard way, through painful experience.",en,1,കണ്ടതറിയാത്തവൻ കൊണ്ടതറിയും (Kandathariyathavan kondathariyum),train,Kaggle-Indian-Idioms
+കാക്കയ്ക്കും കോഴിക്കും കല്ല്യാണം (Kaakkakkum kozhikkum kallyaanam),ml,"A completely chaotic, mismatched, or absurd situation.",en,1,കാക്കയ്ക്കും കോഴിക്കും കല്ല്യാണം (Kaakkakkum kozhikkum kallyaanam),train,Kaggle-Indian-Idioms
+കൈപ്പുള്ളവനേ മധുരത്തിന്റെ വിലയറിയൂ (Kaippullavane madhurathinte vilayariyu),ml,Only those who have suffered know the true value of happiness.,en,1,കൈപ്പുള്ളവനേ മധുരത്തിന്റെ വിലയറിയൂ (Kaippullavane madhurathinte vilayariyu),train,Kaggle-Indian-Idioms
+കാട്ടിലെ തടി തേവരുടെ ആന (Kaattile thadi thevarude aana),ml,Carelessly spending or destroying property that belongs to someone else.,en,1,കാട്ടിലെ തടി തേവരുടെ ആന (Kaattile thadi thevarude aana),train,Kaggle-Indian-Idioms
+ചോദിക്കാൻ ആളില്ലെങ്കിൽ അമ്പലവാസി എന്തും ചെയ്യും (Chodikkan aalillengil ambalavaasi enthum cheyyum),ml,"Without oversight or accountability, people will abuse their power.",en,1,ചോദിക്കാൻ ആളില്ലെങ്കിൽ അമ്പലവാസി എന്തും ചെയ്യും (Chodikkan aalillengil ambalavaasi enthum cheyyum),train,Kaggle-Indian-Idioms
+താൻ കുഴിച്ച കുഴിയിൽ താൻ തന്നെ വീഴും (Thaan kuzhicha kuzhiyil thaan thanne veezhum),ml,"Karma; if you plot against others, you will ruin yourself.",en,1,താൻ കുഴിച്ച കുഴിയിൽ താൻ തന്നെ വീഴും (Thaan kuzhicha kuzhiyil thaan thanne veezhum),train,Kaggle-Indian-Idioms
+നൂറു വട്ടം അറുത്താലും കൊതുകിന്റെ കാല് (Nooru vattam aruthalum kothukinte kaalu),ml,Something insignificant will remain insignificant no matter what you do.,en,1,നൂറു വട്ടം അറുത്താലും കൊതുകിന്റെ കാല് (Nooru vattam aruthalum kothukinte kaalu),train,Kaggle-Indian-Idioms
+പുലിവാല് പിടിച്ചതുപോലെ (Pulivaalu pidichathupole),ml,Being caught in a dangerous situation where you can neither hold on nor let go.,en,1,പുലിവാല് പിടിച്ചതുപോലെ (Pulivaalu pidichathupole),train,Kaggle-Indian-Idioms
+വടിയെടുത്തു വാഴ വെട്ടരുത് (Vadiyeduthu vazha vettaruthu),ml,Do not do foolish things; use the right tools for the right job.,en,1,വടിയെടുത്തു വാഴ വെട്ടരുത് (Vadiyeduthu vazha vettaruthu),train,Kaggle-Indian-Idioms
+തല പോയാലും ചിരി മാറില്ല (Thala poyalum chiri maarilla),ml,A deeply ingrained habit or characteristic persists until the very end.,en,1,തല പോയാലും ചിരി മാറില്ല (Thala poyalum chiri maarilla),train,Kaggle-Indian-Idioms
+പാലം കടക്കുവോളം നാരായണ നാരായണ (Paalam kadakkuvolam Narayana Narayana),ml,Acting humble and devoted only as long as you are in danger or need help.,en,1,പാലം കടക്കുവോളം നാരായണ നാരായണ (Paalam kadakkuvolam Narayana Narayana),train,Kaggle-Indian-Idioms
+പത്തായത്തിൽ നെല്ലുണ്ടെങ്കിൽ എലി വയനാട്ടിൽ നിന്നും വരും (Pathayathil nellundengil eli wayanattil ninnum varum),ml,"If you are wealthy or successful, people will find you no matter where you are.",en,1,പത്തായത്തിൽ നെല്ലുണ്ടെങ്കിൽ എലി വയനാട്ടിൽ നിന്നും വരും (Pathayathil nellundengil eli wayanattil ninnum varum),train,Kaggle-Indian-Idioms
+വെള്ളത്തിൽ വരച്ച വര പോലെ (Vellathil varacha vara pole),ml,Something that disappears instantly; fleeting and impermanent.,en,1,വെള്ളത്തിൽ വരച്ച വര പോലെ (Vellathil varacha vara pole),train,Kaggle-Indian-Idioms
+മാതാവിനേക്കാൾ വലിയ ദൈവമില്ല (Maathavinekkaal valiya daivamilla),ml,A mother is the supreme figure of love and reverence.,en,1,മാതാവിനേക്കാൾ വലിയ ദൈവമില്ല (Maathavinekkaal valiya daivamilla),train,Kaggle-Indian-Idioms
+കണ്ണടച്ചാൽ ഇരുട്ടാവില്ല (Kannadachal iruttaavilla),ml,Ignoring a problem does not make it go away.,en,1,കണ്ണടച്ചാൽ ഇരുട്ടാവില്ല (Kannadachal iruttaavilla),train,Kaggle-Indian-Idioms
+പെറ്റ തള്ളയ്ക്ക് അറിയാം പിള്ളയുടെ വേദന (Petta thallakku ariyaam pillayude vedana),ml,Only the person intimately involved in a situation truly understands the struggle.,en,1,പെറ്റ തള്ളയ്ക്ക് അറിയാം പിള്ളയുടെ വേദന (Petta thallakku ariyaam pillayude vedana),train,Kaggle-Indian-Idioms
+തേൻ എടുത്തവൻ കൈ നക്കും (Then eduthavan kai nakkum),ml,People managing money or resources will naturally take a small cut for themselves.,en,1,തേൻ എടുത്തവൻ കൈ നക്കും (Then eduthavan kai nakkum),train,Kaggle-Indian-Idioms
+തലക്കനം വന്നാൽ തറയറിയില്ല (Thalakkanam vannal tharayariyilla),ml,"When success goes to someone's head, they forget their humble beginnings.",en,1,തലക്കനം വന്നാൽ തറയറിയില്ല (Thalakkanam vannal tharayariyilla),train,Kaggle-Indian-Idioms
+നാട് ഓടുമ്പോൾ നടുവേ ഓടണം (Naadu odumbol naduve odanam),ml,You should adapt to the customs and trends of the society you live in.,en,1,നാട് ഓടുമ്പോൾ നടുവേ ഓടണം (Naadu odumbol naduve odanam),train,Kaggle-Indian-Idioms
+വിദ്വാന് എവിടെയും സ്ഥാനം (Vidwanu evideyum sthaanam),ml,Knowledge and talent will bring respect regardless of location.,en,1,വിദ്വാന് എവിടെയും സ്ഥാനം (Vidwanu evideyum sthaanam),train,Kaggle-Indian-Idioms
+ഇരിക്കുന്ന കൊമ്പ് മുറിക്കരുത് (Irikkunna kombu murikkaruthu),ml,Do not destroy the very thing that supports you.,en,1,ഇരിക്കുന്ന കൊമ്പ് മുറിക്കരുത് (Irikkunna kombu murikkaruthu),train,Kaggle-Indian-Idioms
+കൈ വിട്ട ആയുധം പോലെ (Kai vitta aayudham pole),ml,Words once spoken or actions once taken cannot be reversed.,en,1,കൈ വിട്ട ആയുധം പോലെ (Kai vitta aayudham pole),train,Kaggle-Indian-Idioms
+കാറ്റിനൊത്ത് പായ വിരിക്കുക (Kaattinothu paaya virikkuka),ml,Adapt your actions according to the changing circumstances.,en,1,കാറ്റിനൊത്ത് പായ വിരിക്കുക (Kaattinothu paaya virikkuka),train,Kaggle-Indian-Idioms
+താൻ പാതി ദൈവം പാതി (Thaan paathi daivam paathi),ml,"You must put in the effort, and God will take care of the rest.",en,1,താൻ പാതി ദൈവം പാതി (Thaan paathi daivam paathi),train,Kaggle-Indian-Idioms
+പയ്യെ തിന്നാൽ പനയും തിന്നാം (Payye thinnal panayum thinnam),ml,"With patience and perseverance, you can achieve impossible things.",en,1,പയ്യെ തിന്നാൽ പനയും തിന്നാം (Payye thinnal panayum thinnam),train,Kaggle-Indian-Idioms
+മോങ്ങാനിരുന്ന നായയുടെ തലയിൽ തേങ്ങ വീണു (Mongaanirunna naayayude thalayil thenga veenu),ml,Providing a ready excuse for someone who was already looking for a reason to complain.,en,1,മോങ്ങാനിരുന്ന നായയുടെ തലയിൽ തേങ്ങ വീണു (Mongaanirunna naayayude thalayil thenga veenu),train,Kaggle-Indian-Idioms
 గొంతు కట్టడం,te,To face a difficult situation bravely.,en,1,గొంతు కట్టడం,train,Kaggle-Indian-Idioms
 చెట్టు కింద కూర్చోవడం,te,To take shelter or rest.,en,1,చెట్టు కింద కూర్చోవడం,train,Kaggle-Indian-Idioms
 వాటిని పక్కన పెట్టడం,te,Ignoring distractions or irrelevant matters.,en,1,వాటిని పక్కన పెట్టడం,train,Kaggle-Indian-Idioms
@@ -43844,6 +43932,93 @@ Others merely shrug off questions with ‘ your guess is as good as mine’.,en,
 అల్లుడు కొట్టడం,te,To blame someone for problems they didn't cause.,en,1,అల్లుడు కొట్టడం,train,Kaggle-Indian-Idioms
 పచ్చి మిరపకాయలు,te,Something that is fresh and lively.,en,1,పచ్చి మిరపకాయలు,train,Kaggle-Indian-Idioms
 మంచి పనికి ముద్ర వేయడం,te,To acknowledge or validate good work.,en,1,మంచి పనికి ముద్ర వేయడం,train,Kaggle-Indian-Idioms
+కుక్క తోక వంకర (Kukka thoka vankara),te,Old habits die hard; a person's basic nature cannot be changed easily.,en,1,కుక్క తోక వంకర (Kukka thoka vankara),train,Kaggle-Indian-Idioms
+అందని ద్రాక్ష పండ్లు పుల్లన (Andani draksha pandlu pullana),te,Disparaging what you cannot achieve; sour grapes.,en,1,అందని ద్రాక్ష పండ్లు పుల్లన (Andani draksha pandlu pullana),train,Kaggle-Indian-Idioms
+చేతులు కాలాక ఆకులు పట్టుకున్నట్లు (Chetulu kalaka aakulu pattukunnatlu),te,Crying over spilt milk; taking precautions when it is too late.,en,1,చేతులు కాలాక ఆకులు పట్టుకున్నట్లు (Chetulu kalaka aakulu pattukunnatlu),train,Kaggle-Indian-Idioms
+కాకి పిల్ల కాకికి ముద్దు (Kaaki pilla kaakiki muddu),te,"Everyone loves their own offspring, regardless of their flaws.",en,1,కాకి పిల్ల కాకికి ముద్దు (Kaaki pilla kaakiki muddu),train,Kaggle-Indian-Idioms
+పిట్ట కొంచెం కూత ఘనం (Pitta koncham kootha ghanam),te,Small in size or status but making a big impact or loud noise.,en,1,పిట్ట కొంచెం కూత ఘనం (Pitta koncham kootha ghanam),train,Kaggle-Indian-Idioms
+పులిని చూసి నక్క వాతలు పెట్టుకున్నట్లు (Pulini chusi nakka vathalu pettukunnatlu),te,Foolishly imitating someone greater and hurting oneself.,en,1,పులిని చూసి నక్క వాతలు పెట్టుకున్నట్లు (Pulini chusi nakka vathalu pettukunnatlu),train,Kaggle-Indian-Idioms
+అడవిలో కాచిన వెన్నెల (Adavilo kaachina vennela),te,Wasted effort or beauty that goes unappreciated.,en,1,అడవిలో కాచిన వెన్నెల (Adavilo kaachina vennela),train,Kaggle-Indian-Idioms
+రొట్టె విరిగి నేతిలో పడ్డట్టు (Rotte virigi nethilo paddattu),te,A completely unexpected stroke of good luck.,en,1,రొట్టె విరిగి నేతిలో పడ్డట్టు (Rotte virigi nethilo paddattu),train,Kaggle-Indian-Idioms
+గాలిలో దీపం పెట్టి దేవుడా అన్నట్లు (Gaalilo deepam petti devuda annatlu),te,Acting carelessly and hoping for a miracle.,en,1,గాలిలో దీపం పెట్టి దేవుడా అన్నట్లు (Gaalilo deepam petti devuda annatlu),train,Kaggle-Indian-Idioms
+ఏ ఎండకు ఆ గొడుగు (Ye endaku aa godugu),te,Adapting to situations for personal benefit; being an opportunist.,en,1,ఏ ఎండకు ఆ గొడుగు (Ye endaku aa godugu),train,Kaggle-Indian-Idioms
+నిండు కుండ తొణకదు (Nindu kunda thonakadu),te,A truly wise and knowledgeable person is calm and doesn't show off.,en,1,నిండు కుండ తొణకదు (Nindu kunda thonakadu),train,Kaggle-Indian-Idioms
+గోరంత దాన్ని కొండంత చేయడం (Goranta daanni kondanta cheyadam),te,Making a mountain out of a molehill; exaggerating a small issue.,en,1,గోరంత దాన్ని కొండంత చేయడం (Goranta daanni kondanta cheyadam),train,Kaggle-Indian-Idioms
+చెవిటి వాడి ముందు శంఖం ఊదినట్లు (Cheviti vaadi mundu shankham oodinatlu),te,Wasting words on someone who refuses to listen or understand.,en,1,చెవిటి వాడి ముందు శంఖం ఊదినట్లు (Cheviti vaadi mundu shankham oodinatlu),train,Kaggle-Indian-Idioms
+గుడ్డి కన్నా మెల్ల మేలు (Guddi kanna mella melu),te,Something is better than nothing.,en,1,గుడ్డి కన్నా మెల్ల మేలు (Guddi kanna mella melu),train,Kaggle-Indian-Idioms
+చంకలో పిల్లిని పెట్టుకొని ఊరంతా వెతికినట్లు (Chankalo pillini pettukoni oorantha vethikinatlu),te,Searching everywhere for something that is right in front of you.,en,1,చంకలో పిల్లిని పెట్టుకొని ఊరంతా వెతికినట్లు (Chankalo pillini pettukoni oorantha vethikinatlu),train,Kaggle-Indian-Idioms
+పిల్లి కళ్ళు మూసుకుని పాలు తాగుతూ... (Pilli kallu musukuni paalu thaguthu...),te,"Doing something wrong secretly, foolishly believing no one notices.",en,1,పిల్లి కళ్ళు మూసుకుని పాలు తాగుతూ... (Pilli kallu musukuni paalu thaguthu...),train,Kaggle-Indian-Idioms
+గురువింద గింజ తన నలుపు ఎరుగదు (Guruvinda ginja thana nalupu erugadu),te,A person ignoring their own faults while criticizing others.,en,1,గురువింద గింజ తన నలుపు ఎరుగదు (Guruvinda ginja thana nalupu erugadu),train,Kaggle-Indian-Idioms
+కూసే గాడిద మేసే గాడిదని చెడగొట్టినట్లు (Koose gaadida mese gaadidani chedagottinatlu),te,Bad company corrupts good character.,en,1,కూసే గాడిద మేసే గాడిదని చెడగొట్టినట్లు (Koose gaadida mese gaadidani chedagottinatlu),train,Kaggle-Indian-Idioms
+తల ప్రాణం తోకకు వచ్చినట్లు (Thala pranam thokaku vachinatlu),te,Facing extreme hardship or fear.,en,1,తల ప్రాణం తోకకు వచ్చినట్లు (Thala pranam thokaku vachinatlu),train,Kaggle-Indian-Idioms
+"మింగ మెతుకు లేదు, మీసాలకు సంపెంగ నూనె (Minga methuku ledu, meesalaku sampenga nune)",te,Showing off outwardly despite extreme inner poverty or lack of substance.,en,1,"మింగ మెతుకు లేదు, మీసాలకు సంపెంగ నూనె (Minga methuku ledu, meesalaku sampenga nune)",train,Kaggle-Indian-Idioms
+దొంగలు పడ్డ ఆరు నెలలకు కుక్కలు మొరిగినట్లు (Dongalu padda aaru nelalaku kukkalu moriginatlu),te,Reacting far too late to a situation to be of any use.,en,1,దొంగలు పడ్డ ఆరు నెలలకు కుక్కలు మొరిగినట్లు (Dongalu padda aaru nelalaku kukkalu moriginatlu),train,Kaggle-Indian-Idioms
+నోరు మంచిదైతే ఊరు మంచిదవుతుంది (Noru manchidaite ooru manchidavutundi),te,"If you speak politely, everyone will be good to you.",en,1,నోరు మంచిదైతే ఊరు మంచిదవుతుంది (Noru manchidaite ooru manchidavutundi),train,Kaggle-Indian-Idioms
+"ఆవు చేలో మేస్తే దూడ గట్టున మేస్తుందా (Aavu chelo meste, duda gattuna mestunda)",te,"Like father, like son; children imitate their parents.",en,1,"ఆవు చేలో మేస్తే దూడ గట్టున మేస్తుందా (Aavu chelo meste, duda gattuna mestunda)",train,Kaggle-Indian-Idioms
+కుడితిలో పడ్డ ఎలుక లాగా (Kuditilo padda eluka laaga),te,Being stuck in a messy dilemma unable to get out.,en,1,కుడితిలో పడ్డ ఎలుక లాగా (Kuditilo padda eluka laaga),train,Kaggle-Indian-Idioms
+తాంబూలాలిచ్చేశాను తన్నుకు చావండి (Thamboolalichhesanu thannuku chavandi),te,Washing one's hands of all responsibility and letting others deal with the mess.,en,1,తాంబూలాలిచ్చేశాను తన్నుకు చావండి (Thamboolalichhesanu thannuku chavandi),train,Kaggle-Indian-Idioms
+కంచే చేను మేసినట్లు (Kanche chenu mesinatlu),te,The protector turning into the predator.,en,1,కంచే చేను మేసినట్లు (Kanche chenu mesinatlu),train,Kaggle-Indian-Idioms
+అత్త మీద కోపం దుత్త మీద చూపినట్లు (Attha meeda kopam duttha meeda chupinatlu),te,Displaced anger; taking out frustration on innocent people or objects.,en,1,అత్త మీద కోపం దుత్త మీద చూపినట్లు (Attha meeda kopam duttha meeda chupinatlu),train,Kaggle-Indian-Idioms
+దూరపు కొండలు నునుపు (Doorapu kondalu nunupu),te,The grass is always greener on the other side.,en,1,దూరపు కొండలు నునుపు (Doorapu kondalu nunupu),train,Kaggle-Indian-Idioms
+నీటిలో రాతలు (Neetilo raathalu),te,"Something that is fleeting, impermanent, or useless.",en,1,నీటిలో రాతలు (Neetilo raathalu),train,Kaggle-Indian-Idioms
+కప్పకు పుండు వస్తే పాము తల దడిమినట్లు (Kappaku pundu vaste paamu thala dadiminatlu),te,Hypocritical help from an enemy who actually intends to harm you.,en,1,కప్పకు పుండు వస్తే పాము తల దడిమినట్లు (Kappaku pundu vaste paamu thala dadiminatlu),train,Kaggle-Indian-Idioms
+పెదవి దాటితే పెన్న దాటుతుంది (Pedavi daatithe penna daatuthundi),te,A secret once spoken spreads uncontrollably and widely.,en,1,పెదవి దాటితే పెన్న దాటుతుంది (Pedavi daatithe penna daatuthundi),train,Kaggle-Indian-Idioms
+దీపం ఉండగానే ఇల్లు చక్కబెట్టుకోవాలి (Deepam undagane illu chakkabettukovali),te,Make hay while the sun shines; utilize opportunities while they last.,en,1,దీపం ఉండగానే ఇల్లు చక్కబెట్టుకోవాలి (Deepam undagane illu chakkabettukovali),train,Kaggle-Indian-Idioms
+కొత్త బిచ్చగాడు పొద్దెరగడు (Kottha bicchagadu podderagadu),te,A novice lacks a sense of timing or etiquette in their new role.,en,1,కొత్త బిచ్చగాడు పొద్దెరగడు (Kottha bicchagadu podderagadu),train,Kaggle-Indian-Idioms
+ఉరుము ఉరుమి మంగలం మీద పడ్డట్టు (Urumu urumi mangalam meeda paddattu),te,A huge buildup that results in a minor or pathetic outcome.,en,1,ఉరుము ఉరుమి మంగలం మీద పడ్డట్టు (Urumu urumi mangalam meeda paddattu),train,Kaggle-Indian-Idioms
+బొగ్గులు కడిగితే పాలు అవుతాయా (Boggulu kadigithe paalu avuthaya),te,You cannot change someone's inherent bad nature.,en,1,బొగ్గులు కడిగితే పాలు అవుతాయా (Boggulu kadigithe paalu avuthaya),train,Kaggle-Indian-Idioms
+తాడి చెట్టు ఎక్కే వాడిని ఎంత వరకు ఎగదోయాలి (Thaadi chettu ekke vaadini entha varaku egadoyali),te,"You can only help someone so much; eventually, they must do the work themselves.",en,1,తాడి చెట్టు ఎక్కే వాడిని ఎంత వరకు ఎగదోయాలి (Thaadi chettu ekke vaadini entha varaku egadoyali),train,Kaggle-Indian-Idioms
+శివుని ఆజ్ఞ లేనిదే చీమైనా కుట్టదు (Shivuni aagna lenide cheemaina kuttadu),te,Everything happens according to the will of God.,en,1,శివుని ఆజ్ఞ లేనిదే చీమైనా కుట్టదు (Shivuni aagna lenide cheemaina kuttadu),train,Kaggle-Indian-Idioms
+తన కోపమే తన శత్రువు (Thana kopame thana shatruvu),te,Anger only destroys the person who is angry.,en,1,తన కోపమే తన శత్రువు (Thana kopame thana shatruvu),train,Kaggle-Indian-Idioms
+"పాము చావకూడదు, కర్ర విరగకూడదు (Paamu chavakudadu, karra viragakudadu)",te,Resolving a conflict safely without causing harm to either side.,en,1,"పాము చావకూడదు, కర్ర విరగకూడదు (Paamu chavakudadu, karra viragakudadu)",train,Kaggle-Indian-Idioms
+పేరు గొప్ప ఊరు దిబ్బ (Peru goppa ooru dibba),te,Famous in name but lacking in actual substance.,en,1,పేరు గొప్ప ఊరు దిబ్బ (Peru goppa ooru dibba),train,Kaggle-Indian-Idioms
+మూలిగే నక్క మీద తాటికాయ పడ్డట్టు (Moolige nakka meeda thaatikaya paddattu),te,A sudden disaster striking someone already suffering.,en,1,మూలిగే నక్క మీద తాటికాయ పడ్డట్టు (Moolige nakka meeda thaatikaya paddattu),train,Kaggle-Indian-Idioms
+రాత్రి అయితే గానీ రంగులు తెలియవు (Rathri ayithe gaani rangulu theliyavu),te,True colors or difficulties are only revealed during tough times.,en,1,రాత్రి అయితే గానీ రంగులు తెలియవు (Rathri ayithe gaani rangulu theliyavu),train,Kaggle-Indian-Idioms
+ఏకు మేకై కూర్చున్నట్లు (Eku mekai kurchunnatlu),te,Something insignificant becoming a huge nuisance or threat over time.,en,1,ఏకు మేకై కూర్చున్నట్లు (Eku mekai kurchunnatlu),train,Kaggle-Indian-Idioms
+ఉపకారికి అపకారం చేయడం (Upakariki apakaram cheyadam),te,Biting the hand that feeds you.,en,1,ఉపకారికి అపకారం చేయడం (Upakariki apakaram cheyadam),train,Kaggle-Indian-Idioms
+అగ్నికి వాయువు తోడైనట్లు (Agniki vayuvu thodainatlu),te,A bad situation becoming worse due to an external factor.,en,1,అగ్నికి వాయువు తోడైనట్లు (Agniki vayuvu thodainatlu),train,Kaggle-Indian-Idioms
+ఎలుకకు పిల్లి సాక్షి (Elukaku pilli sakshi),te,An untrustworthy or compromised witness; a conflict of interest.,en,1,ఎలుకకు పిల్లి సాక్షి (Elukaku pilli sakshi),train,Kaggle-Indian-Idioms
+కీలెరిగి వాత పెట్టాలి (Keelerigi vatha pettali),te,Speak or act precisely where it hurts or matters the most.,en,1,కీలెరిగి వాత పెట్టాలి (Keelerigi vatha pettali),train,Kaggle-Indian-Idioms
+గొంగళిలో తింటూ వెంట్రుకలు ఏరుకున్నట్లు (Gongalilo thintu ventrukalu eerukunnatlu),te,Complaining about inevitable minor flaws in a situation.,en,1,గొంగళిలో తింటూ వెంట్రుకలు ఏరుకున్నట్లు (Gongalilo thintu ventrukalu eerukunnatlu),train,Kaggle-Indian-Idioms
+గుడ్డి ఎద్దు జొన్న చేలో పడ్డట్టు (Guddi eddu jonna chelo paddattu),te,Doing things haphazardly and blindly ruining everything without direction.,en,1,గుడ్డి ఎద్దు జొన్న చేలో పడ్డట్టు (Guddi eddu jonna chelo paddattu),train,Kaggle-Indian-Idioms
+"తీయగా తీయగా రాగం, మూలగగా మూలగగా రోగం (Theeyaga theeyaga raagam, moolagaga moolagaga rogam)",te,"Practice makes perfect, but constant complaining breeds negativity.",en,1,"తీయగా తీయగా రాగం, మూలగగా మూలగగా రోగం (Theeyaga theeyaga raagam, moolagaga moolagaga rogam)",train,Kaggle-Indian-Idioms
+మింగలేక కక్కలేక (Mingaleeka kakkaleeka),te,Being caught in an extremely difficult dilemma.,en,1,మింగలేక కక్కలేక (Mingaleeka kakkaleeka),train,Kaggle-Indian-Idioms
+ముందొచ్చిన చెవుల కన్నా వెనకొచ్చిన కొమ్ములు వాడి (Mundochina chevula kanna venakochina kommulu vaadi),te,Newcomers or juniors outshining the seniors.,en,1,ముందొచ్చిన చెవుల కన్నా వెనకొచ్చిన కొమ్ములు వాడి (Mundochina chevula kanna venakochina kommulu vaadi),train,Kaggle-Indian-Idioms
+రొంపిలో పడ్డ పంది లాగా (Rompilo padda pandi laaga),te,A person who is stuck in a messy situation and cannot escape.,en,1,రొంపిలో పడ్డ పంది లాగా (Rompilo padda pandi laaga),train,Kaggle-Indian-Idioms
+పుండు మీద కారం చల్లినట్లు (Pundu meeda kaaram challinatlu),te,Adding insult to injury.,en,1,పుండు మీద కారం చల్లినట్లు (Pundu meeda kaaram challinatlu),train,Kaggle-Indian-Idioms
+"ఆకలి రుచి ఎరుగదు, నిద్ర సుఖమెరుగదు (Aakali ruchi erugadu, nidra sukhamerugadu)",te,"When completely exhausted or starving, quality doesn't matter.",en,1,"ఆకలి రుచి ఎరుగదు, నిద్ర సుఖమెరుగదు (Aakali ruchi erugadu, nidra sukhamerugadu)",train,Kaggle-Indian-Idioms
+ఆవు వ్యాకరణం చదివినట్లు (Aavu vyakaranam chadinatlu),te,Doing something completely out of one's depth or comprehension.,en,1,ఆవు వ్యాకరణం చదివినట్లు (Aavu vyakaranam chadinatlu),train,Kaggle-Indian-Idioms
+ఉన్న మాట చెబితే ఉలుకెక్కువ (Unna maata chebithe ulukekkuva),te,People get angry when confronted with the bitter truth.,en,1,ఉన్న మాట చెబితే ఉలుకెక్కువ (Unna maata chebithe ulukekkuva),train,Kaggle-Indian-Idioms
+ఎక్కడ వేసిన గొంగళి అక్కడే ఉన్నట్లు (Ekkada vesina gongali akkade unnatlu),te,Zero progress made in a task over a long period of time.,en,1,ఎక్కడ వేసిన గొంగళి అక్కడే ఉన్నట్లు (Ekkada vesina gongali akkade unnatlu),train,Kaggle-Indian-Idioms
+ఏరు దాటాక బోడి మల్లన్న (Eru daataka bodi mallanna),te,Being extremely ungrateful once a favor is received.,en,1,ఏరు దాటాక బోడి మల్లన్న (Eru daataka bodi mallanna),train,Kaggle-Indian-Idioms
+కడుపు చించుకుంటే కాళ్ళ మీద పడుతుంది (Kadupu chinchukunte kalla meeda paduthundi),te,Washing dirty linen in public only brings shame to your own family.,en,1,కడుపు చించుకుంటే కాళ్ళ మీద పడుతుంది (Kadupu chinchukunte kalla meeda paduthundi),train,Kaggle-Indian-Idioms
+కుక్కను తెచ్చి సింహాసనం మీద కూర్చోబెట్టినట్లు (Kukkanu thechi simhasanam meeda kurchobettinatlu),te,"Elevating an undeserving, ill-mannered person to a high position.",en,1,కుక్కను తెచ్చి సింహాసనం మీద కూర్చోబెట్టినట్లు (Kukkanu thechi simhasanam meeda kurchobettinatlu),train,Kaggle-Indian-Idioms
+"కూటికి గతి లేదు, కులమెక్కువ (Kootiki gathi ledu, kulamekkuva)",te,"Having no actual wealth or success, but showing off false pride.",en,1,"కూటికి గతి లేదు, కులమెక్కువ (Kootiki gathi ledu, kulamekkuva)",train,Kaggle-Indian-Idioms
+"గుడిని, గుడిలో లింగాన్ని మింగే రకం (Gudini, gudilo linganni minge rakam)",te,An extremely corrupt and greedy person.,en,1,"గుడిని, గుడిలో లింగాన్ని మింగే రకం (Gudini, gudilo linganni minge rakam)",train,Kaggle-Indian-Idioms
+చెట్టు పేరు చెప్పి కాయలు అమ్మినట్లు (Chettu peru cheppi kayalu amminatlu),te,Using someone else's famous name or brand to benefit yourself.,en,1,చెట్టు పేరు చెప్పి కాయలు అమ్మినట్లు (Chettu peru cheppi kayalu amminatlu),train,Kaggle-Indian-Idioms
+చేతికి ఎముక లేదు (Chethiki emuka ledu),te,Being extremely generous and giving freely.,en,1,చేతికి ఎముక లేదు (Chethiki emuka ledu),train,Kaggle-Indian-Idioms
+తడి గుడ్డతో గొంతు కోయడం (Thadi guddatho gonthu koyadam),te,Betraying someone slowly and sweetly from the inside.,en,1,తడి గుడ్డతో గొంతు కోయడం (Thadi guddatho gonthu koyadam),train,Kaggle-Indian-Idioms
+తలలు బోడులైనా తలపులు బోడులా (Thalalu bodulaina thalapulu bodulaa),te,Outward simplicity doesn't mean a lack of intelligence or complex thoughts.,en,1,తలలు బోడులైనా తలపులు బోడులా (Thalalu bodulaina thalapulu bodulaa),train,Kaggle-Indian-Idioms
+తాడెత్తు ఎదిగినా బుద్ధెత్తు లేదు (Thaadetthu edigina buddhetthu ledu),te,Physical growth without corresponding mental maturity.,en,1,తాడెత్తు ఎదిగినా బుద్ధెత్తు లేదు (Thaadetthu edigina buddhetthu ledu),train,Kaggle-Indian-Idioms
+"నక్క ఎక్కడ, నాగలోకం ఎక్కడ (Nakka ekkada, nagalokam ekkada)",te,A mismatch of monumental proportions; comparing the lowest to the highest.,en,1,"నక్క ఎక్కడ, నాగలోకం ఎక్కడ (Nakka ekkada, nagalokam ekkada)",train,Kaggle-Indian-Idioms
+నీటిలో మొసలి ఏనుగును పట్టుకుంటుంది (Neetilo mosali enugunu pattukuntundi),te,Everyone is powerful on their home turf.,en,1,నీటిలో మొసలి ఏనుగును పట్టుకుంటుంది (Neetilo mosali enugunu pattukuntundi),train,Kaggle-Indian-Idioms
+నోటితో నవ్వి నొసటితో వెక్కిరించినట్లు (Notitho navvi nosatitho vekkirinchinatlu),te,Being two-faced or hypocritical.,en,1,నోటితో నవ్వి నొసటితో వెక్కిరించినట్లు (Notitho navvi nosatitho vekkirinchinatlu),train,Kaggle-Indian-Idioms
+పండిత పుత్ర శుంఠ (Pandita putra shuntha),te,Genius is not always inherited.,en,1,పండిత పుత్ర శుంఠ (Pandita putra shuntha),train,Kaggle-Indian-Idioms
+పాలు తాగి రొమ్ము గుద్దినట్లు (Paalu thaagi rommu gudhinatlu),te,Biting the hand that feeds you.,en,1,పాలు తాగి రొమ్ము గుద్దినట్లు (Paalu thaagi rommu gudhinatlu),train,Kaggle-Indian-Idioms
+పెళ్లికి వెళ్తూ పిల్లిని చంకలో పెట్టుకెళ్ళినట్లు (Pelliki velthu pillini chankalo pettukellinatlu),te,Carrying unnecessary trouble to an auspicious or good event.,en,1,పెళ్లికి వెళ్తూ పిల్లిని చంకలో పెట్టుకెళ్ళినట్లు (Pelliki velthu pillini chankalo pettukellinatlu),train,Kaggle-Indian-Idioms
+మసి పూసి మారేడు కాయ చేసినట్లు (Masi poosi maredu kaya chesinatlu),te,Creating a fraudulent disguise or deceiving cleverly.,en,1,మసి పూసి మారేడు కాయ చేసినట్లు (Masi poosi maredu kaya chesinatlu),train,Kaggle-Indian-Idioms
+రాజు తలుచుకుంటే దెబ్బలకు కొదవా (Raju thaluchukunte debbalaku kodavaa),te,Absolute power dictates consequences effortlessly.,en,1,రాజు తలుచుకుంటే దెబ్బలకు కొదవా (Raju thaluchukunte debbalaku kodavaa),train,Kaggle-Indian-Idioms
+రోకలికి చిగురు పుట్టినట్లు (Rokaliki chiguru puttinatlu),te,An absolutely impossible event.,en,1,రోకలికి చిగురు పుట్టినట్లు (Rokaliki chiguru puttinatlu),train,Kaggle-Indian-Idioms
+వయసొస్తే వంకర కర్ర కూడా అందంగా ఉంటుంది (Vayasoste vankara karra kuda andanga untundi),te,Youth imparts an automatic illusion of beauty.,en,1,వయసొస్తే వంకర కర్ర కూడా అందంగా ఉంటుంది (Vayasoste vankara karra kuda andanga untundi),train,Kaggle-Indian-Idioms
+"వినేవాడు వెర్రివాడైతే, చెప్పేవాడు శివతత్వం చెప్పాడట (Vinevaadu verrivaadaithe, cheppevaadu shivatathvam cheppadata)",te,Exploiting the ignorance of the audience with grand lies.,en,1,"వినేవాడు వెర్రివాడైతే, చెప్పేవాడు శివతత్వం చెప్పాడట (Vinevaadu verrivaadaithe, cheppevaadu shivatathvam cheppadata)",train,Kaggle-Indian-Idioms
+శనగలు తింటూ శంఖం ఊదినట్లు (Sanagalu thintu shankham oodinatlu),te,Trying to do two incompatible things at once and failing at both.,en,1,శనగలు తింటూ శంఖం ఊదినట్లు (Sanagalu thintu shankham oodinatlu),train,Kaggle-Indian-Idioms
+"సగం చదువు, సగం వైద్యం ప్రమాదకరం (Sagam chaduvu, sagam vaidyam pramadaakaram)",te,Incomplete knowledge is worse than total ignorance.,en,1,"సగం చదువు, సగం వైద్యం ప్రమాదకరం (Sagam chaduvu, sagam vaidyam pramadaakaram)",train,Kaggle-Indian-Idioms
+"సూది కోసం సోమవారం, దారం కోసం మంగళవారం (Soodi kosam somavaram, daaram kosam mangalavaram)",te,Extreme laziness or procrastination.,en,1,"సూది కోసం సోమవారం, దారం కోసం మంగళవారం (Soodi kosam somavaram, daaram kosam mangalavaram)",train,Kaggle-Indian-Idioms
+"హంస నడక రాక, తన నడక మర్చిపోయినట్లు (Hamsa nadaka raaka, thana nadaka marchipoyinatlu)",te,Losing your originality while trying to imitate someone else.,en,1,"హంస నడక రాక, తన నడక మర్చిపోయినట్లు (Hamsa nadaka raaka, thana nadaka marchipoyinatlu)",train,Kaggle-Indian-Idioms
+"చేతిలో చిల్లిగవ్వ లేదు, చంకలో జమిందారీ (Chethilo chilligavva ledu, chankalo jamindaari)",te,Being broke but putting on wealthy airs.,en,1,"చేతిలో చిల్లిగవ్వ లేదు, చంకలో జమిందారీ (Chethilo chilligavva ledu, chankalo jamindaari)",train,Kaggle-Indian-Idioms
+కోతికి కొబ్బరికాయ ఇచ్చినట్లు (Kothiki kobbarikaya ichinatlu),te,Giving something valuable to someone who doesn't know how to use it.,en,1,కోతికి కొబ్బరికాయ ఇచ్చినట్లు (Kothiki kobbarikaya ichinatlu),train,Kaggle-Indian-Idioms
+గతం గతః (Gatham gathaha),te,Let bygones be bygones; don't dwell on the past.,en,1,గతం గతః (Gatham gathaha),train,Kaggle-Indian-Idioms
+"ముందు నుయ్యి, వెనుక గొయ్యి (Mundu nuyyi, venuka goyyi)",te,Caught between the devil and the deep blue sea.,en,1,"ముందు నుయ్యి, వెనుక గొయ్యి (Mundu nuyyi, venuka goyyi)",train,Kaggle-Indian-Idioms
 नज़रबंद करना,hi,To restrict someone's freedom.,en,1,नज़रबंद करना,train,Kaggle-Indian-Idioms
 धरना देना,hi,To stand firm on an issue.,en,1,धरना देना,train,Kaggle-Indian-Idioms
 दीवारों के कान होना,hi,Confidential matters may be overheard.,en,1,दीवारों के कान होना,train,Kaggle-Indian-Idioms
@@ -43856,3 +44031,88 @@ Others merely shrug off questions with ‘ your guess is as good as mine’.,en,
 टक्कर खाना,hi,To compete or confront.,en,1,टक्कर खाना,train,Kaggle-Indian-Idioms
 ठिकाने लगाना,hi,To eliminate someone.,en,1,ठिकाने लगाना,train,Kaggle-Indian-Idioms
 दिल बाग-बाग होना,hi,Feeling extremely happy.,en,1,दिल बाग-बाग होना,train,Kaggle-Indian-Idioms
+आग में घी डालना,hi,To aggravate a situation.,en,1,आग में घी डालना,train,Kaggle-Indian-Idioms
+आसमान से गिरा खजूर में अटका,hi,Out of one trouble and into another.,en,1,आसमान से गिरा खजूर में अटका,train,Kaggle-Indian-Idioms
+ईद का चाँद होना,hi,To be rarely seen.,en,1,ईद का चाँद होना,train,Kaggle-Indian-Idioms
+उल्टा चोर कोतवाल को डांटे,hi,The pot calling the kettle black.,en,1,उल्टा चोर कोतवाल को डांटे,train,Kaggle-Indian-Idioms
+ऊँट के मुँह में जीरा,hi,A drop in the ocean; too little.,en,1,ऊँट के मुँह में जीरा,train,Kaggle-Indian-Idioms
+एक अनार सौ बीमार,hi,Demand is much higher than supply.,en,1,एक अनार सौ बीमार,train,Kaggle-Indian-Idioms
+नौ दो ग्यारह होना,hi,To run away or escape.,en,1,नौ दो ग्यारह होना,train,Kaggle-Indian-Idioms
+भैंस के आगे बीन बजाना,hi,Casting pearls before swine.,en,1,भैंस के आगे बीन बजाना,train,Kaggle-Indian-Idioms
+मुँह में राम बगल में छुरी,hi,A wolf in sheep's clothing.,en,1,मुँह में राम बगल में छुरी,train,Kaggle-Indian-Idioms
+हवा से बातें करना,hi,To run very fast.,en,1,हवा से बातें करना,train,Kaggle-Indian-Idioms
+आँखों में धूल झोंकना,hi,To deceive someone.,en,1,आँखों में धूल झोंकना,train,Kaggle-Indian-Idioms
+अक्ल पर पत्थर पड़ना,hi,To lose one's senses.,en,1,अक्ल पर पत्थर पड़ना,train,Kaggle-Indian-Idioms
+अपना उल्लू सीधा करना,hi,To serve one's own selfish motives.,en,1,अपना उल्लू सीधा करना,train,Kaggle-Indian-Idioms
+अपने पैर पर कुल्हाड़ी मारना,hi,To harm oneself.,en,1,अपने पैर पर कुल्हाड़ी मारना,train,Kaggle-Indian-Idioms
+आस्तीन का साँप,hi,A hidden enemy or traitor.,en,1,आस्तीन का साँप,train,Kaggle-Indian-Idioms
+दाँत खट्टे करना,hi,To defeat completely.,en,1,दाँत खट्टे करना,train,Kaggle-Indian-Idioms
+दाल में काला होना,hi,Something is fishy.,en,1,दाल में काला होना,train,Kaggle-Indian-Idioms
+नाच न जाने आँगन टेढ़ा,hi,A bad workman blames his tools.,en,1,नाच न जाने आँगन टेढ़ा,train,Kaggle-Indian-Idioms
+लोहे के चने चबाना,hi,To do a very difficult task.,en,1,लोहे के चने चबाना,train,Kaggle-Indian-Idioms
+श्री गणेश करना,hi,To start something new.,en,1,श्री गणेश करना,train,Kaggle-Indian-Idioms
+मुठ्ठी गर्म करना,hi,To give a bribe.,en,1,मुठ्ठी गर्म करना,train,Kaggle-Indian-Idioms
+रातों की नींद हराम होना,hi,To be extremely worried or anxious.,en,1,रातों की नींद हराम होना,train,Kaggle-Indian-Idioms
+लकीर का फकीर होना,hi,To blindly follow old traditions.,en,1,लकीर का फकीर होना,train,Kaggle-Indian-Idioms
+लोहा लेना,hi,To face bravely.,en,1,लोहा लेना,train,Kaggle-Indian-Idioms
+सफेद झूठ,hi,An obvious or blatant lie.,en,1,सफेद झूठ,train,Kaggle-Indian-Idioms
+हाथ मलना,hi,To regret.,en,1,हाथ मलना,train,Kaggle-Indian-Idioms
+हाथ-पाँव मारना,hi,To make desperate efforts.,en,1,हाथ-पाँव मारना,train,Kaggle-Indian-Idioms
+आग बबूला होना,hi,To be extremely angry.,en,1,आग बबूला होना,train,Kaggle-Indian-Idioms
+आपे से बाहर होना,hi,To lose control due to anger.,en,1,आपे से बाहर होना,train,Kaggle-Indian-Idioms
+किताबी कीड़ा होना,hi,To be always reading.,en,1,किताबी कीड़ा होना,train,Kaggle-Indian-Idioms
+घर की मुर्गी दाल बराबर,hi,Familiarity breeds contempt; undervaluing what one has.,en,1,घर की मुर्गी दाल बराबर,train,Kaggle-Indian-Idioms
+चार दिन की चाँदनी फिर अंधेरी रात,hi,A nine days' wonder; short-lived happiness.,en,1,चार दिन की चाँदनी फिर अंधेरी रात,train,Kaggle-Indian-Idioms
+छाती पर मूंग दलना,hi,To deliberately annoy someone while staying close to them.,en,1,छाती पर मूंग दलना,train,Kaggle-Indian-Idioms
+छक्के छुड़ाना,hi,To defeat completely.,en,1,छक्के छुड़ाना,train,Kaggle-Indian-Idioms
+जान हथेली पर रखना,hi,To risk one's life.,en,1,जान हथेली पर रखना,train,Kaggle-Indian-Idioms
+टेढ़ी खीर,hi,A very difficult task.,en,1,टेढ़ी खीर,train,Kaggle-Indian-Idioms
+डूबते को तिनके का सहारा,hi,A drowning man catches at a straw.,en,1,डूबते को तिनके का सहारा,train,Kaggle-Indian-Idioms
+तलवे चाटना,hi,To flatter or bootlick for personal gain.,en,1,तलवे चाटना,train,Kaggle-Indian-Idioms
+तिल का ताड़ बनाना,hi,To make a mountain out of a molehill.,en,1,तिल का ताड़ बनाना,train,Kaggle-Indian-Idioms
+दाल गलना,hi,To succeed in a trick or plan.,en,1,दाल गलना,train,Kaggle-Indian-Idioms
+धोबी का कुत्ता न घर का न घाट का,hi,A person with no fixed place or status.,en,1,धोबी का कुत्ता न घर का न घाट का,train,Kaggle-Indian-Idioms
+नानी याद आना,hi,To find oneself in a very difficult or painful situation.,en,1,नानी याद आना,train,Kaggle-Indian-Idioms
+पीठ थपथपाना,hi,To encourage or praise.,en,1,पीठ थपथपाना,train,Kaggle-Indian-Idioms
+फूले न समाना,hi,To be extremely happy.,en,1,फूले न समाना,train,Kaggle-Indian-Idioms
+बगुला भगत,hi,A hypocrite.,en,1,बगुला भगत,train,Kaggle-Indian-Idioms
+बाल-बाल बचना,hi,To have a narrow escape.,en,1,बाल-बाल बचना,train,Kaggle-Indian-Idioms
+रफूचक्कर होना,hi,To run away or flee.,en,1,रफूचक्कर होना,train,Kaggle-Indian-Idioms
+राई का पहाड़ बनाना,hi,To exaggerate a small issue.,en,1,राई का पहाड़ बनाना,train,Kaggle-Indian-Idioms
+रंगा सियार,hi,A deceiver or hypocrite.,en,1,रंगा सियार,train,Kaggle-Indian-Idioms
+हाथ साफ करना,hi,To steal something or show sleight of hand.,en,1,हाथ साफ करना,train,Kaggle-Indian-Idioms
+अंग-अंग ढीला होना,hi,To be extremely tired.,en,1,अंग-अंग ढीला होना,train,Kaggle-Indian-Idioms
+अंगारे उगलना,hi,To speak very harshly or angrily.,en,1,अंगारे उगलना,train,Kaggle-Indian-Idioms
+अंधे की लाठी,hi,The only support.,en,1,अंधे की लाठी,train,Kaggle-Indian-Idioms
+अंधे के हाथ बटेर लगना,hi,Getting something valuable without the necessary qualifications.,en,1,अंधे के हाथ बटेर लगना,train,Kaggle-Indian-Idioms
+अक्ल का दुश्मन,hi,A foolish person.,en,1,अक्ल का दुश्मन,train,Kaggle-Indian-Idioms
+अपने मुँह मियाँ मिट्ठू बनना,hi,To blow one's own trumpet; self-praise.,en,1,अपने मुँह मियाँ मिट्ठू बनना,train,Kaggle-Indian-Idioms
+आँख का तारा होना,hi,To be the apple of someone's eye; very dear.,en,1,आँख का तारा होना,train,Kaggle-Indian-Idioms
+आँखें बिछाना,hi,To welcome someone with great respect and eagerness.,en,1,आँखें बिछाना,train,Kaggle-Indian-Idioms
+आकाश-पाताल एक करना,hi,To move heaven and earth; work very hard.,en,1,आकाश-पाताल एक करना,train,Kaggle-Indian-Idioms
+ईंट से ईंट बजाना,hi,To completely destroy or retaliate fiercely.,en,1,ईंट से ईंट बजाना,train,Kaggle-Indian-Idioms
+उँगली उठाना,hi,To point fingers; blame someone.,en,1,उँगली उठाना,train,Kaggle-Indian-Idioms
+कमर कसना,hi,To get ready for a difficult task.,en,1,कमर कसना,train,Kaggle-Indian-Idioms
+कलेजे पर साँप लोटना,hi,To burn with jealousy.,en,1,कलेजे पर साँप लोटना,train,Kaggle-Indian-Idioms
+कान भरना,hi,To poison someone's mind against another.,en,1,कान भरना,train,Kaggle-Indian-Idioms
+खून पसीना एक करना,hi,To work incredibly hard.,en,1,खून पसीना एक करना,train,Kaggle-Indian-Idioms
+गले का हार होना,hi,To be someone's favorite or deeply loved.,en,1,गले का हार होना,train,Kaggle-Indian-Idioms
+गागर में सागर भरना,hi,To express deep or vast meaning in a few words.,en,1,गागर में सागर भरना,train,Kaggle-Indian-Idioms
+घी के दीये जलाना,hi,To celebrate a great victory or joy.,en,1,घी के दीये जलाना,train,Kaggle-Indian-Idioms
+चाँदी काटना,hi,To earn a lot of money easily.,en,1,चाँदी काटना,train,Kaggle-Indian-Idioms
+चुल्लू भर पानी में डूब मरना,hi,To be deeply ashamed.,en,1,चुल्लू भर पानी में डूब मरना,train,Kaggle-Indian-Idioms
+जान पर खेलना,hi,To take a massive risk.,en,1,जान पर खेलना,train,Kaggle-Indian-Idioms
+जमीन आसमान एक करना,hi,To put in an immense effort.,en,1,जमीन आसमान एक करना,train,Kaggle-Indian-Idioms
+डाँवाडोल होना,hi,To be unstable or wavering.,en,1,डाँवाडोल होना,train,Kaggle-Indian-Idioms
+दिन दूनी रात चौगुनी,hi,To progress very rapidly.,en,1,दिन दूनी रात चौगुनी,train,Kaggle-Indian-Idioms
+दूध का दूध पानी का पानी,hi,Absolute and fair justice.,en,1,दूध का दूध पानी का पानी,train,Kaggle-Indian-Idioms
+नमक मिर्च लगाना,hi,To exaggerate a story.,en,1,नमक मिर्च लगाना,train,Kaggle-Indian-Idioms
+पहाड़ टूट पड़ना,hi,A sudden major disaster or tragedy.,en,1,पहाड़ टूट पड़ना,train,Kaggle-Indian-Idioms
+पानी-पानी होना,hi,To be extremely embarrassed.,en,1,पानी-पानी होना,train,Kaggle-Indian-Idioms
+बाल की खाल निकालना,hi,To nitpick or over-analyze.,en,1,बाल की खाल निकालना,train,Kaggle-Indian-Idioms
+मुँह की खाना,hi,To suffer a humiliating defeat.,en,1,मुँह की खाना,train,Kaggle-Indian-Idioms
+रंगे हाथों पकड़ना,hi,To catch red-handed.,en,1,रंगे हाथों पकड़ना,train,Kaggle-Indian-Idioms
+लाल पीला होना,hi,To be furious.,en,1,लाल पीला होना,train,Kaggle-Indian-Idioms
+हवा का रुख देखना,hi,To assess a situation before acting.,en,1,हवा का रुख देखना,train,Kaggle-Indian-Idioms
+कलई खुलना,hi,A secret being revealed.,en,1,कलई खुलना,train,Kaggle-Indian-Idioms
+अंधेरे घर का उजाला,hi,The only son or hope of a family.,en,1,अंधेरे घर का उजाला,train,Kaggle-Indian-Idioms
