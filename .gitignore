@@ -17,3 +17,25 @@ Thumbs.db
 # Project Specific
 # Ignore all gigantic binary models and weights to prevent 100MB Github crash
 models/
+
+# Experiment tracking and generated reports
+wandb/
+src/wandb/
+results/
+
+# Generated backup/checkpoint data
+data/processed/*backup*.csv
+data/processed/*rebuilt*.csv
+data/processed/*checkpoint*.csv
+
+# One-off data append scripts
+append_*.py
+
+inspect_and_rebuild.py
+
+models/*
+
+test.py
+rebuild_dataset.py
+trial.py
+

@@ -1,243 +1,303 @@
-# NLP Project — Idiom-Aware Cross-Lingual Translation
-### Group Members
-| Person | Name | Role |
-|--------|------|------|
-| 1 | Ihsal Riyas | Data & Detection |
-| 2 | Ramanand Balaji | Semantic Similarity & Retrieval |
-| 3 | Dhruv Nair | Generation, Evaluation & Integration |
+# Idiom-Aware Cross-Lingual Translation
+
+An NLP pipeline for detecting idiomatic expressions and translating them into culturally meaningful equivalents across Indian languages. The project combines idiom detection, semantic retrieval, and fallback generation to avoid literal translations of figurative language.
+
+## Contributors
+
+| Person | Name | Responsibility |
+| --- | --- | --- |
+| 1 | Ihsal Riyas | Data processing and idiom detection |
+| 2 | Ramanand Balaji | Semantic similarity and retrieval |
+| 3 | Dhruv Nair | Generation, evaluation, and integration |
 
 ---
 
-## Project Overview
-An idiom-aware cross-lingual translation system that detects idiomatic expressions in a source sentence and maps them to semantically equivalent phrases in the target language — instead of producing awkward literal translations.
+## Overview
 
-### Pipeline
-```
-Input Sentence
-     │
-     ▼
-[Stage 1] Idiom Detection       ← Person 1 (this repo)
-     │  XLM-RoBERTa classifier
-     │  Output: idiomatic / literal flag
-     │
-     ▼
-[Stage 2] Semantic Similarity   ← Person 2
-     │  LaBSE embeddings + FAISS retrieval
-     │  Output: closest target-language equivalent
-     │
-     ▼
-[Stage 3] Generation / Output   ← Person 3
-          mT5 fallback generator + full pipeline
-          Output: translated sentence with idiomatic equivalent
+Idioms often lose their meaning when translated word-for-word. This project addresses that problem through a three-stage pipeline:
+
+1. **Detection**: Classify whether a sentence or phrase is idiomatic.
+2. **Retrieval**: Search for a semantically similar target-language idiom.
+3. **Generation**: Generate a fallback equivalent when retrieval is insufficient.
+
+Supported target languages in the current pipeline:
+
+- Hindi (`hi`)
+- Malayalam (`ml`)
+- Telugu (`te`)
+- English (`en`) for explanation and reverse-direction training examples
+
+---
+
+## Architecture
+
+```text
+Input sentence
+    |
+    v
+Idiom Detection
+XLM-RoBERTa binary classifier
+    |
+    |-- Literal    -> Standard translation baseline
+    |
+    v
+Semantic Retrieval
+LaBSE embeddings + FAISS index
+    |
+    |-- High-confidence match -> Retrieved idiom equivalent
+    |
+    v
+Fallback Generation
+mT5-small sequence-to-sequence generator
+    |
+    v
+Translated idiom or best available equivalent
 ```
 
 ---
 
-## Person 1 — Data & Detection (Ihsal Riyas)
+## Objectives
 
-### Datasets Used
-| Dataset | Source | Purpose |
-|---------|--------|---------|
-| MAGPIE  | HuggingFace `hsseinmz/magpie` | Idiom detection (binary labels) |
-| PIE-English | HuggingFace `hsseinmz/pie` | Idiom detection (token-level → sentence-level) |
-| LIDIOMS | Zenodo | Cross-lingual idiom pairs (for Person 2 & 3) |
+- **Detect idiomatic usage** in English and multilingual inputs.
+- **Retrieve culturally appropriate equivalents** instead of literal translations.
+- **Support Indian languages** with curated Hindi, Malayalam, and Telugu idiom data.
+- **Provide an end-to-end pipeline** that can be evaluated module-by-module or as a full system.
 
-### Shared Data Format
-All processed files use this schema:
+---
 
+## Repository Structure
+
+```text
+NLPIdiomTranslator/
+|-- data/
+|   |-- raw/                     # Raw JSON/CSV idiom sources
+|   `-- processed/               # Prepared train/test and retrieval datasets
+|-- models/                      # Local model artifacts, ignored by Git
+|-- notebooks/
+|   `-- exploration.py           # Data sanity checks and exploratory analysis
+|-- results/                     # Generated evaluation reports, ignored by Git
+|-- src/
+|   |-- data_pipeline.py         # Dataset loading and consolidation
+|   |-- preprocess.py            # Cleaning and train/val/test split creation
+|   |-- idiom_detector.py        # XLM-RoBERTa detector training and inference
+|   |-- semantic_retriever.py    # LaBSE + FAISS retrieval module
+|   |-- generator.py             # mT5 generator training and inference
+|   `-- pipeline.py              # End-to-end translation pipeline
+|-- requirements.txt
+`-- README.md
 ```
+
+---
+
+## Data Files
+
+Key processed files:
+
+| File | Purpose |
+| --- | --- |
+| `data/processed/train.csv` | Detector training split |
+| `data/processed/val.csv` | Detector validation split |
+| `data/processed/test.csv` | Detector test split |
+| `data/processed/cross_lingual.csv` | Cross-lingual idiom pairs for retrieval |
+| `data/processed/generator_train.csv` | Generator training split |
+| `data/processed/generator_val.csv` | Generator validation split |
+| `data/processed/generator_test.csv` | Generator test split |
+
+Detection split schema:
+
+```text
+text | label | idiom_string | source
+```
+
+Cross-lingual schema:
+
+```text
 source_idiom | source_lang | target_idiom | target_lang | label | idiom_string | split | source
 ```
 
-- `label`: `1` = Idiomatic, `0` = Literal
-- Files shared with the team: `train.csv`, `val.csv`, `test.csv`
+Generator schema:
 
----
-
-## Project Structure
-```
-NLP-Project/
-├── data/
-│   ├── raw/              ← downloaded raw files
-│   └── processed/        ← cleaned & split CSVs
-│       ├── unified_idioms.csv
-│       ├── detection_only.csv
-│       ├── cross_lingual.csv   ← for Person 2 & 3
-│       ├── train.csv
-│       ├── val.csv
-│       └── test.csv
-├── models/
-│   └── idiom_detector/   ← saved XLM-RoBERTa model
-├── notebooks/
-│   └── exploration.py    ← EDA & sanity checks
-├── results/
-│   └── detection_results.txt
-├── src/
-│   ├── data_pipeline.py  ← Step 1: download & merge datasets
-│   ├── preprocess.py     ← Step 2: clean & split data
-│   └── idiom_detector.py ← Step 3: train / eval / predict
-├── requirements.txt
-└── README.md
+```text
+input_text | target_text | source_lang | target_lang
 ```
 
 ---
 
 ## Setup
 
-### 1. Install dependencies
+Create and activate a virtual environment:
+
+```bash
+python -m venv venv
+```
+
+Windows:
+
+```bash
+venv\Scripts\activate
+```
+
+Linux/macOS:
+
+```bash
+source venv/bin/activate
+```
+
+Install dependencies:
+
 ```bash
 pip install -r requirements.txt
 ```
 
-> **Tip:** Use a virtual environment
-> ```bash
-> python -m venv venv
-> venv\Scripts\activate        # Windows
-> source venv/bin/activate     # Mac/Linux
-> ```
+---
 
-### 2. Run the full pipeline (in order)
+## Running the Project
 
-**Step 1 — Download & consolidate datasets**
+### 1. Build and preprocess data
+
 ```bash
 python src/data_pipeline.py
-```
-
-**Step 2 — Clean & create train/val/test splits**
-```bash
 python src/preprocess.py
 ```
 
-**Step 3 — Sanity-check the data**
+Optional data inspection:
+
 ```bash
 python notebooks/exploration.py
 ```
 
-**Step 4 — Train the idiom detector**
+### 2. Train and evaluate the detector
+
 ```bash
 python src/idiom_detector.py --mode train
-```
-
-**Step 5 — Evaluate on test set**
-```bash
 python src/idiom_detector.py --mode eval
 ```
 
-**Step 6 — Predict on a single sentence**
+Single-sentence prediction:
+
 ```bash
-python src/idiom_detector.py --mode predict --text "It's raining cats and dogs"
+python src/idiom_detector.py --mode predict --text "She spilled the beans about the surprise."
 ```
 
----
+### 3. Build and query the semantic retriever
 
-## Model Details
+Build the FAISS index:
 
-| Setting | Value |
-|---------|-------|
-| Base model | `xlm-roberta-base` |
-| Task | Binary sequence classification |
-| Labels | `0 = Literal`, `1 = Idiomatic` |
-| Max token length | 128 |
-| Learning rate | 2e-5 |
-| Batch size | 16 (reduce to 8 if GPU runs out of memory) |
-| Epochs | 5 (with early stopping, patience=2) |
-| Mixed precision | Auto (fp16 on GPU) |
-
----
-
-## Using the Detector in Another Module (Person 2 & 3)
-
-```python
-from src.idiom_detector import IdiomDetector
-
-detector = IdiomDetector()   # loads saved model from models/idiom_detector/
-
-result = detector.predict("She spilled the beans about the surprise party.")
-# → {"label": "Idiomatic", "confidence": 0.96, "is_idiomatic": True}
-
-# Batch prediction
-results = detector.predict_batch([
-    "The cat sat on the mat.",
-    "He kicked the bucket last year.",
-])
-```
-
----
-
-## Person 2 — Semantic Similarity & Retrieval (LaBSE + FAISS)
-
-### Build retrieval index
 ```bash
 python src/semantic_retriever.py --mode build
 ```
 
-By default this consumes:
-- `data/processed/cross_lingual.csv`
-- idiom files in `data/raw/` (`hindi.json`, `malayalam.json`, `telugu.json`, `*_idioms.csv`)
+Query target-language equivalents:
 
-Note: generic parallel corpora are excluded by default for retrieval quality.
-
-Saved artifacts:
-- `models/semantic_retriever/idiom_index.faiss`
-- `models/semantic_retriever/metadata.csv`
-
-### Query nearest idiom equivalents
 ```bash
-python src/semantic_retriever.py --mode query \
-  --text "He kicked the bucket" \
-  --target_lang hi \
-  --top_k 5
+python src/semantic_retriever.py --mode query --text "spill the beans" --target_lang hi --top_k 5
 ```
 
-### Run detector + retrieval pipeline
+Run detector plus retrieval:
+
 ```bash
-python src/semantic_retriever.py --mode pipeline \
-  --text "He kicked the bucket last year." \
-  --target_lang hi \
-  --top_k 3
+python src/semantic_retriever.py --mode pipeline --text "He kicked the bucket last year." --target_lang hi --top_k 3
 ```
 
-If detector predicts `Literal`, retrieval is skipped. If detector predicts `Idiomatic`,
-the module returns top semantic matches from the FAISS index.
+### 4. Train and evaluate the generator
+
+```bash
+python src/generator.py --mode train
+python src/generator.py --mode eval
+```
+
+Generate a candidate idiom:
+
+```bash
+python src/generator.py --mode generate --text "spill the beans" --target_lang ml
+```
+
+### 5. Run the full pipeline
+
+Translate a single input:
+
+```bash
+python src/pipeline.py --mode translate --text "She spilled the beans" --target_lang ml
+```
+
+Evaluate the end-to-end system:
+
+```bash
+python src/pipeline.py --mode eval --target_lang hi --n_samples 50
+```
+
+Check module availability:
+
+```bash
+python src/pipeline.py --mode status
+```
 
 ---
 
-## Compute Notes
-- **Google Colab (T4)** — Recommended for training. Upload repo, install requirements, run scripts.
-- **Kaggle Notebooks** — 30hrs/week free GPU, good for longer runs.
-- **CPU** — Works but training will be slow (~1hr per epoch). Use for testing only.
+## Model Components
 
-### Colab Quick-Start
-```python
-# In a Colab cell:
-!git clone https://github.com/YOUR_ORG/NLP-Project.git
-%cd NLP-Project
-!pip install -r requirements.txt
-!python src/data_pipeline.py
-!python src/preprocess.py
-!python src/idiom_detector.py --mode train
+| Component | Model/Method | Output |
+| --- | --- | --- |
+| Idiom detector | `xlm-roberta-base` | Literal vs idiomatic classification |
+| Semantic retriever | LaBSE + FAISS | Ranked target-language idiom matches |
+| Generator | `google/mt5-small` | Generated idiom equivalent or explanation |
+| Baseline translator | Helsinki-NLP MarianMT | Standard non-idiom translation fallback |
+
+Model artifacts are written to:
+
+```text
+models/idiom_detector/
+models/semantic_retriever/
+models/generator/
 ```
+
+These directories are intentionally ignored by Git because model weights and checkpoints are large.
 
 ---
 
-## Evaluation Metrics
+## Evaluation
+
 The detector reports:
-- **Accuracy**
-- **Macro F1** ← primary metric
-- **Precision / Recall** per class
-- **Confusion Matrix**
 
-Results are saved to `results/detection_results.txt` after each eval run.
+- Accuracy
+- Macro F1
+- Precision and recall per class
+- Confusion matrix
+
+The generator reports:
+
+- BLEU
+- BERTScore F1
+- Exact match
+- Sample generated outputs
+
+Evaluation reports are written under `results/`. These are generated artifacts and are ignored by Git.
 
 ---
 
-## GitHub Workflow
-```
-main          ← stable, working code only
-├── person1   ← Ihsal (this branch)
-├── person2   ← Ramanand
-└── person3   ← Dhruv
+## Current Notes
+
+- Retrieval is the strongest component for idiom translation because idioms often have fixed cultural equivalents.
+- Generation is best treated as a fallback when retrieval confidence is low.
+- Exact match is strict for idiom generation, so manual inspection of sample outputs is recommended.
+- GPU is recommended for training detector and generator models. CPU can run inference and small checks, but training will be slow.
+
+---
+
+## Git Hygiene
+
+The repository ignores local artifacts such as:
+
+- `models/`
+- `results/`
+- `wandb/` and `src/wandb/`
+- Python cache directories
+- one-off append scripts and generated backup/checkpoint CSVs
+
+Before pushing, verify the staged files:
+
+```bash
+git status
 ```
 
-- Push to your own branch, open a PR into `main` when your module is ready
-- The shared data files (`train.csv`, `val.csv`, `test.csv`) live on `main` once Person 1 is done
+Only source code, final data files, documentation, and reproducible configuration should be committed.
