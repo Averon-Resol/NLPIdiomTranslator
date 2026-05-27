@@ -1,0 +1,2067 @@
+[
+  {
+    "idiom": "അഗ്നിക്ക് എണ്ണ ഒഴിക്കുക",
+    "literal_meaning": "Pouring oil into fire.",
+    "figurative_meaning": "Making a bad situation worse by adding fuel to it.",
+    "example": "Avaru vaadikkunnu, nee koodi parayanda — agnikku enna ozhikkuka.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "കക്ഷത്തിൽ കുഞ്ഞ്, ഊരു തേടി",
+    "literal_meaning": "Child is in the armpit, but searching the entire town.",
+    "figurative_meaning": "Looking for something that is right in front of you.",
+    "example": "Chaabi kayyil undo, vazhi thedi nadakkunnu — kakshatthil kunju, ooru thedi.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "ആനക്കൊരു ദണ്ഡ്, ആട്ടിൻകുട്ടിക്കൊരു ദണ്ഡ്",
+    "literal_meaning": "One stick for an elephant, the same stick for a goat.",
+    "figurative_meaning": "Applying the same standard or punishment regardless of size or severity.",
+    "example": "Chinna thettinaum valiya thettinaum oru shiksha — aanaakkorru dand.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "വീട്ടിൽ ഇല്ല, വഴിക്ക് കൊടുക്കുന്നു",
+    "literal_meaning": "Nothing at home, yet giving away on the road.",
+    "figurative_meaning": "Being generous to strangers while neglecting one's own family or responsibilities.",
+    "example": "Swantham kutumbam panji, avaraanu sahaayikkunnathu — veettil illa vazhikku kodukkunnnu.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "കൊതുകിനെ കൊല്ലാൻ പീരങ്കി",
+    "literal_meaning": "A cannon to kill a mosquito.",
+    "figurative_meaning": "Using a completely disproportionate response for a small problem.",
+    "example": "Chinna prasnakku ithu valiya shiksha — kothukinne kollan peeranki.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "ഉപ്പ് തിന്നവൻ വെള്ളം കുടിക്കും",
+    "literal_meaning": "He who eats salt will drink water.",
+    "figurative_meaning": "Every action has a corresponding consequence.",
+    "example": "Kettaathu cheythu, ippol shikshaanubhavikkunnu — uppu thinnavan vellam kudikkum.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "കള്ളനെ കണ്ടാൽ കള്ളൻ ഓടും",
+    "literal_meaning": "A thief runs when he sees another thief.",
+    "figurative_meaning": "A guilty person panics when they encounter someone who knows the truth.",
+    "example": "Avan peru kettathu maatramennil ottham thudangi — kallane kandal kallan odum.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "ആനക്കാര്യം ആനയ്ക്ക് അറിയാം",
+    "literal_meaning": "Only the elephant knows elephant matters.",
+    "figurative_meaning": "Only the person going through a situation truly understands it.",
+    "example": "Ninakk enthariyo? Aval kashtam aval maathram ariyum — anaakkaaryam anaykku ariyaam.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "ഒരു കൈ കൊണ്ട് കൈയടിക്കില്ല",
+    "literal_meaning": "You cannot clap with one hand.",
+    "figurative_meaning": "A conflict or collaboration requires both parties.",
+    "example": "Randhu perkkaum thetti pattittundu — oru kai kondu kaiyatikkilla.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "മരം കേറിയവൻ ഒരുനാൾ ഇറങ്ങും",
+    "literal_meaning": "He who climbs a tree must come down one day.",
+    "figurative_meaning": "No one can stay at the top forever; pride before a fall.",
+    "example": "Avan ippo valiyavan, pakshe kaalam maarum — maram keriyavan orunaal irangunm.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "പൂച്ചക്ക് ആരു മണി കെട്ടും",
+    "literal_meaning": "Who will bell the cat?",
+    "figurative_meaning": "Who will dare to do the risky task that everyone agrees needs to be done?",
+    "example": "Managerod parayaan aarum thayaar aakkunilla — poochakku aaru mani kettum.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "ഇല്ലാത്തവൻ ഉള്ളവനെ ആക്ഷേപിക്കും",
+    "literal_meaning": "The one who has nothing criticizes the one who has.",
+    "figurative_meaning": "Envious people tend to criticize those who are more successful.",
+    "example": "Avan vallathe cheyyunnavareyaanu vimarshikkunnathu — illaathavan ullavane aakshepikkum.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "കൊല്ലത്ത് ചെന്ന് കൊല്ലർ ആകരുത്",
+    "literal_meaning": "Don't become a blacksmith just because you went to Kollam.",
+    "figurative_meaning": "Don't pretend to be an expert just because of superficial exposure.",
+    "example": "Oru class eduthu expert aayathupole parayunnu — kollatthu chennu kollar aakkaruthu.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "ഓടിയ കാള, ഓടുന്ന കാള",
+    "literal_meaning": "A bull that ran and a bull that runs.",
+    "figurative_meaning": "Past and present mistakes are the same; same person repeating errors.",
+    "example": "Athu cheythathum ithu cheythathum avan thanne — odiya kaala, odunna kaala.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "തൊഴിൽ ഉള്ളവന് തൊഴിൽ, ഇല്ലാത്തവന് ഇരപ്പ്",
+    "literal_meaning": "Work for the skilled, begging for the unskilled.",
+    "figurative_meaning": "Skills determine your livelihood and dignity.",
+    "example": "Padikkathe, yonum ellaathe irikkunnathu irappin samamaanu — thozhil ullavannu thozhil.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "കണ്ടകൻ കണ്ടകനാൽ",
+    "literal_meaning": "A thorn removed by a thorn.",
+    "figurative_meaning": "Fighting fire with fire; using similar means to counter a problem.",
+    "example": "Avante thandhathinnu avanodu thanne yerichal mathi — kandakan kandakanaall.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "ഉണ്ണി ആകുമ്പോൾ ശീലിക്കണം",
+    "literal_meaning": "One must form habits while still a child.",
+    "figurative_meaning": "Good habits must be cultivated from a young age.",
+    "example": "Kallattu padippikkanam — unni aakumbol sheelikkkanam.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "മഴ നനഞ്ഞവൻ മഞ്ഞ് ഭയക്കില്ല",
+    "literal_meaning": "One who has been drenched in rain does not fear dew.",
+    "figurative_meaning": "Someone who has faced great hardship fears nothing lesser.",
+    "example": "Aval itreyum kashtam kandathaanu — mazha nananjavan manju bhayakkilla.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "കൂട്ടത്തോടെ കൂവിയാൽ ഫലമില്ല",
+    "literal_meaning": "Crowing together in a flock does not help.",
+    "figurative_meaning": "Collective noise without action or unity of purpose achieves nothing.",
+    "example": "Ellaarum parayunnu pakshe arum cheyyunilla — koottatthode kooviyaal phalamill.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "ഒരുത്തൻ ഒരുത്തന്റെ കണ്ണ് കുത്തും",
+    "literal_meaning": "One person will poke the other's eye.",
+    "figurative_meaning": "People will harm those closest to them out of jealousy or rivalry.",
+    "example": "Avaru koode pani cheythavaraanenkilum ippo thaanaarunnu — oruthan oruttante kannu kuttum.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "പുഴ കടന്നാൽ തോണി മറക്കും",
+    "literal_meaning": "Once across the river, the boat is forgotten.",
+    "figurative_meaning": "People forget those who helped them once they no longer need them.",
+    "example": "Nee sahaayichu, pakshe kaaryam kazhinju avan manasillaathaayi — puzha kadannaal thoni marakkum.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "ഇടിമിന്നൽ ഒരേ ദിക്കിൽ വീഴില്ല",
+    "literal_meaning": "Lightning does not strike the same place twice.",
+    "figurative_meaning": "The same misfortune rarely happens to the same person twice.",
+    "example": "Oru thaval pizhachu, ippol sheriyaakunnu — idiminnall ore dikkil veezhill.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "ആഴ്ചതോറും ആശ, ദിവസം തോറും നിരാശ",
+    "literal_meaning": "Hope every week, disappointment every day.",
+    "figurative_meaning": "Constant unfulfilled expectations leading to chronic disappointment.",
+    "example": "Avante kezhill enna kaanikkunathu innum varunnilla — aazhchathorum aasha.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "ദൂരെ ഉള്ള മലക്ക് പച്ചപ്പ്",
+    "literal_meaning": "The distant mountain always looks green.",
+    "figurative_meaning": "Things appear better from a distance than up close.",
+    "example": "Aavide nalla sthalamanu ennu thonn, pakshe povumbol ariyum — doorey ulla malakku pachapp.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "ചക്ക വേരിൽ തൊടുമ്പോൾ കൊതി",
+    "literal_meaning": "The desire for jackfruit starts when it's still at the root.",
+    "figurative_meaning": "Craving or planning for something prematurely before it is ready.",
+    "example": "Result varathe munp party cheyyaan plan idaruthu — chakka veril thodumbool kothi.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "ഒറ്റ വൃക്ഷം കൊണ്ട് കാടാവില്ല",
+    "literal_meaning": "One tree does not make a forest.",
+    "figurative_meaning": "One person alone cannot create a major change or movement.",
+    "example": "Oru aalinu maatram ithellam cheyyaan kazhiyill — otta vruksham kondu kaadaavilla.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "കടലിൽ തോണി, ദൈവം കൂടെ",
+    "literal_meaning": "Boat in the sea, God alongside.",
+    "figurative_meaning": "When in danger, one can only hope and trust in a higher power.",
+    "example": "Paristhithi kayyil aalla, dhaivam thanne sahaaykkanam — kadalil thoni dhaivam koode.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "ചെറിയ പ്രായത്തിൽ ചെറിയ ബുദ്ധി",
+    "literal_meaning": "Small age, small wisdom.",
+    "figurative_meaning": "Young people lack the experience to make wise decisions.",
+    "example": "Avanu ithinte gurutharam ariyilla — cheriya praayattil cheriya buddhi.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "ഉരുളക്കുപ്പേരി ഉത്തരം",
+    "literal_meaning": "A tit-for-tat answer.",
+    "figurative_meaning": "Giving a sharp, fitting counter-reply to a remark.",
+    "example": "Avan ketti parayumbol aval udan madi parayum — urulakkupperi uttaram.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "കൂടെ ഉള്ളവൻ കൂട്ടാളി",
+    "literal_meaning": "The one who is with you is your companion.",
+    "figurative_meaning": "Those who stand by you in difficult times are your true allies.",
+    "example": "Kashtakaalatthu koode nillu ennal koode ullavan koottali.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "കള്ളത്തരം ഒരിക്കൽ ഫലിക്കും",
+    "literal_meaning": "Deceit will work only once.",
+    "figurative_meaning": "You can fool someone only once; repeated deception fails.",
+    "example": "Avan innum try cheyyunnu, pakshe aarum vishwasikkyunilla — kalltharam orikkal phalikkum.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "ഒഴുക്കിൽ ചേരുന്ന മീൻ",
+    "literal_meaning": "A fish that joins the current.",
+    "figurative_meaning": "Someone who simply goes along with whatever is happening without independent thought.",
+    "example": "Aval swaathanthrya abhipraayam illathe ellaarum parayunnapole cheyyunnu — ozhukil cherunna meen.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "ആശ ഉള്ളിടത്തോളം ജീവൻ",
+    "literal_meaning": "Where there is hope, there is life.",
+    "figurative_meaning": "Hope is what keeps a person going through hardship.",
+    "example": "Nirashapedathe — aasha ullidelttholam jeevan.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "ഇരട്ടി ഫലം ഇരട്ടി അധ്വാനം",
+    "literal_meaning": "Double result requires double effort.",
+    "figurative_meaning": "Greater rewards demand greater work.",
+    "example": "Nannaayi cheythaal nannaayi kitum — iratti phalam iratti adhvaanam.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "ഉള്ളത് പറഞ്ഞ് ഉള്ളം കുളിർക്കണം",
+    "literal_meaning": "Speak the truth so the heart feels cool.",
+    "figurative_meaning": "Expressing the truth brings inner peace.",
+    "example": "Marikkaathe parayoo — ullath parayunnathu ullam kulirkkum.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "കൊഴിഞ്ഞ് പോകും ഇല, പക്ഷേ മരം നിൽക്കും",
+    "literal_meaning": "Leaves fall, but the tree stands.",
+    "figurative_meaning": "Individuals come and go but the institution or family remains.",
+    "example": "Aarum permanent alla, organization nilkkum — kozhinjupokum ila, pakhe maram nilkkum.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "ഒരു ദിവസം ഒരു കഷ്ടം",
+    "literal_meaning": "One hardship a day.",
+    "figurative_meaning": "Life brings a new challenge every day; trouble is relentless.",
+    "example": "Innale onnu, innale mattonnu — oru divasam oru kashtam.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "ഓർമ്മ ഉള്ളപ്പോൾ ഓർക്കണം",
+    "literal_meaning": "Remember while you still can remember.",
+    "figurative_meaning": "Do not take things or people for granted; appreciate while you still have them.",
+    "example": "Avarul koode ullappol madikkoo — orma ullappol orkkkanam.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "ഞായർ ഉദിക്കും, ഞായർ അസ്തമിക്കും",
+    "literal_meaning": "The sun rises and the sun sets.",
+    "figurative_meaning": "Everything has a beginning and an end; no situation lasts forever.",
+    "example": "Ithum maari pookum — njayar udikkyum, njayar asthamikkyum.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "ഏറ്റ ഭാരം ഇറക്കരുത്",
+    "literal_meaning": "Do not put down a burden you have taken up.",
+    "figurative_meaning": "Once you take on a responsibility, see it through.",
+    "example": "Nee accept cheythathinu maarum parayaruthu — etta bhaaram irakkkaruthu.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "ഒരു വള്ളത്തിൽ രണ്ടു തണ്ടുകാർ",
+    "literal_meaning": "Two oarsmen in one boat.",
+    "figurative_meaning": "Having two leaders or decision-makers causes conflict and inefficiency.",
+    "example": "Randhu managersund, karyam nadakkunilla — oru vallattil randu thandu kaar.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "ഉണ്ടെങ്കിൽ ഉണ്ണ്, ഇല്ലെങ്കിൽ ഉറക്ക്",
+    "literal_meaning": "If there is food, eat; if not, sleep.",
+    "figurative_meaning": "Accept what life gives you without complaining.",
+    "example": "Muzhuvanum kittiyilla, kazhinjathe kond santhushtan aakoo — undenghil unnu, illenghil urakkoo.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "കാക്ക കുളിച്ചാൽ കൊക്ക് ആകുമോ",
+    "literal_meaning": "If a crow bathes, will it become an egret?",
+    "figurative_meaning": "External changes cannot alter one's true nature.",
+    "example": "Avan dress maatti, swabhavam maatti — kaakka kulichu kondakku aakumo.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "കൊതിച്ചതും കൊടുക്കണം, ഇഷ്ടപ്പെടാത്തതും",
+    "literal_meaning": "Give what is craved, and also what is not liked.",
+    "figurative_meaning": "Life gives you what you want and also what you don't want.",
+    "example": "Nallathu varumbol kettathum varaam — kothichathu kodukkkanam, ishtapadaathathum.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "ഇന്ന് ഉള്ളത് നാളെ ഇല്ല",
+    "literal_meaning": "What is today may not be tomorrow.",
+    "figurative_meaning": "Wealth, power, and circumstances are impermanent.",
+    "example": "Ippol nalla kaalamu, pakshe marappikkanda — innu ullath naale illa.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "ഓടുന്ന കുതിരക്ക് ചാട്ടവാർ വേണ്ട",
+    "literal_meaning": "A running horse doesn't need a whip.",
+    "figurative_meaning": "A motivated and capable person needs no external push.",
+    "example": "Avan sradhayulla aal, parayanda — odunna kuthirakku chaattavaar venda.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "ഉരുണ്ട കല്ല് പായൽ പിടിക്കില്ല",
+    "literal_meaning": "A rolling stone gathers no moss.",
+    "figurative_meaning": "A person who keeps moving never settles or accumulates anything.",
+    "example": "Avan oru stalathu nilkkarunilla — urunda kallu paayal pidikkila.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "കൂടെ ഉള്ള കള്ളൻ",
+    "literal_meaning": "The thief who is with you.",
+    "figurative_meaning": "An enemy within your trusted circle is the most dangerous.",
+    "example": "Avane viswasichu, avan thanne kettathi — koode ulla kallan.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "കാലം ഔഷധം",
+    "literal_meaning": "Time is medicine.",
+    "figurative_meaning": "Time heals all wounds.",
+    "example": "Ippol vedanikkunu, pakshe kaalam cheyyum — kaalam aushadham.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "പണം പത്തും ഉണ്ടെങ്കിൽ ഗുണം പത്തും",
+    "literal_meaning": "If you have ten coins, you have ten virtues.",
+    "figurative_meaning": "Wealth is perceived as a substitute for good character; money changes how people are treated.",
+    "example": "Avanu panam aayappazhal ellaarum mechunnu — panam pattum undenghil gunam pattum.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "ആദ്യം ഓടി, പിന്നെ നടന്നു",
+    "literal_meaning": "Ran first, then walked.",
+    "figurative_meaning": "Starting with great enthusiasm but losing momentum over time.",
+    "example": "Prashikkum munnpu valiya utsaham, pinne vittu — aadyam odi pinne nadannu.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "കള്ളം പറഞ്ഞ് ജീവിക്കാം, പക്ഷേ ഒരിക്കൽ മതി",
+    "literal_meaning": "You can live by lying, but only once.",
+    "figurative_meaning": "Deception may work once but eventually fails.",
+    "example": "Vaaka onnu parayaam, pinne aarum vishwaasikkyukayilla — kallam parayunnathu orikkal mathi.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "ജോലി ചെയ്യുന്നവൻ ഭക്ഷണം കഴിക്കും",
+    "literal_meaning": "The one who works will eat.",
+    "figurative_meaning": "Only those who put in effort will receive their reward.",
+    "example": "Padam padikkaathe expect cheyyanda — jaoli cheyyunavan bhakshanam kazhikkum.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "ഒരു കൂട്ടിൽ രണ്ടു പൂവൻ",
+    "literal_meaning": "Two roosters in one cage.",
+    "figurative_meaning": "Two dominant people cannot coexist in the same space without conflict.",
+    "example": "Oru team il rendhu leaders — oru koottil randu pooovan.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "പറഞ്ഞതു ചെയ്യുക, ചെയ്തതു പറയാതിരിക്കുക",
+    "literal_meaning": "Do what you say, don't say what you have done.",
+    "figurative_meaning": "Be a person of action and quiet deeds, not empty words.",
+    "example": "Nee cheyyunnathu cheyyu, paranjukaanikkaruthu — paranjathu cheyyuka cheythatu parayaatirikkuka.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "കടലാഴം അറിഞ്ഞ് ഇറങ്ങണം",
+    "literal_meaning": "Know the depth of the sea before you descend.",
+    "figurative_meaning": "Understand the risks before committing to something.",
+    "example": "Business start cheyyunmunnp research cheyyuka — kadalaazhum arhinju iranganam.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "ഊർജ്ജം ഉള്ളവൻ ഉണ്ണും",
+    "literal_meaning": "The one with energy will eat.",
+    "figurative_meaning": "The active and driven person will always find a way to survive and thrive.",
+    "example": "Parisramikkan madicha vaadu eppozhum pinja — ooorjam ullavan unnum.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "ഉറ്റ ചങ്ങാതി ഉഴലും നേരം",
+    "literal_meaning": "A true friend struggles with you in your time of pain.",
+    "figurative_meaning": "Real friendship means being there during hardship, not just in good times.",
+    "example": "Kashtam vandappazhal koode nillu — utta changaathi uzhalum neram.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "ആകാശം ഇടിഞ്ഞാലും അമ്മ ആകാശം",
+    "literal_meaning": "Even if the sky falls, the mother is still the sky.",
+    "figurative_meaning": "A mother's love and importance is irreplaceable no matter what.",
+    "example": "Aval enne vittu poyalum amma enna feeling marailla — aakaasham idihnjalum amma aakaasham.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "ഒരു പ്രശ്നത്തിന് ആയിരം ഉത്തരം",
+    "literal_meaning": "One problem has a thousand solutions.",
+    "figurative_meaning": "There is always more than one way to solve a difficulty.",
+    "example": "Haaraatiriku, vaere vazhikal und — oru prashnatthinu aayiram uttaram.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "വലിയ ആൾ ചെറിയ ജോലി ചെയ്യില്ല",
+    "literal_meaning": "A big person will not do small work.",
+    "figurative_meaning": "People with status or pride avoid tasks they consider beneath them, even when necessary.",
+    "example": "Vaadu swaymam ceyyanam enghilum manikku — valiya aal cheriya jaoli cheyyilla.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "നല്ലത് ചെയ്താൽ നല്ലത് ലഭിക്കും",
+    "literal_meaning": "Do good and good will come to you.",
+    "figurative_meaning": "Kindness and virtue are rewarded in return.",
+    "example": "Sahaaayam cheythu, ippol avaru sahaayikkunnu — nallath cheythaal nallath labhikkum.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "ഉടലിൽ ഒരു ജീവൻ, ഉള്ളിൽ ഒരു ഭയം",
+    "literal_meaning": "One life in the body, one fear inside.",
+    "figurative_meaning": "A person who has done wrong lives in constant fear of being exposed.",
+    "example": "Avanu pazhaya vishayam manasilund — uddalil oru jeevan ullil oru bhayam.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "മലകൾ നീങ്ങും, മനസ്സ് നീങ്ങില്ല",
+    "literal_meaning": "Mountains may move but the mind will not.",
+    "figurative_meaning": "A stubborn person will not change their thinking no matter what.",
+    "example": "Pala pravashyam parayunnu kaaryam illa — malakal neengum manassu neengilla.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "ഇന്നലെ ഉണ്ടായിരുന്നത് ഇന്ന് ഇല്ല",
+    "literal_meaning": "What existed yesterday does not exist today.",
+    "figurative_meaning": "Nothing is permanent; circumstances change constantly.",
+    "example": "Avarudey power ippo poyirikkunnu — innale undaayirunnathu innu illa.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "ഒന്നിൽ തുടങ്ങിയവൻ ഒടുവിൽ ജയിക്കും",
+    "literal_meaning": "The one who starts with one will win in the end.",
+    "figurative_meaning": "Persistent consistent effort leads to eventual success.",
+    "example": "Pokaruthu, thudarnnu parishramichu — ondil thudanghiyavan oduiil jayikkum.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "ഇലയ്ക്ക് മുന്നേ കായ്",
+    "literal_meaning": "Fruit before the leaf.",
+    "figurative_meaning": "Getting results before putting in the proper foundation or process.",
+    "example": "Training kazhiyathe projects ettedukkunnu — ilaykku munnne kaay.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "ആൾ ഉള്ളിടത്ത് ആൾക്കൂട്ടം",
+    "literal_meaning": "Where there is a person, there will be a crowd.",
+    "figurative_meaning": "Success and good character attract people naturally.",
+    "example": "Vaadu jelichittundu, anekam perum koode und — aal ullideltthu aalkkootam.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "ഇടങ്ങേർ കണ്ടു ഒടിഞ്ഞു",
+    "literal_meaning": "Saw the left omen and broke.",
+    "figurative_meaning": "Giving up at the first sign of bad luck or difficulty.",
+    "example": "Oru failure konddu prashnikku angeer aadukayilla — idanger kandu odinnu.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "കണ്ട കണ്ണ് പൂട്ടും",
+    "literal_meaning": "Eyes that have seen will close.",
+    "figurative_meaning": "A witness who has seen too much will eventually be silenced.",
+    "example": "Avanu sahshyam und kabaali — kanda kannu poottum.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "ഒഴുകുന്ന വെള്ളം ദോഷം ചെയ്യില്ല",
+    "literal_meaning": "Flowing water causes no harm.",
+    "figurative_meaning": "A person who keeps moving and adapts does not stagnate or become corrupted.",
+    "example": "Adaptable aayirikkanam — ozhukkunna vellam dosham cheyyilla.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "പഠിക്കുന്ന കാലത്ത് പഠിക്കണം",
+    "literal_meaning": "One must study during the time for studying.",
+    "figurative_meaning": "Every phase of life has its proper activity; missing the right time is costly.",
+    "example": "Ippo padikkanam, pinne kaalam millaa — padikkkunna kaalatthu padikkanam.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "ഒരേ ഒരു ജീവൻ, ഒരിക്കൽ മാത്രം",
+    "literal_meaning": "One life, only once.",
+    "figurative_meaning": "Life is short and must not be wasted; make the most of every opportunity.",
+    "example": "Chance vittu kalyanda — ore oru jeevan orikkal maathram.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "ഭൂമി ചുറ്റുന്നു, ആൾ നിൽക്കുന്നു",
+    "literal_meaning": "The earth revolves, the person stands still.",
+    "figurative_meaning": "The world keeps changing and moving, but stubborn people refuse to adapt.",
+    "example": "Ellaam maarunnu, avan maaranilla — bhoomi chuttunnu aal nilkkunnu.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "കൈ നീട്ടിയാൽ കിട്ടും",
+    "literal_meaning": "Reach out your hand and you will receive.",
+    "figurative_meaning": "You must take initiative; opportunities come to those who try.",
+    "example": "Request cheyyaathu dorakilla — kai neettiyaal kittum.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "ഒരാൾ ഓടിയാൽ ഒരു നാടു ഓടും",
+    "literal_meaning": "If one person runs, a whole village runs.",
+    "figurative_meaning": "Panic is contagious; one person's fear can spread to many.",
+    "example": "Vaadu bhayann, pinne ellaarum bhayann — oraal odiyaal oru naadu odum.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "ഇരട്ടി ദുഃഖം ഇരട്ടി ബലം",
+    "literal_meaning": "Double sorrow gives double strength.",
+    "figurative_meaning": "Great suffering can build great resilience.",
+    "example": "Avalu kashtatthil aayi, ippol avalu strong aanu — iratti dukham iratti balam.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "ആർക്കും ആർക്കും ആവശ്യമാകും",
+    "literal_meaning": "Everyone will be needed by someone at some point.",
+    "figurative_meaning": "Never look down on anyone; everyone has value and use.",
+    "example": "Avane angatth kaanaruthu — aarkum aarkum aavashyamaakum.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "ഇടി വെട്ടിയവൻ കാറ്റിനെ ഭയക്കില്ല",
+    "literal_meaning": "One struck by lightning does not fear the wind.",
+    "figurative_meaning": "Someone who has survived great hardship is not intimidated by lesser difficulties.",
+    "example": "Aval ithreyum kashtam kanditund — idi vettiyavan kaatine bhayakkilla.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "ഒരു വാക്ക് ആയിരം യുദ്ധം",
+    "literal_meaning": "One word, a thousand wars.",
+    "figurative_meaning": "A single careless word can cause enormous conflict.",
+    "example": "Avanu thettaayoru vakku parayaan, randham verupaadu undaayi — oru vaakku aayiram yuddham.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "ചെറിയ മഴ, വലിയ ചളി",
+    "literal_meaning": "Small rain, big mud.",
+    "figurative_meaning": "A small event can cause disproportionately large problems.",
+    "example": "Chinna prashnakku oru peddha vazhakk — cheriya mazha valiya chali.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "കൊടുക്കുന്നവൻ ദൈവം",
+    "literal_meaning": "The giver is God.",
+    "figurative_meaning": "A generous person is the most valued and respected in any community.",
+    "example": "Avan ellaarum help cheyyunnu, anneyallaa avanre peru — kodukkunavan daivam.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "ആടിനെ ചതിച്ചവൻ കൊടുക്കാൻ വന്ന മരുന്ന്",
+    "literal_meaning": "Medicine offered by one who already betrayed the goat.",
+    "figurative_meaning": "A hypocritical remedy offered by someone who caused the harm in the first place.",
+    "example": "Vaadu thanne naashan, ippol sahaaayikaandaanu — aadine chathichhavan kodukkan vanna marunnu.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "ഭൂതം കൂടിയ ഇടത്ത് ദൈവം ഇല്ല",
+    "literal_meaning": "Where ghosts gather, God is not present.",
+    "figurative_meaning": "Where there is corruption and wrongdoing, goodness cannot thrive.",
+    "example": "Aa office il sathyam illaaval — bhootham koodiya idatthu daivam illa.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "ഒരു നേരം ഒരു ജോലി",
+    "literal_meaning": "One task at a time.",
+    "figurative_meaning": "Focus on one thing at a time for the best results.",
+    "example": "Randhu kaaranam onnichaayaal rendum maalikkyukayilla — oru neram oru jaoli.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "കൂടെ ഉണ്ണുന്നവൻ കൂടെ ഇരിക്കും",
+    "literal_meaning": "The one who eats with you will sit with you.",
+    "figurative_meaning": "People who share resources and meals with you are your true companions.",
+    "example": "Kashtakaalatthu koode nillu — koode unnarunnavan koode irikkum.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "ഒന്ന് ചെയ്താൽ ഒന്ന് കിട്ടും",
+    "literal_meaning": "Do one thing and one thing returns.",
+    "figurative_meaning": "Every action has an equal and corresponding reaction or outcome.",
+    "example": "Nee avare help cheythaal avaru ninneyum — onnu cheythaal onnu kittum.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "കഴിഞ്ഞ കാലം തിരിച്ചു വരില്ല",
+    "literal_meaning": "The past will not return.",
+    "figurative_meaning": "Time lost cannot be recovered; act in the present.",
+    "example": "Avashyam ippo cheyyuka — kazhinja kaalam thirichhu varilla.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "പറക്കുന്ന കിളി ചിറകൊടിഞ്ഞ് ഇറങ്ങും",
+    "literal_meaning": "A flying bird will land with broken wings.",
+    "figurative_meaning": "Pride and overconfidence lead to a hard fall.",
+    "example": "Vaadu etreyum above aayi, ippol thazheyettirrikkunnu — parakkunna kili chirakhodinnjiranngunm.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "ഓർക്കാതെ വന്ന ഭാഗ്യം",
+    "literal_meaning": "Fortune that came without being remembered or expected.",
+    "figurative_meaning": "Unexpected good luck that arrives without planning.",
+    "example": "Avan expect cheyyaathe job kitti — orkaathe vanna bhaagyam.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "ആലോചിച്ച് ആലോചിച്ച് ആലസ്യം",
+    "literal_meaning": "Thinking and thinking leads to lethargy.",
+    "figurative_meaning": "Overthinking leads to paralysis and inaction.",
+    "example": "Plan maathram aandu, aarum start cheyyunilla — aalochicch aalochicch aalasyam.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "ഇലകൾ കൊഴിഞ്ഞ് പോകും, വേര് നിൽക്കും",
+    "literal_meaning": "Leaves will fall, but the root will remain.",
+    "figurative_meaning": "Surface-level things change, but core foundations endure.",
+    "example": "Aarum poyi, kutumbam nilkkum — ilakal kozhinjupokum, veru nilkkum.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "ചെറിയ വള്ളം, ആഴമുള്ള കടൽ",
+    "literal_meaning": "A small boat, a deep sea.",
+    "figurative_meaning": "A person with limited ability facing a very large challenge.",
+    "example": "Ivide experience illaathe oru valiya project — cheriya vallam aazhammulla kadal.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "ഒന്ന് പറഞ്ഞ് ഒന്ന് ചെയ്യരുത്",
+    "literal_meaning": "Don't say one thing and do another.",
+    "figurative_meaning": "Be consistent between your words and your actions.",
+    "example": "Avanu ippol parayunnathum cheyyunnathum verthey — onnu parayunnu onnu cheyyaruthu.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "ഭക്ഷണം ഭക്ഷിക്കും, ഉറക്കം ഉറക്കും",
+    "literal_meaning": "Food will be eaten, sleep will be slept.",
+    "figurative_meaning": "Life's basic rhythms continue regardless of circumstances; things normalize.",
+    "example": "Ippo ithrem kashtam thonn, pakshe kaalathinnu kaaryam undaakum — bhakshanam bhakshikkum urakam urakkum.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "ഒരിക്കൽ ചിരിക്കുന്നവൻ, ഒരിക്കൽ കരയും",
+    "literal_meaning": "The one who laughs once will cry once too.",
+    "figurative_meaning": "Joy and sorrow take turns; no one escapes either.",
+    "example": "Avanu ippo santosham, pinne kashtam varaam — orikkal chirikkunavan orikkal karayum.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "ഒരാൾക്ക് ഒരു ദൈവം",
+    "literal_meaning": "One God for one person.",
+    "figurative_meaning": "Everyone has their own source of strength or support; don't depend on others entirely.",
+    "example": "Swanthaayi nilkkanam — oraalku oru daivam.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "ആനയ്ക്ക് ഒരു ദോഷം, കൊതുകിന് ഒരു ദോഷം",
+    "literal_meaning": "A flaw for the elephant, a flaw for the mosquito.",
+    "figurative_meaning": "Everyone, great or small, has their own weakness.",
+    "example": "Avanum valiyaval, avanum thettu cheyyunnu — anaykku oru dosham, kothukin oru dosham.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "ഒന്ന് ചോദിച്ചാൽ നൂറ് കിട്ടും",
+    "literal_meaning": "Ask one thing and receive a hundred.",
+    "figurative_meaning": "A single honest question can yield abundant insight or help.",
+    "example": "Doubt undenkil chodik — onnu chodichhaal nooru kittum.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "കണ്ണ് കാണുന്ന ഇടം വരെ മാത്രം",
+    "literal_meaning": "Only as far as the eye can see.",
+    "figurative_meaning": "People tend to only care about or plan for what is immediately visible to them; short-sightedness.",
+    "example": "Long term plan illaathe mattram ippo noka — kannu kaanunna idam vare maathram.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "ഇഷ്ടമില്ലെങ്കിൽ ഇറങ്ങിപ്പോ",
+    "literal_meaning": "If you don't like it, get out.",
+    "figurative_meaning": "Take it or leave it; no room for complaints.",
+    "example": "Avanodu verum oru vaakku — ishtamillengil irangi poo.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "കരഞ്ഞാൽ കിട്ടുന്നതല്ല കാര്യം",
+    "literal_meaning": "Things don't happen just because you cry.",
+    "figurative_meaning": "Complaining and lamenting solve nothing; action is needed.",
+    "example": "Karayaathe pani cheyyoo — karanjaal kittunnathallla kaaryam.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "പോയ കാലം തിരിച്ചുവരില്ല",
+    "literal_meaning": "The time that has gone will not return.",
+    "figurative_meaning": "The past cannot be recovered; do not waste the present.",
+    "example": "Poya divasam poya divasam — poya kaalam thirichuvaryilla.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "ഉറക്കം കെട്ടവൻ കിടക്ക കുറ്റം പറയും",
+    "literal_meaning": "One who cannot sleep blames the bed.",
+    "figurative_meaning": "A bad workman blames his tools.",
+    "example": "Avan pooranaayi fail aayittu question kashtamaayirunnu ennaa parayunnathu — urakkam kettavan kidakka kuttam parayum.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "ഒരു കൂരക്ക് കീഴിൽ ഒരു കൂട്ടം",
+    "literal_meaning": "One group under one roof.",
+    "figurative_meaning": "Unity and togetherness under a common cause or leadership.",
+    "example": "Aarum verum thakararathe pani cheythu — oru koorakkuk keezil oru koottam.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "കേട്ടതെല്ലാം വിശ്വസിക്കരുത്",
+    "literal_meaning": "Do not believe everything you hear.",
+    "figurative_meaning": "Be skeptical; rumors and hearsay are unreliable.",
+    "example": "Vaarthakal sherikkaanoo enna ariyathe parachathuvinnaa — kettathellam vishwasikkaruthu.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "ആരോഗ്യമേ മഹാഭാഗ്യം",
+    "literal_meaning": "Good health is the greatest fortune.",
+    "figurative_meaning": "Health is more valuable than any wealth.",
+    "example": "Panamaanaalum arogyam poyaal vashamillla — aarogyame mahaa bhaagyam.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "ചോദിക്കാതെ ഉപദേശം കൊടുക്കരുത്",
+    "literal_meaning": "Do not give advice when not asked.",
+    "figurative_meaning": "Unsolicited advice is unwelcome and disrespectful.",
+    "example": "Aval chodyichu ennillaatthe nee parayaruthu — chodyikkathe upadeshm kodukkkaruthu.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "ഏണിപ്പടി ഒഴിഞ്ഞ ശേഷം ഏണിയെടുക്കും",
+    "literal_meaning": "They take away the ladder once you've climbed the steps.",
+    "figurative_meaning": "People remove the means of progress for others once they themselves have benefited.",
+    "example": "Vaadu career undakkiyathu avare vachu; ippol avare theettunnuu — enipadi ozhinja sesham eni edukum.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "കൂടെ ജനിച്ചവനും ശത്രുവാകും",
+    "literal_meaning": "Even one born with you can become an enemy.",
+    "figurative_meaning": "No relationship guarantees loyalty; even siblings can betray you.",
+    "example": "Avan shodaran thanne — koode janichhavanum shatruvakum.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "ചെറിയ തോണിക്ക് ചെറിയ ഭാരം",
+    "literal_meaning": "Small boat, small load.",
+    "figurative_meaning": "Take on only as much as your capacity allows.",
+    "example": "Ippol ithu mathi, korachu korachu cheyyam — cheriya thoonikku cheriya bhaaram.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "ഇഷ്ടമുള്ളത് ചെയ്‌താൽ ഇഷ്ടം വരും",
+    "literal_meaning": "Do what you love, and love will come.",
+    "figurative_meaning": "Passion leads to mastery and fulfillment.",
+    "example": "Nee aagraham ullathu therinju padikku — ishtamullath cheythal ishtam varum.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "തിന്നാൽ ദോഷം, തിന്നാതിരുന്നാൽ ദോഷം",
+    "literal_meaning": "Trouble if you eat, trouble if you don't.",
+    "figurative_meaning": "A situation where every option leads to a problem; a no-win situation.",
+    "example": "Cheytuam kashtam, cheyyaatuam kashtam — tinnaal dosham, tinnaatyirunnal dosham.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "വളഞ്ഞ മരത്തിന് വളഞ്ഞ നിഴൽ",
+    "literal_meaning": "A crooked tree has a crooked shadow.",
+    "figurative_meaning": "A person's nature is reflected in everything they produce or influence.",
+    "example": "Avante team kooda avane pole — valanja marattinu valanja nizhal.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "ഒഴിഞ്ഞ പാത്രം ഒച്ച വെക്കും",
+    "literal_meaning": "An empty vessel makes noise.",
+    "figurative_meaning": "People with little substance make the most noise.",
+    "example": "Vaadu valiya aaL annu parayannu vattunnnu, kazhivu onnum illa — ozhinja paatram occha vekkum.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "കഴിഞ്ഞ കാലം കഴിഞ്ഞു",
+    "literal_meaning": "The past time is past.",
+    "figurative_meaning": "Stop dwelling on the past; move forward.",
+    "example": "Athu muzhuvan kzhiyanjathaanu — kazhinja kaalam kazhiyunju.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "ബുദ്ധി ഉള്ളവൻ ഒറ്റക്ക് നടക്കും",
+    "literal_meaning": "The wise man walks alone.",
+    "figurative_meaning": "Truly wise people do not need the crowd's validation.",
+    "example": "Vaadu aarkum poyi parayathe swantham vali theranjedukkunnnu — buddhi ullavan ottakku nadakkum.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "മഴ തോർന്നാൽ വെയിൽ വരും",
+    "literal_meaning": "After the rain stops, the sun will come.",
+    "figurative_meaning": "Hardship is temporary; better times always follow.",
+    "example": "Ippol kashtamaa, pakshe sheriyvum — mazha thornnal veyil varum.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "ഒരു കൈ നൽകിയാൽ ഒരു കൈ തിരിച്ചു കിട്ടും",
+    "literal_meaning": "Give one hand, receive one hand in return.",
+    "figurative_meaning": "What you give to others comes back to you.",
+    "example": "Avanodu sneham kaattiyathu moolam avanu koottukaaraan kitti — oru kai nalgiyal oru kai thirichhu kittum.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "മൂന്നു മണി കഴിഞ്ഞ് പഠിക്കുന്നത്",
+    "literal_meaning": "Studying after three o'clock (too late in the day).",
+    "figurative_meaning": "Starting to prepare when it is already too late.",
+    "example": "Exam naalye, ippol padikkaanirikkunnnu — moonnu mani kazhinyathu padikkunnathu.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "കൂർമ്മ ബുദ്ധി ഉള്ളവൻ കുഴിയിൽ വീഴില്ല",
+    "literal_meaning": "A sharp-minded person will not fall into a pit.",
+    "figurative_meaning": "Intelligence and foresight keep you out of trouble.",
+    "example": "Vaadu mundey thanne itharinju — koorma buddhi ullavan kuzhiyil veezilla.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "ഉള്ളതു കൊണ്ട് ഒതുങ്ങിക്കഴിയണം",
+    "literal_meaning": "One must manage with what one has.",
+    "figurative_meaning": "Be content and resourceful with what is available.",
+    "example": "Ippol ithu mathi ennu manassilaakkoo — ullatu kondu otungikkazhiyaanam.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "ആരും ആരെ ഓർക്കില്ല",
+    "literal_meaning": "No one remembers anyone.",
+    "figurative_meaning": "People are forgotten quickly once they are gone or no longer useful.",
+    "example": "Vaadu poyi, aarum thirichhunokkiyilla — aarum aare orkkyilla.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "കൊഴിഞ്ഞ ഇല തിരിച്ചു ചേരില്ല",
+    "literal_meaning": "A fallen leaf cannot rejoin the branch.",
+    "figurative_meaning": "Some separations and losses are permanent and irreversible.",
+    "example": "Aa bandham thutinju — kozhinja ila thirichhu cheriyilla.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "ദൈവം കൊടുക്കുന്നത് ആർക്കും തടയാൻ കഴിയില്ല",
+    "literal_meaning": "What God gives cannot be stopped by anyone.",
+    "figurative_meaning": "Destiny and fortune cannot be blocked by human intervention.",
+    "example": "Avanu kitten ennundu ennal kittoum — daivam kodukkunnath aarkkum tadayaan kaziyilla.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "ഇരുട്ടത്ത് ഇരുന്ന് വെളിച്ചത്തെ കുറ്റം പറയരുത്",
+    "literal_meaning": "Do not blame the light while sitting in the darkness.",
+    "figurative_meaning": "Do not criticize what you yourself are refusing or failing to embrace.",
+    "example": "Avan padikkaathe padippinopp kuttam parayunnu — iruttath irnnu velichath kuttam parayaaruthu.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "ചക്രശ്വാസം വലിക്കുന്നതുവരെ",
+    "literal_meaning": "Until drawing one's last wheezed breath.",
+    "figurative_meaning": "Until the very end of life; to the last moment.",
+    "example": "Vaadu porunnathu vare pani cheyth — chakrasvaasam valikkunnathuvare.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "കടം വാങ്ങിയ ആനക്ക് കൊമ്പ് കൂടുതൽ",
+    "literal_meaning": "A borrowed elephant seems to have bigger tusks.",
+    "figurative_meaning": "People show off borrowed or temporary things as if they were their own.",
+    "example": "Vaadu avaante car vaangichi parade nadattunnu — kadam vaangiya aanakku kombu kooduthal.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "ജോലി ചെയ്യുന്നവൻ തൊഴിൽ നേടും",
+    "literal_meaning": "The one who works will gain employment.",
+    "figurative_meaning": "Hard work and initiative create their own opportunities.",
+    "example": "Vaadu kaaththirikkunnilla swayam sheramikkunnu — jooli cheyyunnavan thozhil nedum.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "ഒരു ദിക്കിൽ ഉദിക്കും, മറ്റൊരു ദിക്കിൽ അസ്തമിക്കും",
+    "literal_meaning": "Rises in one direction, sets in another.",
+    "figurative_meaning": "A person's influence or fortune shifts over time and context.",
+    "example": "Avan oru kalathu valiyavanaayrunu, ippol arum vekkunnilla — oru dikkil udikkum, mattoru dikkil asthamikkkum.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "ഭൂതം പോയ ഭൂതം",
+    "literal_meaning": "The ghost that has gone is gone.",
+    "figurative_meaning": "What is over is over; no point revisiting the past.",
+    "example": "Aa vishayam kazhinju — bhootham poya bhootham.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "മൂർഖൻ ഒരു ദോഷം ചെയ്‌താൽ നൂറ് ദോഷം ഉണ്ടാകും",
+    "literal_meaning": "If a fool commits one wrong, a hundred wrongs follow.",
+    "figurative_meaning": "A foolish action creates cascading problems.",
+    "example": "Avan oru tappu cheythu, ippol annekaare aayi — moorkkhan oru dosham cheythal nooru dosham undakum.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "ആദ്യം ചിന്തിക്കുക, പിന്നെ പ്രവർത്തിക്കുക",
+    "literal_meaning": "First think, then act.",
+    "figurative_meaning": "Careful thought before action prevents regret.",
+    "example": "Oru randu minutu irikku, pinne cheyyoo — aadyam chinthikkuka, pinne pravartthikkuka.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "ഗൃഹത്തിൽ ഐശ്വര്യം ഉണ്ടെങ്കിൽ ഗൃഹനാഥൻ ഐശ്വര്യവാൻ",
+    "literal_meaning": "If there is prosperity in the home, the head of the house prospers.",
+    "figurative_meaning": "The wellbeing of the household reflects the wellbeing of its leader.",
+    "example": "Varum varavin koottuttil sherivaakumbol varum — gruhatthil aishwaryam undenghil gruhanathan aishwaryavaan.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "ഉരുളുന്ന കല്ല് ഒരിടത്ത് ഉറക്കില്ല",
+    "literal_meaning": "A rolling stone does not settle in one place.",
+    "figurative_meaning": "A restless person who keeps moving never builds stability.",
+    "example": "Vaadu oru sthalathu nilkkaatthe nadakkunnu — urulunna kallu oru idatthu urakkilla.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "ഉള്ളിൽ ഇല്ലാത്തത് വെളിയിൽ കാണില്ല",
+    "literal_meaning": "What is not inside cannot be seen outside.",
+    "figurative_meaning": "A person can only show outwardly what they truly possess within.",
+    "example": "Sneham illaattevan sneham nadinikkukayillla — ullil illaathathu veliyil kaanilla.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "തോറ്റവൻ ഇരട്ടി ഓടണം",
+    "literal_meaning": "The one who loses must run twice as fast.",
+    "figurative_meaning": "After a failure, you must work twice as hard to recover.",
+    "example": "Oru thaval pazhichu, ippol ore aagraha thode tirichu vaa — thottavan iratti odanam.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "ദൂരെ ഉള്ളത് ദൂരെ ഇരിക്കട്ടെ",
+    "literal_meaning": "Let what is far away remain far away.",
+    "figurative_meaning": "Do not meddle in matters that do not concern you.",
+    "example": "Avante vishayam avarkku vittukoo — doorey ullath doorey irikkatte.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "ചിരിക്കുന്ന മുഖം ചിരിക്കാത്ത മനസ്സ്",
+    "literal_meaning": "A smiling face, an unsmiling heart.",
+    "figurative_meaning": "Outward cheerfulness concealing inner pain or deceit.",
+    "example": "Vaadu enninaum chirikunnu, pakshe ullil kashtam — chirikkunna mukham chirikkaatha manass.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "ജ്ഞാനം ഉള്ളവൻ ജഡ്ജ് ചെയ്യില്ല",
+    "literal_meaning": "A knowledgeable person does not judge.",
+    "figurative_meaning": "True wisdom brings humility and understanding, not judgment.",
+    "example": "Avanu ariyaam, pakshe onninum parayaaru — jnaanam ullavan jajj cheyyilla.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "വേരില്ലാത്ത മരം വീഴും",
+    "literal_meaning": "A tree without roots will fall.",
+    "figurative_meaning": "Anything without a strong foundation will eventually collapse.",
+    "example": "Company culture sheri alla, ennaal thurannu poyi — verillaatha maram veezum.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "ഒരു വാക്ക് ആയിരം യുദ്ധം ജയിക്കും",
+    "literal_meaning": "One word can win a thousand battles.",
+    "figurative_meaning": "The right words spoken at the right time can be more powerful than force.",
+    "example": "Avante oru vaaakku situation thirichu — oru vaakk ayiram yuddham jayikkum.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "ഗ്രഹണം മാറിയാൽ വെളിച്ചം വരും",
+    "literal_meaning": "When the eclipse passes, the light returns.",
+    "figurative_meaning": "Difficult times are temporary; clarity and goodness will return.",
+    "example": "Ee kashtam maarttipookum — grahanam maariyaal velicham varum.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "ഏറ്റ ഉത്തരവാദിത്തം ഏറ്റ് നടക്കണം",
+    "literal_meaning": "The responsibility you have taken must be carried through.",
+    "figurative_meaning": "Once you accept a duty, you must fulfill it completely.",
+    "example": "Vaakku koduththathu thirikkanam — yettta uttaravaadithvam yettu nadakkkanam.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "ഓടാത്ത കാൽ ഓടും ഓടിയ കാൽ ക്ഷീണിക്കും",
+    "literal_meaning": "The leg that did not run will run; the leg that ran will tire.",
+    "figurative_meaning": "Everyone has their moment; those who rush tire, those who wait get their turn.",
+    "example": "Aa samayam varum, kaathirikkoo — odaatha kaal odum, odiya kaal ksheenikkum.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "കയ്യിൽ ഉള്ളത് കൊണ്ട് കളിക്കൂ",
+    "literal_meaning": "Play with what is in your hand.",
+    "figurative_meaning": "Make the best use of the resources you currently have.",
+    "example": "Ippol ithey ullu, ithukond chesyyam — kayyil ullath kondu kalikkoo.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "നടന്നവഴി തന്നെ തിരിച്ച് നടക്കണ്ട",
+    "literal_meaning": "No need to walk back the same path you walked.",
+    "figurative_meaning": "Do not repeat past mistakes or return to what you have moved on from.",
+    "example": "Aa sambhavam marannu munde poo — nadannavazhi thinne thirichchu nadakkkand.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "ഉറക്കത്തിൽ കണ്ടതിനെ ഉണർന്ന് തേടരുത്",
+    "literal_meaning": "Do not search awake for what you saw in a dream.",
+    "figurative_meaning": "Do not chase fantasies or illusions as if they were real.",
+    "example": "Avan yathaarthyam illaatha plan tharanu pinthudarnnu — urakkatthil kandathine unarnnu thedaruthu.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "കരിയില കൊണ്ട് കൊള്ളി ഉണ്ടാക്കാം",
+    "literal_meaning": "You can make a torch from a dry leaf.",
+    "figurative_meaning": "Even something small or insignificant can be made useful.",
+    "example": "Chinna budget aayirunnu, pakshe nallorunnu cheythu — kariyila kondu kolli undaakkam.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "ഒരു ദിവസം ഒരു നൂൽ നൂൽക്കുന്നവൻ ഒരു വർഷം ഒരു വസ്ത്രം ഉണ്ടാക്കും",
+    "literal_meaning": "One who spins one thread a day will make one garment in a year.",
+    "figurative_meaning": "Consistent small efforts accumulate into a great result.",
+    "example": "Rozhum oru page ezhuthiyaal novel theerum — oru divasam oru nool noolkkunavan.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "ഉച്ചി മുതൽ ഉള്ളം കാൽ വരെ",
+    "literal_meaning": "From the crown of the head to the sole of the foot.",
+    "figurative_meaning": "Completely; through and through; from top to bottom.",
+    "example": "Aa vishayam uchi muthal ullam kaal vare ariyam.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "കണ്ണ് ഉള്ളവൻ കാണും",
+    "literal_meaning": "One who has eyes will see.",
+    "figurative_meaning": "The truth is visible to anyone willing to look.",
+    "example": "Avarum undaakirunnu, enkilum kaanaathe nadinchhu — kannu ullaavan kaanum.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "ഇടിവെട്ടിയവനെ പാമ്പ് കടിക്കും",
+    "literal_meaning": "A snake will bite one already struck by lightning.",
+    "figurative_meaning": "Troubles pile on those who are already suffering.",
+    "example": "Naukri poyitti, ippol arogya prasnayum — idivettiyavane pambu kadikkum.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "കഴുത്ത് മുറിക്കുന്ന സൗഹൃദം",
+    "literal_meaning": "A friendship that cuts the throat.",
+    "figurative_meaning": "A relationship that appears friendly but is actually harmful.",
+    "example": "Vaadu ente rahasym vellatthi — kazhuthu murrikkunna sauhrudam.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "ആർക്കും ആർക്കും ഉള്ളതല്ല",
+    "literal_meaning": "It does not truly belong to anyone.",
+    "figurative_meaning": "Shared or public things are often neglected by everyone.",
+    "example": "Office pantry aarkkum swantham allathathukond villakkam illaathayi — aarkkum aarkkum ullathalla.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "കുറ്റം പറഞ്ഞ് കഴിയുന്നവൻ",
+    "literal_meaning": "One who spends life criticizing.",
+    "figurative_meaning": "A chronic fault-finder who never contributes anything positive.",
+    "example": "Vaadu always others ne criticize cheyyunnu, swayam onnum cheyyunilla — kuttam paryunnu kazhinunavan.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "ഒഴുക്കിനെ നേരിടണം",
+    "literal_meaning": "One must face the current.",
+    "figurative_meaning": "You must confront challenges head-on rather than avoid them.",
+    "example": "Kashtam vannapol ozhivaarkaruthu — ozhukine nerridaanam.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "ഒരൊറ്റ ദിവസം കൊണ്ട് നഗരം പണിതില്ല",
+    "literal_meaning": "A city was not built in a single day.",
+    "figurative_meaning": "Great things take time and sustained effort.",
+    "example": "Ippolthanne result venam ennu chinthikkanda — ororttaa divasam kondu nagaram panitthilla.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "ഓടുന്ന വണ്ടിക്ക് ചക്രം മാറ്റരുത്",
+    "literal_meaning": "Do not change the wheel of a moving vehicle.",
+    "figurative_meaning": "Do not make major changes to something that is already working.",
+    "example": "System nannaayi pani cheyyunnu, ippol maattanda — odunna vandikku chakram maattarruthu.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "ഒറ്റ അടിക്ക് ഒരു കല്ല് ഇളകില്ല",
+    "literal_meaning": "A single blow will not dislodge a stone.",
+    "figurative_meaning": "Persistent effort is needed; one attempt is rarely enough.",
+    "example": "First try il result kitttiyilla, thudarnnu cheyyanam — otta adikku oru kallu ilakilla.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "ആളെ കണ്ടിട്ട് ആശ",
+    "literal_meaning": "Hope only after seeing the person.",
+    "figurative_meaning": "Do not count on help until it is actually in front of you.",
+    "example": "Vaadu varum ennuth nishchayam illla — aale kanditu aasha.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "പകൽ ചെയ്തത് രാത്രി മറക്കരുത്",
+    "literal_meaning": "Do not forget at night what you did during the day.",
+    "figurative_meaning": "Be consistent in your actions; do not contradict yourself.",
+    "example": "Avan pakal parayunnathu, raatri thallipparayyunnu — pakal cheytathu raatri marakkkaruthu.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "ഊർദ്ധ്വശ്വാസം വലിക്കുന്ന ബന്ധം",
+    "literal_meaning": "A relationship drawing its last breath.",
+    "figurative_meaning": "A relationship or partnership that is on the verge of complete breakdown.",
+    "example": "Avarum thammil maathadam onnumill — oorddhvaswaasam vallikkunna bandham.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "പൊളിഞ്ഞ കപ്പൽ ഒഴുകില്ല",
+    "literal_meaning": "A broken ship will not float.",
+    "figurative_meaning": "A fundamentally flawed system or plan cannot succeed.",
+    "example": "Athi kashtamaayi design chessu, ippol fail — polinjna kappal ozhukilla.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "തോർക്കാൻ ഒരു കൈ, കൂട്ടാൻ ഒരു കൈ",
+    "literal_meaning": "One hand to wipe, one hand to gather.",
+    "figurative_meaning": "Every loss must be balanced by a gain; life has give and take.",
+    "example": "Oru pani poyirunnu, matoru kittu — thorkkaan oru kai, koottaan oru kai.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "ആരോഗ്യം ഉള്ളിടത്ത് ആനന്ദം",
+    "literal_meaning": "Where there is health, there is joy.",
+    "figurative_meaning": "Good health is the foundation of happiness.",
+    "example": "Panam undu, pakshe arogym illa — aarogym ullideltthu aanandam.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "വേണ്ടാത്ത ഉപദേശം വിഷം",
+    "literal_meaning": "Unwanted advice is poison.",
+    "figurative_meaning": "Advice given without being asked can do more harm than good.",
+    "example": "Avan chodyikkathe cheppan poyi, avalu vexed aayi — vendaatha updesham visham.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "ചൂടുള്ളപ്പോൾ ഇരുമ്പ് അടിക്കണം",
+    "literal_meaning": "Strike the iron while it is hot.",
+    "figurative_meaning": "Act at the right moment when conditions are favourable.",
+    "example": "Offer vachinappazhe accept cheyyaayirunnu — chooduullapol irimbu adikkanam.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "ഒരു ദേശം ഒരു ഭാഷ",
+    "literal_meaning": "One country, one language.",
+    "figurative_meaning": "Unity of purpose and communication creates a cohesive community.",
+    "example": "Team oru dikhile pokanam — oru desham oru bhaasha.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "ചന്തയിൽ ചെന്ന് ചളി വാരണ്ട",
+    "literal_meaning": "Do not go to the market to gather mud.",
+    "figurative_meaning": "Do not engage in or bring home troubles from outside.",
+    "example": "Offisu kakkaattu vaarthakal veettil parayanda — chanthayil chennu chali vaaranda.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "കരഞ്ഞ് കലം ഉടയ്ക്കരുത്",
+    "literal_meaning": "Do not break the pot by weeping over it.",
+    "figurative_meaning": "Do not let grief or frustration cause you to destroy what you have.",
+    "example": "Panicchu theruvu mutthi kudikkanda — karannju kalam udaykkaruthu.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "ഉറ്റവരെ ഓർക്കണം, ഉള്ളത് കൊടുക്കണം",
+    "literal_meaning": "Remember your loved ones and give what you have.",
+    "figurative_meaning": "Cherish and be generous with those close to you.",
+    "example": "Avarum doorey aayanappol manassilaayii — uttavare orkkkanam, ullath kodukkkanam.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "ശബ്ദം ഉണ്ട്, ശക്തി ഇല്ല",
+    "literal_meaning": "There is sound, but no strength.",
+    "figurative_meaning": "All talk and no capability; noise without substance.",
+    "example": "Vaadu meetings il valiya vaakkukal parayum, cheyyum onnum — shabdam undu, shakti illa.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "ദൈവം സൃഷ്ടിച്ചതും ദൈവം നശിപ്പിക്കും",
+    "literal_meaning": "What God created, God will destroy.",
+    "figurative_meaning": "Everything that exists will eventually end; impermanence is universal.",
+    "example": "Athum itum ellam kaalam theerumbo teerrum — daivam srushtichathum daivam nashipikkum.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "ആനയ്ക്ക് ആനക്കരുത്ത്",
+    "literal_meaning": "Strength fit for an elephant.",
+    "figurative_meaning": "Extraordinary power or capacity, suited only to the strongest.",
+    "example": "Avanu aarum cheyya kazhiyaatha pani cheythu — anaykku aanakkarutth.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "മൗനം സമ്മതം",
+    "literal_meaning": "Silence is consent.",
+    "figurative_meaning": "Not speaking up is taken as agreement.",
+    "example": "Vaadu onnum parayanilla, athinu artham shari ennaa — mounam sammtham.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "കൂടെ ഉള്ളവൻ ഒപ്പം നടക്കണം",
+    "literal_meaning": "One who is with you must walk alongside.",
+    "figurative_meaning": "A true partner must keep pace and not fall behind or race ahead.",
+    "example": "Team member avarude pace il pani cheyyaarunilla — koode ullavan oppam nadakkanam.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "ആട്ടിൻ തോലിട്ട ചെന്നായ",
+    "literal_meaning": "A wolf in sheep's clothing.",
+    "figurative_meaning": "Someone who pretends to be harmless or good but is actually dangerous.",
+    "example": "Vaadu nalla polirikkum, pakshe ullil vera — aattin tholida chennaayi.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "ഒരു കുടം നിറഞ്ഞാൽ കവിയും",
+    "literal_meaning": "When a pot is full, it overflows.",
+    "figurative_meaning": "Every person has a limit to their patience; push too far and they will react.",
+    "example": "Avan ithuvare sahinchhu, ippol pottity — oru kudam nirannjal kaviyum.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "ഉള്ളം കൈ നോക്കുന്നത് പോലെ",
+    "literal_meaning": "Like looking at the palm of your hand.",
+    "figurative_meaning": "Something is perfectly clear and obvious.",
+    "example": "Sathyam ullam kai nokkunnapole spashttam — enthu proof venam.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "ഒരു കൂരക്ക് കീഴ്പ്പെടാത്ത ഛത്രം",
+    "literal_meaning": "An umbrella that won't bow under one roof.",
+    "figurative_meaning": "A person who refuses to submit to any authority.",
+    "example": "Vaadu aareyum kuttaakkarunilla — oru koorakku keezh padaatha chatram.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "ഇടിമിന്നൽ ഭൂമി ഭയക്കില്ല",
+    "literal_meaning": "The earth does not fear lightning.",
+    "figurative_meaning": "A grounded and stable person is not shaken by sudden threats or outbursts.",
+    "example": "Avante oru vaakku kond avan tharimaarunilla — idiminnaal bhoomi bhayakkilla.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "കാറ്റ് ഏൽക്കാത്ത ദീപം",
+    "literal_meaning": "A flame untouched by wind.",
+    "figurative_meaning": "Someone who is not influenced by outside pressure or opinion.",
+    "example": "Avante focus maaraattha — kaattu elkaatha deepam.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "ഒന്ന് ചെറുതും ഒന്ന് വലുതും",
+    "literal_meaning": "One small and one big.",
+    "figurative_meaning": "A mismatched pair; two things that do not belong together.",
+    "example": "Aavarude team balance illaatha — onnu cheruthum onnu valu.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "മരിക്കുന്നതിന് മുൻപ് ഓർക്കണം",
+    "literal_meaning": "Remember before you die.",
+    "figurative_meaning": "Do not put off what is important; act while you still have time.",
+    "example": "Avide poi nokkanam, ippol kazhiyuvolam — marikkunnathin munpu orkkkanam.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "ആദ്യം ഒരുങ്ങൂ, പിന്നെ ഇറങ്ങൂ",
+    "literal_meaning": "First prepare, then step out.",
+    "figurative_meaning": "Always prepare thoroughly before starting anything.",
+    "example": "Interview ki pokathe munpe research cheyyaayirunnu — aadyam orungoo, pinne irangoo.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "ഗൃഹലക്ഷ്മി ഉള്ള ഇടം",
+    "literal_meaning": "A place where the household goddess resides.",
+    "figurative_meaning": "A home that is blessed with warmth, prosperity, and harmony.",
+    "example": "Avar veettil oru special atmosphere undu — gruhalakshmi ulla idam.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "ഒഴിഞ്ഞ സ്ഥലത്ത് ഒഴിഞ്ഞ മനസ്സ്",
+    "literal_meaning": "An empty place, an empty mind.",
+    "figurative_meaning": "Idleness leads to negative or wandering thoughts.",
+    "example": "Vaadu oru pani cheyyunilla, maanasika prasnangal koodi — ozhinja sthalatthu ozhinja manass.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "ഒരിക്കൽ കത്തിയ വിളക്ക് വീണ്ടും കത്തും",
+    "literal_meaning": "A lamp that once burned will burn again.",
+    "figurative_meaning": "Someone who was once great can rise again.",
+    "example": "Vaadu oru kaalathu nannaayi undaayrunu, ippol tirichu vannu — orikkal kattthiya vilakku veendum katttum.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "ഉള്ള ഊണ് ഉണ്ടു ജീവിക്കൂ",
+    "literal_meaning": "Eat the food you have and live.",
+    "figurative_meaning": "Be content with what you have instead of craving more.",
+    "example": "Expectations kurakkoo — ulla oonu undu jeevikkoo.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "ഒരു നോട്ടം ആയിരം വാക്കിനു തുല്യം",
+    "literal_meaning": "One glance is equal to a thousand words.",
+    "figurative_meaning": "A look can communicate what no amount of words can.",
+    "example": "Avanu ennodu oru nokkam mathi, artham ayi — oru nottam ayiram vaakinu tulyam.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "ഓടുന്നിടത്ത് വീഴ്ചയും ഉണ്ട്",
+    "literal_meaning": "Where there is running, there is also falling.",
+    "figurative_meaning": "Ambition and action carry the risk of failure.",
+    "example": "Risk edukkathe avanghottilla — odunnidaltthu veechayum undu.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "കൊണ്ടുവന്നവൻ കൊടുക്കണം",
+    "literal_meaning": "The one who brought it must give it.",
+    "figurative_meaning": "Whoever created the problem is responsible for fixing it.",
+    "example": "Vaade aa situation undaakki, vaade resolve cheyyaanam — konduvannavan kodukkkanam.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "ഇലയും മുള്ളും ഒരുമിച്ചിരിക്കും",
+    "literal_meaning": "The leaf and the thorn sit together.",
+    "figurative_meaning": "Good and bad always coexist; you cannot have one without the other.",
+    "example": "Ivide nallathum kettathum ondicchirikkum — ilayum mullum orumich irikkum.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "ഒരു ദോഷം മറക്കൂ, ഒരു ഗുണം ഓർക്കൂ",
+    "literal_meaning": "Forget one fault, remember one virtue.",
+    "figurative_meaning": "Focus on the good in others rather than their flaws.",
+    "example": "Avante oru tappu kaanaathe nadinchu — oru dosham marakku, oru gunam orkku.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "കരഞ്ഞ് ഫലമില്ല, ചിരിച്ച് ജീവിക്കൂ",
+    "literal_meaning": "Crying is useless; live by smiling.",
+    "figurative_meaning": "Adopt a positive attitude; wallowing in sorrow changes nothing.",
+    "example": "Kaaryam kazhinjtu, ippol munde pookoo — karanjhu phalamill, chirichu jeevikkoo.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "തെറ്റ് ഒരിക്കൽ ക്ഷമിക്കാം",
+    "literal_meaning": "A mistake can be forgiven once.",
+    "figurative_meaning": "Forgiveness is possible for a first mistake, but repeated offenses cannot be excused.",
+    "example": "Avar oru thaval kshamichchu, randaam thaval aavilla — thettu orikkal kshamikkam.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "ഒരു ചിരി ആയിരം ദുഃഖം മാറ്റും",
+    "literal_meaning": "One smile can remove a thousand sorrows.",
+    "figurative_meaning": "Positivity and warmth have great healing power.",
+    "example": "Avante oru chiri avarude sadanam maattti — oru chiri aaayiram dukham maattum.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "കണ്ടു കേൾക്കുക",
+    "literal_meaning": "To see and hear.",
+    "figurative_meaning": "To be aware of something.",
+    "example": "He is well-informed about the situation; he can see and hear everything.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "ആകാശത്ത് താറാവ് പറന്നാൽ",
+    "literal_meaning": "If a bird flies in the sky.",
+    "figurative_meaning": "Something that is unlikely to happen.",
+    "example": "If he wins the lottery, it will be like a bird flying in the sky.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "കണ്ണിൽ കുളിച്ചാൽ",
+    "literal_meaning": "If it gets into the eye.",
+    "figurative_meaning": "Something that is very close or personal.",
+    "example": "This issue is very close to my heart; it's like it gets into my eye.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "മുട്ടിനെ തട്ടുക",
+    "literal_meaning": "To break the egg.",
+    "figurative_meaning": "To take a bold step or risk.",
+    "example": "He decided to break the egg and start his own business.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "കണ്ണീരൊഴുക്കുക",
+    "literal_meaning": "To shed tears.",
+    "figurative_meaning": "To express deep sorrow or emotion.",
+    "example": "She couldn't help but shed tears during the emotional movie.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "വെള്ളം കയറി",
+    "literal_meaning": "To get into water.",
+    "figurative_meaning": "To face difficulties or challenges.",
+    "example": "He got into water while trying to complete the project on time.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "പൂവിന്റെ മണം",
+    "literal_meaning": "The fragrance of a flower.",
+    "figurative_meaning": "Something beautiful or pleasant.",
+    "example": "Her smile is like the fragrance of a flower, bringing joy to everyone.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "കണ്ണിൽ കുളിക്കുക",
+    "literal_meaning": "To bathe in the eye.",
+    "figurative_meaning": "To be very close or dear.",
+    "example": "That memory is so precious; it feels like I bathed in the eye.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "പുഴയിൽ ഒഴുകുക",
+    "literal_meaning": "To flow in the river.",
+    "figurative_meaning": "To go with the flow or adapt.",
+    "example": "In life, sometimes you just have to flow in the river and see where it takes you.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "മുറ്റത്തെ മുല്ലയ്ക്ക് മണമില്ല (Muttathe mullakku manamilla)",
+    "literal_meaning": "The jasmine in the front yard has no fragrance.",
+    "figurative_meaning": "Familiarity breeds contempt; undervaluing what is easily available.",
+    "example": "Avan swantham nattile kalakaranmare bahumanikkilla, muttathe mullakku manamillallo.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "പല തുള്ളി പെരുവെള്ളം (Pala thulli peru vellam)",
+    "literal_meaning": "Many drops make a great flood.",
+    "figurative_meaning": "Little contributions add up to a massive result.",
+    "example": "Kooduthal aalkar sahayichal ee project theerkam, pala thulli peru vellam aanallo.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "മിന്നുന്നതെല്ലാം പൊന്നല്ല (Minnunnathellam ponnalla)",
+    "literal_meaning": "All that glitters is not gold.",
+    "figurative_meaning": "Appearances can be deceptive.",
+    "example": "Aa puthiya investment thട്ടിppaayirunnu, minnunnathellam ponnalla ennu ippol manassilayi.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "കാക്കയ്ക്കും തൻ കുഞ്ഞ് പൊൻകുഞ്ഞ് (Kakkakkum than kunju pon kunju)",
+    "literal_meaning": "Even to a crow, its own child is a golden child.",
+    "figurative_meaning": "Everyone loves their own offspring dearly, regardless of flaws.",
+    "example": "Avan ethra thettu cheythalum ammakku avan nallavana, kakkakkum than kunju pon kunjanallo.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "എരിയുന്ന തീയിൽ എണ്ണ ഒഴിക്കുക (Eriyunna theeyil enna ozhikkuka)",
+    "literal_meaning": "To pour oil into a burning fire.",
+    "figurative_meaning": "To make a bad situation worse; adding fuel to the fire.",
+    "example": "Avar thammil ulla prashnathil nee idapedanda, eriyunna theeyil enna ozhikkunnu.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "കഴുതയ്ക്കറിയാമോ കർപ്പൂരത്തിന്റെ മണം (Kazhuthaykkariyamoo karpoorathinte manam)",
+    "literal_meaning": "Does a donkey know the smell of camphor?",
+    "figurative_meaning": "An uncultured person cannot appreciate the value of fine things.",
+    "example": "Ee nalla sangeetham avan manassilavilla, kazhuthaykkariyamo karpoorathinte manam.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "മിണ്ടാപ്പൂച്ച കലം ഉ‌ടയ്ക്കും (Minda poocha kalam udaikkum)",
+    "literal_meaning": "The silent cat breaks the pot.",
+    "figurative_meaning": "Quiet people can sometimes be the most mischievous or surprising.",
+    "example": "Avan onnum mindillengilum achanodu ellam paranju, minda poocha kalam udaikkum.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "പാമ്പിന്റെ കാല് പാമ്പറിയും (Paambinte kaalu paambariyum)",
+    "literal_meaning": "Only a snake knows a snake's legs.",
+    "figurative_meaning": "It takes one to know one; people of similar nature understand each other.",
+    "example": "Kallante budhi kallane ariyu, paambinte kaalu paambariyum.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "വേലിയിൽ ഇരുന്ന പാമ്പിനെ എടുത്തു തോളിൽ വയ്ക്കുക (Veliyil irunna paambine eduthu tholil vaykuka)",
+    "literal_meaning": "Taking a snake sitting on the fence and putting it on the shoulder.",
+    "figurative_meaning": "To unnecessarily invite trouble into one's life.",
+    "example": "Veruthe avante prashnathil idapettu, veliyil irunna paambine tholil vechathu poleyayi.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "ചക്ക വീണത് മുയൽ ചത്തത് (Chakka veenathu muyal chathathu)",
+    "literal_meaning": "The jackfruit fell, the rabbit died.",
+    "figurative_meaning": "A pure coincidence mistaken for cause and effect.",
+    "example": "Avan officeil ninnu poyathum current vannu, chakka veenathu muyal chathathu pole.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "വേലി തന്നെ വിളവു തിന്നുക (Veli thanne vilavu thinnuka)",
+    "literal_meaning": "The fence itself eating the crop.",
+    "figurative_meaning": "The protector turning into the predator.",
+    "example": "Police kaaran thanne moshanam nadathiyal pinne enth cheyyan? Veli thanne vilavu thinnukayanu.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "കാക്ക കുളിച്ചാൽ കൊക്കാകുമോ (Kaakka kulichal kokkakumo)",
+    "literal_meaning": "Will a crow become a crane if it bathes?",
+    "figurative_meaning": "You cannot change someone's inherent nature with superficial changes.",
+    "example": "Avan ethra panam undakkiyalum avante swabhavam maarilla, kaakka kulichal kokkakumo?",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "വൈദ്യൻ കല്പിച്ചതും രോഗി ഇച്ഛിച്ചതും പാല് (Vaidyan kalpichathum rogi ichichathum paalu)",
+    "literal_meaning": "What the doctor prescribed and what the patient desired was milk.",
+    "figurative_meaning": "A win-win situation where advice perfectly matches desires.",
+    "example": "Enikku pokan madi aayirunnu, appozha event maattivechathu, vaidyan kalpichathum rogi ichichathum paalu.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "ഉള്ളതുകൊണ്ട് ഓണം പോലെ (Ullathukondu onam pole)",
+    "literal_meaning": "Celebrate like Onam with whatever is available.",
+    "figurative_meaning": "Make the best out of what you have.",
+    "example": "Ee cheriya veettil namukku santhoshikkanam, ullathukondu onam pole.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "അക്കരെ നിന്നാൽ ഇക്കരെ പച്ച (Akkare ninnal ikkare paccha)",
+    "literal_meaning": "From the other shore, this shore looks green.",
+    "figurative_meaning": "The grass is always greener on the other side.",
+    "example": "Avanu vadeshathe jeevitham valiya ishtamanu, pakshe akkare ninnal ikkare paccha aanu.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "ആന മെലിഞ്ഞാൽ തൊഴുത്തിൽ കെട്ടാമോ (Aana melinjal thozhuthil kettamo)",
+    "literal_meaning": "If an elephant becomes thin, can it be tied in a cowshed?",
+    "figurative_meaning": "Even in decline, a great person or thing retains their inherent stature.",
+    "example": "Avarude kudumbam ippol daridryathilanengilum avarude anthassu poyitilla, aana melinjal thozhuthil kettamo.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "പടപേടിച്ച് പന്തളത്ത് ചെന്നപ്പോൾ അവിടെ പന്തം കൊളുത്തി പട (Pada pedichu panthalathu chennappol avide pantham koluthi pada)",
+    "literal_meaning": "Feared the war and went to Panthalam, only to find a war with torches there.",
+    "figurative_meaning": "Out of the frying pan and into the fire.",
+    "example": "Nattile prashnam pedichu townil vannappol ivide athilum valiya prashnam, pada pedichu panthalathu chennappol poleyayi.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "നായ്ക്കenthu തേങ്ങ (Naaykkenthu thenga)",
+    "literal_meaning": "What does a coconut mean to a dog?",
+    "figurative_meaning": "Giving something valuable to someone who cannot appreciate or use it.",
+    "example": "Avanu ee puthiya laptop koduthathu verutheyayi, naaykkenthu thenga.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "താൻ പിടിച്ച മുയലിന് കൊമ്പ് മൂന്ന് (Thaan pidicha muyalinu kombu moonnu)",
+    "literal_meaning": "The rabbit I caught has three horns.",
+    "figurative_meaning": "Stubbornly clinging to a false or absurd claim.",
+    "example": "Avan parayunnathu thettanennu thelinjittum sammathikkilla, thaan pidicha muyalinu kombu moonnu enna avastha.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "ചുട്ടയിലെ ശീലം ചുടല വരെ (Chuttayile sheelam chudala vare)",
+    "literal_meaning": "Habits formed in the cradle last till the funeral pyre.",
+    "figurative_meaning": "Old habits die hard.",
+    "example": "Avan eppozhum kalla parayum, athu maarilla, chuttayile sheelam chudala vare.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "എലിയെ പേടിച്ച് ഇല്ലം ചുടുക (Eliye pedichu illam chuduka)",
+    "literal_meaning": "Burning the house out of fear of a rat.",
+    "figurative_meaning": "Taking an extreme or destructive measure to solve a small problem.",
+    "example": "Cheruthaaya problem solve cheyyan company thanne adaikkunnathu eliye pedichu illam chudunnathu poleyanu.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "ഓടുന്ന നായയ്ക്ക് ഒരു മുഴം മുമ്പേ (Odunna naayakku oru muzham mumpe)",
+    "literal_meaning": "Throwing the stick a yard ahead of the running dog.",
+    "figurative_meaning": "Being highly proactive; anticipating actions before they happen.",
+    "example": "Market maarunnathinu munpe avar product maatti, odunna naayakku oru muzham mumpe.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "കരിമ്പു കാട്ടിൽ ആന കയറിയതു പോലെ (Karimbu kattil aana kayariyathu pole)",
+    "literal_meaning": "Like an elephant entering a sugarcane field.",
+    "figurative_meaning": "Being in a state of absolute joy with unlimited access to what one loves.",
+    "example": "Sweets shopil kayariya kuttiye kandal karimbu kattil aana kayariyathu poleyanu.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "പട്ടി കുരച്ചാൽ പല്ലക്ക് നിൽക്കുമോ (Patti kurachal pallakku nilkkumo)",
+    "literal_meaning": "Will the palanquin stop if a dog barks?",
+    "figurative_meaning": "The progress of the great will not be stopped by the criticism of the insignificant.",
+    "example": "Avarude parihasangal kettu nee pinmaranda, patti kurachal pallakku nilkkumo.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "കുറുക്കന്റെ കണ്ണ് കോഴിക്കൂട്ടിൽ (Kurukkante kannu kozhikkoottil)",
+    "literal_meaning": "The fox's eyes are always on the chicken coop.",
+    "figurative_meaning": "A person with ulterior motives always focuses on their target.",
+    "example": "Avan nallathu parayunnundengilum kurukkante kannu kozhikkoottil aanu.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "തലയിരിക്കുമ്പോൾ വാലാടരുത് (Thalayirikkumbol vaaladaruthu)",
+    "literal_meaning": "The tail shouldn't wag when the head is present.",
+    "figurative_meaning": "Subordinates should not overstep when the leader is present.",
+    "example": "MD ivide ullappol nee theerumanam edukkaruthu, thalayirikkumbol vaaladaruthu.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "പാല് കുടിച്ച പാമ്പും കടിക്കും (Paalu kudicha paambum kadikkum)",
+    "literal_meaning": "Even a snake fed with milk will bite.",
+    "figurative_meaning": "A wicked person will betray you even if you treat them well.",
+    "example": "Avanodu nannayi perumariyittum chathichu, paalu kudicha paambum kadikkum.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "മീൻ കുഞ്ഞിനെ നീന്താൻ പഠിപ്പിക്കണോ (Meen kunjine neenthan padippikkano)",
+    "literal_meaning": "Do you need to teach a baby fish how to swim?",
+    "figurative_meaning": "You don't need to teach someone what they are naturally talented at.",
+    "example": "Avanu coding ariyamo ennu chodhikkanda, meen kunjine neenthan padippikkano.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "ഒരുമയുണ്ടെങ്കിൽ ഉലക്കമേലും കിടക്കാം (Orumayundengil ulakkamelum kidakkam)",
+    "literal_meaning": "If there is unity, you can sleep even on a pestle.",
+    "figurative_meaning": "Any difficult situation is manageable if people stand united.",
+    "example": "Ee prathisandhiyil namukku orumichu nilkkam, orumayundengil ulakkamelum kidakkam.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "മുങ്ങിച്ചാവാൻ പോകുന്നവൻ കച്ചിത്തുരുമ്പും പിടിക്കും (Mungichavan pokunnavan kachithurumbum pidikkum)",
+    "literal_meaning": "A drowning man will catch even a straw.",
+    "figurative_meaning": "A desperate person will try any small chance to save themselves.",
+    "example": "Avan last chanceum upayogichu, mungichavan pokunnavan kachithurumbum pidikkum.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "കാക്ക മലർന്നു പറക്കുമോ (Kaakka malarnnu parakkumo)",
+    "literal_meaning": "Will a crow fly upside down?",
+    "figurative_meaning": "Something that is completely impossible.",
+    "example": "Avan enne sahayikkum ennu ne karuthunnuvo, kaakka malarnnu parakkumo?",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "ഉപ്പു തിന്നവൻ വെള്ളം കുടിക്കും (Uppu thinnavan vellam kudikkum)",
+    "literal_meaning": "He who eats salt will drink water.",
+    "figurative_meaning": "You will have to face the consequences of your wrong actions.",
+    "example": "Thettu cheythathu pidikkappettu, uppu thinnavan vellam kudikkum.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "അണ്ണാറക്കണ്ണനും തന്നാലായത് (Annarakkannanum thannalayathu)",
+    "literal_meaning": "Even a squirrel does what it can.",
+    "figurative_meaning": "Every small contribution matters.",
+    "example": "Enikondu aavunna sahayam njan cheythu, annarakkannanum thannalayathu.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "വേരറുത്ത മരം പോലെ (Verarutha maram pole)",
+    "literal_meaning": "Like a tree with its roots cut.",
+    "figurative_meaning": "Completely helpless and falling.",
+    "example": "Swaytham business pottiyappol avan verarutha maram pole aayi.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "മുള്ളു കൊണ്ടു മുള്ളെടുക്കണം (Mullu kondu mulledukkanam)",
+    "literal_meaning": "Remove a thorn using another thorn.",
+    "figurative_meaning": "Fight fire with fire; use a bad thing to cure another bad thing.",
+    "example": "Avanude kallatharam kandupidikkan mullu kondu mulledukkanam.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "കാറ്റുളളപ്പോൾ പാറ്റണം (Kattullappol pattanam)",
+    "literal_meaning": "Winnow when the wind blows.",
+    "figurative_meaning": "Make hay while the sun shines; seize the opportunity.",
+    "example": "Avasaram ullappol thanne muthalakkuka, kattullappol pattanam.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "ആശാന് അടുപ്പിലും ആവാം (Aashaanu aduppilum aavam)",
+    "literal_meaning": "The master can even do it in the stove.",
+    "figurative_meaning": "Experts or masters are granted exceptions to the rules.",
+    "example": "Avar rules thettichalum aarum onnum parayilla, aashaanu aduppilum aavam.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "തിളച്ച വെള്ളത്തിൽ വീണ പൂച്ച പച്ചവെള്ളം കണ്ടാലും പേടിക്കും (Thilacha vellathil veena poocha pachavellam kandalum pedikkum)",
+    "literal_meaning": "A cat that fell in boiling water will fear even cold water.",
+    "figurative_meaning": "Once bitten, twice shy.",
+    "example": "Pazhaya experience kaaranam avan onninum thuniyunnilla, thilacha vellathil veena poocha pole.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "നനഞ്ഞെടം കുഴിക്കുക (Nananjedam kuzhikkuka)",
+    "literal_meaning": "Digging where it is wet.",
+    "figurative_meaning": "Taking the easy way out; exploiting a vulnerable person.",
+    "example": "Avan ellavarudeyum weakness muthaledukkum, nananjedam kuzhikkuka aanu pathivu.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "പൊന്നുരുക്കുന്നിടത്ത് പൂച്ചക്കെന്തു കാര്യം (Ponnurukkunnidathu poochakkenthu karyam)",
+    "literal_meaning": "What business does a cat have where gold is melted?",
+    "figurative_meaning": "What business does an ignorant/irrelevant person have in serious matters?",
+    "example": "Valiyavarude meeingil nee enthina varunne, ponnurukkunnidathu poochakkenthu karyam.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "വാളെടുക്കുന്നവൻ വാളാൽ (Valedukkunnavan valal)",
+    "literal_meaning": "He who lives by the sword dies by the sword.",
+    "figurative_meaning": "Those who commit violence will eventually suffer from it.",
+    "example": "Don aayirunnavan adhe vazhiyil marihcu, valedukkunnavan valal.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "ശ്വാനന്റെ വാല് പന്തീരാണ്ട് കുഴലിലിട്ടാലും വളഞ്ഞു തന്നെ (Shwanante vaalu pantheerandu kuzhalilittalum valanju thanne)",
+    "literal_meaning": "A dog's tail put in a pipe for 12 years remains crooked.",
+    "figurative_meaning": "You cannot change the fundamental bad nature of a person.",
+    "example": "Avanu ethra upadesham koduthalum maarilla, shwanante vaalu kuzhalilittathu pole.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "ചക്കിക്കൊത്ത ചങ്കരൻ (Chakkikkotha Chankaran)",
+    "literal_meaning": "Chankaran is the perfect match for Chakki.",
+    "figurative_meaning": "Made for each other, usually used for two similarly flawed people.",
+    "example": "Avar randum kudi orumichu thettukal cheyyunnu, chakkikkotha chankaran.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "ഇരുന്നിട്ടു വേണം കാലു നീട്ടാൻ (Irunnittu venam kaalu neettan)",
+    "literal_meaning": "Sit first before stretching your legs.",
+    "figurative_meaning": "Secure your position before demanding more or acting arrogant.",
+    "example": "Job sthiramavunnathinu munpe avarodu demand cheyyaruthu, irunnittu venam kaalu neettan.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "കുളക്കോഴിക്ക് എന്ത് കുളിക്കടവ് (Kulakkozhikku enthu kulikkadavu)",
+    "literal_meaning": "What is a bathing step to a water hen?",
+    "figurative_meaning": "A person who is always wandering has no fixed home or boundaries.",
+    "example": "Nirantharam yathra cheyyunna avanu sthiramayi oridathu nilkkan aavilla, kulakkozhikku enthu kulikkadavu.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "വെളുക്കാൻ തേച്ചത് പാണ്ടായി (Velukkan thechathu paandaayi)",
+    "literal_meaning": "An attempt to beautify resulted in vitiligo.",
+    "figurative_meaning": "An attempt to improve a situation made it disastrously worse.",
+    "example": "System nannakkan sramichathu aake crash aayi, velukkan thechathu paandaayi.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "അൽപ്പന് അർത്ഥം കിട്ടിയാൽ അർദ്ധരാത്രിക്ക് കുട പിടിക്കും (Alpanu artham kittiyal ardharathrikku kuda pidikkum)",
+    "literal_meaning": "If a mean person gets wealth, he will hold an umbrella at midnight.",
+    "figurative_meaning": "When an undeserving person gets sudden wealth, they show off foolishly.",
+    "example": "Lottery adichappol avante ahankaram kandille, alpanu artham kittiyal ardharathrikku kuda pidikkum.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "ഉറുമ്പിനും തന്റെ ജീവൻ വലുതാണ് (Urumbinum thante jeevan valuthaanu)",
+    "literal_meaning": "Even an ant values its life.",
+    "figurative_meaning": "Every living being values its own existence, no matter how small.",
+    "example": "Aareyum drohikkaruthu, urumbinum thante jeevan valuthaanu.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "ചുട്ടു തിന്നാലും വാസന പോവില്ല (Chuttu thinnalum vaasana povilla)",
+    "literal_meaning": "Even if roasted, the smell won't go.",
+    "figurative_meaning": "Deep-rooted bad habits cannot be eradicated easily.",
+    "example": "Avanude kalla swabhavam maarilla, chuttu thinnalum vaasana povilla.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "പുര കത്തുമ്പോൾ വാഴ വെട്ടുക (Pura kathumbol vazha vettuka)",
+    "literal_meaning": "Cutting the banana tree while the house is burning.",
+    "figurative_meaning": "Selfishly taking advantage of someone else's disaster.",
+    "example": "Nattil prashnam nadakkumbol avar swantham karyam nokkunnu, pura kathumbol vazha vettukayanu.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "അടി തെറ്റിയാൽ ആനയും വീഴും (Adi thettiyaal aaneyum veezhum)",
+    "literal_meaning": "Even an elephant will fall if it takes a wrong step.",
+    "figurative_meaning": "Even the strongest or most experienced person can fail if they are careless.",
+    "example": "Avan ethra valiya expert aayalum sradhikkanam, adi thettiyal aaneyum veezhum.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "അക്കരെ നിൽക്കുമ്പോൾ ഇക്കരെ പച്ച (Akkare nilkkumpol ikkare pacha)",
+    "literal_meaning": "Things look green on this shore from the other shore.",
+    "figurative_meaning": "The grass is always greener on the other side.",
+    "example": "Avanu purathu pokan ishtamanu, pakshe akkare nilkkumpol ikkare pacha aanu.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "അനുഭവം ആണ് മഹാ ഗുരു (Anubhavam aanu mahaa guru)",
+    "literal_meaning": "Experience is the great teacher.",
+    "figurative_meaning": "You learn the best lessons from your own experiences.",
+    "example": "Thettukalil ninnu padikku, anubhavam aanu mahaa guru.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "ഏഴാം അറിവ് അനുഭവമാണ് (Ezham arivu anubhavamaanu)",
+    "literal_meaning": "Experience is the seventh sense.",
+    "figurative_meaning": "True wisdom comes from personal experience.",
+    "example": "Avarude life lessons kandu padikkanam, ezham arivu anubhavamaanu.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "കണ്ണുള്ളപ്പോൾ കണ്ണിന്റെ വില അറിയില്ല (Kannullappol kanninte vila ariyilla)",
+    "literal_meaning": "One does not realize the value of eyes while having them.",
+    "figurative_meaning": "People don't appreciate what they have until they lose it.",
+    "example": "Achan ulla kalam aarum anweshichilla, kannullappol kanninte vila ariyilla.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "പുഴു തിന്നാത്ത പഴം ഇല്ല (Puzhu thinnatha pazham illa)",
+    "literal_meaning": "There is no fruit that hasn't been eaten by a worm.",
+    "figurative_meaning": "No one is completely flawless or perfect.",
+    "example": "Aarum poornaralla, puzhu thinnatha pazham illa.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "അരയ്ക്കുന്ന കല്ല് പൊടിക്കും (Araykkunna kall podikkum)",
+    "literal_meaning": "The stone that grinds will produce powder.",
+    "figurative_meaning": "Consistent hard work will eventually yield results.",
+    "example": "Nee thudarndu sramikku, araykkunna kall podikkum.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "അട്ടയെപ്പിടിച്ച് മെത്തയിൽ കിടത്തിയാൽ കിടക്കുമോ (Attayepidichu methayil kidathiyaal kidakkumo)",
+    "literal_meaning": "If you put a leech on a mattress, will it stay there?",
+    "figurative_meaning": "People naturally revert to their own base environments or habits.",
+    "example": "Avanu panam kittiyittum pazhaya swabhavam mattiyailla, attayepidichu methayil kidathiyaal kidakkumo?",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "ആന വായയിൽ അമ്പഴങ്ങ (Aana vayil ampazhanga)",
+    "literal_meaning": "A small fruit in an elephant's mouth.",
+    "figurative_meaning": "An amount that is absurdly too small for a huge need.",
+    "example": "Ee kuranju shabalam kondu kudumbam pottan aavilla, aana vayil ampazhanga poleyanu.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "കുരയ്ക്കുന്ന പട്ടി കടിക്കില്ല (Kuraykkunna patti kadikkilla)",
+    "literal_meaning": "A barking dog will not bite.",
+    "figurative_meaning": "People who make a lot of noise or threats rarely take action.",
+    "example": "Avan veruthe vaakkukal parayukayanu, kuraykkunna patti kadikkilla.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "കനകം മൂലം കാമിനി മൂലം (Kanakam moolam kaamini moolam)",
+    "literal_meaning": "Through gold and through a woman.",
+    "figurative_meaning": "Wealth and women are the root causes of all conflicts in the world.",
+    "example": "Orupadu war nadannathu kanakam moolam kaamini moolam aanu.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "ആളറിയാതെ ആളെ കൊല്ലരുത് (Aalariyathe aale kollaruthu)",
+    "literal_meaning": "Do not kill a person without knowing them.",
+    "figurative_meaning": "Do not judge or punish someone before knowing the full truth about them.",
+    "example": "Avanude bhagam kelkkuka, aalariyathe aale kollaruthu.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "കണ്ടതറിയാത്തവൻ കൊണ്ടതറിയും (Kandathariyathavan kondathariyum)",
+    "literal_meaning": "He who doesn't learn by seeing, learns by getting hit.",
+    "figurative_meaning": "Some people only learn their lesson the hard way, through painful experience.",
+    "example": "Avan paranju kettu padikkilla, kandathariyathavan kondathariyum.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "കാക്കയ്ക്കും കോഴിക്കും കല്ല്യാണം (Kaakkakkum kozhikkum kallyaanam)",
+    "literal_meaning": "A wedding between a crow and a chicken.",
+    "figurative_meaning": "A completely chaotic, mismatched, or absurd situation.",
+    "example": "Aa projectil ellam kuzhapam aanu, kaakkakkum kozhikkum kallyaanam pole.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "കൈപ്പുള്ളവനേ മധുരത്തിന്റെ വിലയറിയൂ (Kaippullavane madhurathinte vilayariyu)",
+    "literal_meaning": "Only those who have bitterness know the value of sweetness.",
+    "figurative_meaning": "Only those who have suffered know the true value of happiness.",
+    "example": "Daridryam anubhavichavarkke panathinte vila ariyoo, kaippullavane madhurathinte vilayariyu.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "കാട്ടിലെ തടി തേവരുടെ ആന (Kaattile thadi thevarude aana)",
+    "literal_meaning": "Timber from the forest, elephant belongs to the Lord.",
+    "figurative_meaning": "Carelessly spending or destroying property that belongs to someone else.",
+    "example": "Sarkaar panam avan dhoorthadikkunnu, kaattile thadi thevarude aana pole.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "ചോദിക്കാൻ ആളില്ലെങ്കിൽ അമ്പലവാസി എന്തും ചെയ്യും (Chodikkan aalillengil ambalavaasi enthum cheyyum)",
+    "literal_meaning": "If no one questions, the temple worker will do anything.",
+    "figurative_meaning": "Without oversight or accountability, people will abuse their power.",
+    "example": "Manager illatha neram avar paniyedukkilla, chodikkan aalillengil ambalavaasi enthum cheyyum.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "താൻ കുഴിച്ച കുഴിയിൽ താൻ തന്നെ വീഴും (Thaan kuzhicha kuzhiyil thaan thanne veezhum)",
+    "literal_meaning": "You will fall into the pit you dig.",
+    "figurative_meaning": "Karma; if you plot against others, you will ruin yourself.",
+    "example": "Avan vere oralude pani kalayaan sramichu pakshe avante pani poyi, thaan kuzhicha kuzhiyil thaan thanne veezhum.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "നൂറു വട്ടം അറുത്താലും കൊതുകിന്റെ കാല് (Nooru vattam aruthalum kothukinte kaalu)",
+    "literal_meaning": "Even if cut 100 times, a mosquito's leg remains small.",
+    "figurative_meaning": "Something insignificant will remain insignificant no matter what you do.",
+    "example": "Avanude businessil ethra maattangal varuthiyalum athu valuthaavilla, nooru vattam aruthalum kothukinte kaalu thanne.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "പുലിവാല് പിടിച്ചതുപോലെ (Pulivaalu pidichathupole)",
+    "literal_meaning": "Like catching a tiger's tail.",
+    "figurative_meaning": "Being caught in a dangerous situation where you can neither hold on nor let go.",
+    "example": "Ee puthiya jobil aake prashnamanu, pulivaalu pidichathupole aayi.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "വടിയെടുത്തു വാഴ വെട്ടരുത് (Vadiyeduthu vazha vettaruthu)",
+    "literal_meaning": "Do not cut a banana tree with a stick.",
+    "figurative_meaning": "Do not do foolish things; use the right tools for the right job.",
+    "example": "Avan ee periya project oru chinna tool vechu cheyyan sramikkunnu, vadiyeduthu vazha vettaruthu.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "തല പോയാലും ചിരി മാറില്ല (Thala poyalum chiri maarilla)",
+    "literal_meaning": "Even if the head is cut, the smile won't fade.",
+    "figurative_meaning": "A deeply ingrained habit or characteristic persists until the very end.",
+    "example": "Avan marikkuvolam jhooth parayum, thala poyalum chiri maarilla.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "പാലം കടക്കുവോളം നാരായണ നാരായണ (Paalam kadakkuvolam Narayana Narayana)",
+    "literal_meaning": "Praying Narayana until crossing the bridge.",
+    "figurative_meaning": "Acting humble and devoted only as long as you are in danger or need help.",
+    "example": "Avashyam theernappol avan enne marannu, paalam kadakkuvolam Narayana Narayana.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "പത്തായത്തിൽ നെല്ലുണ്ടെങ്കിൽ എലി വയനാട്ടിൽ നിന്നും വരും (Pathayathil nellundengil eli wayanattil ninnum varum)",
+    "literal_meaning": "If there is paddy in the granary, rats will come even from Wayanad.",
+    "figurative_meaning": "If you are wealthy or successful, people will find you no matter where you are.",
+    "example": "Avanu lottery adichappol ellavarum vannu, pathayathil nellundengil eli wayanattil ninnum varumallo.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "വെള്ളത്തിൽ വരച്ച വര പോലെ (Vellathil varacha vara pole)",
+    "literal_meaning": "Like a line drawn on water.",
+    "figurative_meaning": "Something that disappears instantly; fleeting and impermanent.",
+    "example": "Avarude sneham vellathil varacha vara poleyayi, udane maanju poyi.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "മാതാവിനേക്കാൾ വലിയ ദൈവമില്ല (Maathavinekkaal valiya daivamilla)",
+    "literal_meaning": "There is no god greater than the mother.",
+    "figurative_meaning": "A mother is the supreme figure of love and reverence.",
+    "example": "Amma parayunnathu kelkkanam, maathavinekkaal valiya daivamilla.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "കണ്ണടച്ചാൽ ഇരുട്ടാവില്ല (Kannadachal iruttaavilla)",
+    "literal_meaning": "Just because you close your eyes, it doesn't become dark.",
+    "figurative_meaning": "Ignoring a problem does not make it go away.",
+    "example": "Nee sathyam manassilakku, kannadachal iruttaavilla.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "പെറ്റ തള്ളയ്ക്ക് അറിയാം പിള്ളയുടെ വേദന (Petta thallakku ariyaam pillayude vedana)",
+    "literal_meaning": "Only the mother who gave birth knows the child's pain.",
+    "figurative_meaning": "Only the person intimately involved in a situation truly understands the struggle.",
+    "example": "Nammude prashnam namukke ariyoo, petta thallakku ariyaam pillayude vedana.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "തേൻ എടുത്തവൻ കൈ നക്കും (Then eduthavan kai nakkum)",
+    "literal_meaning": "He who takes the honey will lick his fingers.",
+    "figurative_meaning": "People managing money or resources will naturally take a small cut for themselves.",
+    "example": "Sarkaar udhyogasthar panam vangi, then eduthavan kai nakkumallo.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "തലക്കനം വന്നാൽ തറയറിയില്ല (Thalakkanam vannal tharayariyilla)",
+    "literal_meaning": "Arrogance makes you lose touch with the ground.",
+    "figurative_meaning": "When success goes to someone's head, they forget their humble beginnings.",
+    "example": "Avanu ippol nalla ahankaram aanu, thalakkanam vannal tharayariyilla.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "നാട് ഓടുമ്പോൾ നടുവേ ഓടണം (Naadu odumbol naduve odanam)",
+    "literal_meaning": "When the village runs, you should run in the middle.",
+    "figurative_meaning": "You should adapt to the customs and trends of the society you live in.",
+    "example": "Ivide ellavarum inganeyanu cheyyunnathu, naadu odumbol naduve odanam.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "വിദ്വാന് എവിടെയും സ്ഥാനം (Vidwanu evideyum sthaanam)",
+    "literal_meaning": "A wise man is respected everywhere.",
+    "figurative_meaning": "Knowledge and talent will bring respect regardless of location.",
+    "example": "Avanude budhi kaaranam avanu eppozhum velayundu, vidwanu evideyum sthaanam.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "ഇരിക്കുന്ന കൊമ്പ് മുറിക്കരുത് (Irikkunna kombu murikkaruthu)",
+    "literal_meaning": "Do not cut the branch you are sitting on.",
+    "figurative_meaning": "Do not destroy the very thing that supports you.",
+    "example": "Ninne sahayikkunna aale thettikkaruthu, irikkunna kombu murikkaruthu.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "കൈ വിട്ട ആയുധം പോലെ (Kai vitta aayudham pole)",
+    "literal_meaning": "Like a weapon that has left the hand.",
+    "figurative_meaning": "Words once spoken or actions once taken cannot be reversed.",
+    "example": "Vaakkukal sookshichu parayanam, kai vitta aayudham poleyanu.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "കാറ്റിനൊത്ത് പായ വിരിക്കുക (Kaattinothu paaya virikkuka)",
+    "literal_meaning": "Sail according to the wind.",
+    "figurative_meaning": "Adapt your actions according to the changing circumstances.",
+    "example": "Market maarunnathinu anusarichu business maattanam, kaattinothu paaya virikkuka.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "താൻ പാതി ദൈവം പാതി (Thaan paathi daivam paathi)",
+    "literal_meaning": "Man does half, God does half.",
+    "figurative_meaning": "You must put in the effort, and God will take care of the rest.",
+    "example": "Nee padikkuka, baakki deivam nokkikkollum, thaan paathi daivam paathi.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "പയ്യെ തിന്നാൽ പനയും തിന്നാം (Payye thinnal panayum thinnam)",
+    "literal_meaning": "If you eat slowly, you can even eat a palm tree.",
+    "figurative_meaning": "With patience and perseverance, you can achieve impossible things.",
+    "example": "Ee valiya project padukke theerkkam, payye thinnal panayum thinnam.",
+    "language": "Malayalam"
+  },
+  {
+    "idiom": "മോങ്ങാനിരുന്ന നായയുടെ തലയിൽ തേങ്ങ വീണു (Mongaanirunna naayayude thalayil thenga veenu)",
+    "literal_meaning": "A coconut fell on the head of a dog that was already about to howl.",
+    "figurative_meaning": "Providing a ready excuse for someone who was already looking for a reason to complain.",
+    "example": "Avanu officeil pokan madi aayirunnu appozha mazha vannathu, mongaanirunna naayayude thalayil thenga veenu.",
+    "language": "Malayalam"
+  }
+]
