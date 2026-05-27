@@ -39,3 +39,10 @@ test.py
 rebuild_dataset.py
 trial.py
 
+assignment/*
+
+hindi_new.json
+telugu.json
+malayalam.json
+
+append_json.py
