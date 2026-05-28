@@ -1,681 +1,1892 @@
 [
-    {
-        "idiom": "नज़रबंद करना",
-        "literal_meaning": "To put under house arrest.",
-        "figurative_meaning": "To restrict someone's freedom.",
-        "example": "Usne apne vicharon ko nazarband kiya, kyunki wo jaanta tha ki samaj unhe sweekar nahi karega.",
-        "language": "Hindi"
-    },
-    {
-        "idiom": "धरना देना",
-        "literal_meaning": "To sit in protest.",
-        "figurative_meaning": "To stand firm on an issue.",
-        "example": "Kisaan dharna dekar apni maangein manwane mein safal hue.",
-        "language": "Hindi"
-    },
-    {
-        "idiom": "दीवारों के कान होना",
-        "literal_meaning": "Walls have ears.",
-        "figurative_meaning": "Confidential matters may be overheard.",
-        "example": "Jab bhi tum baat karo, yaad rakho deewaron ke kaan hote hain.",
-        "language": "Hindi"
-    },
-    {
-        "idiom": "थक कर चूर होना",
-        "literal_meaning": "To be completely exhausted.",
-        "figurative_meaning": "To be extremely tired.",
-        "example": "Kaam karte-karate woh thak kar choor ho gaya.",
-        "language": "Hindi"
-    },
-    {
-        "idiom": "तिनके का सहारा",
-        "literal_meaning": "A straw's support.",
-        "figurative_meaning": "A small help in a difficult situation.",
-        "example": "Uski madad tinke ka sahara saabit hui jab sab kuch ulat gaya.",
-        "language": "Hindi"
-    },
-    {
-        "idiom": "सांप भी मर जाए और लाठी भी न टूटे",
-        "literal_meaning": "The snake should die, but the stick should not break.",
-        "figurative_meaning": "Finding a solution that satisfies all parties without loss.",
-        "example": "Is samasya ka samadhan aisa hona chahiye ki saanp bhi mar jaye aur laathi bhi na toote.",
-        "language": "Hindi"
-    },
-    {
-        "idiom": "बंदर क्या जाने अदरक का",
-        "literal_meaning": "What does a monkey know of ginger?",
-        "figurative_meaning": "Someone is unaware of the value or significance of something.",
-        "example": "Usne jab us kitaab ki keemat dekhi to mujhe laga ki woh bandar kya jaane adrak ka.",
-        "language": "Hindi"
-    },
-    {
-        "idiom": "छोटा मुँह बड़ी बात",
-        "literal_meaning": "Small mouth, big talk.",
-        "figurative_meaning": "Talking beyond one's status.",
-        "example": "Uska chhota munh badi baat karna sabko chaukata deta hai.",
-        "language": "Hindi"
-    },
-    {
-        "idiom": "जख्म पर नमक छिड़कना",
-        "literal_meaning": "Sprinkling salt on wounds.",
-        "figurative_meaning": "Adding to someone's pain.",
-        "example": "Usne mere jakhm par namak chhidka jab usne meri asafalta ka mazak udaaya.",
-        "language": "Hindi"
-    },
-    {
-        "idiom": "टक्कर खाना",
-        "literal_meaning": "To take a hit.",
-        "figurative_meaning": "To compete or confront.",
-        "example": "Bazaar mein pratispardha ke chalte humein takkar khana pada.",
-        "language": "Hindi"
-    },
-    {
-        "idiom": "ठिकाने लगाना",
-        "literal_meaning": "To put in place.",
-        "figurative_meaning": "To eliminate someone.",
-        "example": "Usne apne dushmanon ko thikane lagane ki yojana banayi.",
-        "language": "Hindi"
-    },
-    {
-        "idiom": "दिल बाग-बाग होना",
-        "literal_meaning": "Heart blooming like a garden.",
-        "figurative_meaning": "Feeling extremely happy.",
-        "example": "Uski safalta se uska dil bag-bag ho gaya.",
-        "language": "Hindi"
-    },
-    {
-        "idiom": "आग में घी डालना",
-        "literal_meaning": "To pour ghee in fire.",
-        "figurative_meaning": "To aggravate a situation.",
-        "example": "Usne aag mein ghee daalne ka kaam kiya jab usne unki ladai ke beech ek aur jhooth bol diya.",
-        "language": "Hindi"
-    },
-    {
-        "idiom": "आसमान से गिरा खजूर में अटका",
-        "literal_meaning": "Fell from the sky, got stuck in a date tree.",
-        "figurative_meaning": "Out of one trouble and into another.",
-        "example": "Pehle naukri gayi, ab gaadi kharab ho gayi, yeh toh wahi baat hui ki aasman se gira, khajur mein atka.",
-        "language": "Hindi"
-    },
-    {
-        "idiom": "ईद का चाँद होना",
-        "literal_meaning": "To be the moon of Eid.",
-        "figurative_meaning": "To be rarely seen.",
-        "example": "Bhai, tum toh aajkal Eid ka chaand ho gaye ho, kabhi dikhte hi nahi.",
-        "language": "Hindi"
-    },
-    {
-        "idiom": "उल्टा चोर कोतवाल को डांटे",
-        "literal_meaning": "The thief scolds the police officer.",
-        "figurative_meaning": "The pot calling the kettle black.",
-        "example": "Galti tumhari hai aur tum mujhe hi suna rahe ho? Yeh toh ulta chor kotwal ko daante wali baat ho gayi.",
-        "language": "Hindi"
-    },
-    {
-        "idiom": "ऊँट के मुँह में जीरा",
-        "literal_meaning": "Cumin seed in a camel's mouth.",
-        "figurative_meaning": "A drop in the ocean; too little.",
-        "example": "Is bade parivaar ke liye yeh thoda sa khana oont ke muh mein jeera hai.",
-        "language": "Hindi"
-    },
-    {
-        "idiom": "एक अनार सौ बीमार",
-        "literal_meaning": "One pomegranate, a hundred sick people.",
-        "figurative_meaning": "Demand is much higher than supply.",
-        "example": "Naukri ek hai aur ummeedwar hazaar, yeh toh ek anar sau beemar wali sthiti hai.",
-        "language": "Hindi"
-    },
-    {
-        "idiom": "नौ दो ग्यारह होना",
-        "literal_meaning": "To become nine two eleven.",
-        "figurative_meaning": "To run away or escape.",
-        "example": "Police ko aate dekh, chor nau do gyarah ho gaye.",
-        "language": "Hindi"
-    },
-    {
-        "idiom": "भैंस के आगे बीन बजाना",
-        "literal_meaning": "To play a flute in front of a buffalo.",
-        "figurative_meaning": "Casting pearls before swine.",
-        "example": "Us murkh ko samjhana bhains ke aage been bajana jaisa hai.",
-        "language": "Hindi"
-    },
-    {
-        "idiom": "मुँह में राम बगल में छुरी",
-        "literal_meaning": "Rama in the mouth, knife in the side.",
-        "figurative_meaning": "A wolf in sheep's clothing.",
-        "example": "Wo dikhne mein toh accha hai par andar se munh mein Ram bagal mein chhuri jaisa hai.",
-        "language": "Hindi"
-    },
-    {
-        "idiom": "हवा से बातें करना",
-        "literal_meaning": "To talk to the wind.",
-        "figurative_meaning": "To run very fast.",
-        "example": "Uska ghoda maidan mein hawa se baatein kar raha tha.",
-        "language": "Hindi"
-    },
-    {
-        "idiom": "आँखों में धूल झोंकना",
-        "literal_meaning": "To throw dust in eyes.",
-        "figurative_meaning": "To deceive someone.",
-        "example": "Chor sabki aankhon mein dhool jhonk kar bhaag gaya.",
-        "language": "Hindi"
-    },
-    {
-        "idiom": "अक्ल पर पत्थर पड़ना",
-        "literal_meaning": "Stones falling on intellect.",
-        "figurative_meaning": "To lose one's senses.",
-        "example": "Uski akal par patthar pad gaye the jab usne apna saara paisa juye mein laga diya.",
-        "language": "Hindi"
-    },
-    {
-        "idiom": "अपना उल्लू सीधा करना",
-        "literal_meaning": "To straighten one's owl.",
-        "figurative_meaning": "To serve one's own selfish motives.",
-        "example": "Aaj kal log sirf apna ullu seedha karne mein lage rehte hain.",
-        "language": "Hindi"
-    },
-    {
-        "idiom": "अपने पैर पर कुल्हाड़ी मारना",
-        "literal_meaning": "To hit an axe on one's own foot.",
-        "figurative_meaning": "To harm oneself.",
-        "example": "Usne naukri chhod kar apne hi pair par kulhadi maar li.",
-        "language": "Hindi"
-    },
-    {
-        "idiom": "आस्तीन का साँप",
-        "literal_meaning": "Snake in the sleeve.",
-        "figurative_meaning": "A hidden enemy or traitor.",
-        "example": "Mujhe kya pata tha ki mera dost hi aasteen ka saanp nikalega.",
-        "language": "Hindi"
-    },
-    {
-        "idiom": "दाँत खट्टे करना",
-        "literal_meaning": "To make teeth sour.",
-        "figurative_meaning": "To defeat completely.",
-        "example": "Bhartiya sena ne dushman ke daant khatte kar diye.",
-        "language": "Hindi"
-    },
-    {
-        "idiom": "दाल में काला होना",
-        "literal_meaning": "Something black in the lentils.",
-        "figurative_meaning": "Something is fishy.",
-        "example": "Wo chupke chupke baat kar rahe hain, zaroor daal mein kuch kaala hai.",
-        "language": "Hindi"
-    },
-    {
-        "idiom": "नाच न जाने आँगन टेढ़ा",
-        "literal_meaning": "Doesn't know how to dance, blames the crooked courtyard.",
-        "figurative_meaning": "A bad workman blames his tools.",
-        "example": "Tumhe khelna aata nahi aur bat ko kharab bol rahe ho, naach na jaane aangan tedha.",
-        "language": "Hindi"
-    },
-    {
-        "idiom": "लोहे के चने चबाना",
-        "literal_meaning": "To chew iron chickpeas.",
-        "figurative_meaning": "To do a very difficult task.",
-        "example": "UPSC exam pass karna lohe ke chane chabane ke barabar hai.",
-        "language": "Hindi"
-    },
-    {
-        "idiom": "श्री गणेश करना",
-        "literal_meaning": "To do Shri Ganesh.",
-        "figurative_meaning": "To start something new.",
-        "example": "Aaj unhone apne naye dukaan ka shri ganesh kiya.",
-        "language": "Hindi"
-    },
-    {
-        "idiom": "मुठ्ठी गर्म करना",
-        "literal_meaning": "To warm the fist.",
-        "figurative_meaning": "To give a bribe.",
-        "example": "Bina mutthi garm kiye yahan koi kaam nahi hota.",
-        "language": "Hindi"
-    },
-    {
-        "idiom": "रातों की नींद हराम होना",
-        "literal_meaning": "Sleep of nights becoming forbidden.",
-        "figurative_meaning": "To be extremely worried or anxious.",
-        "example": "Exam ke chakkar mein uski raaton ki neend haram ho gayi hai.",
-        "language": "Hindi"
-    },
-    {
-        "idiom": "लकीर का फकीर होना",
-        "literal_meaning": "To be a beggar of the line.",
-        "figurative_meaning": "To blindly follow old traditions.",
-        "example": "Zamana badal gaya hai, kab tak lakeer ke fakeer bane rahoge?",
-        "language": "Hindi"
-    },
-    {
-        "idiom": "लोहा लेना",
-        "literal_meaning": "To take iron.",
-        "figurative_meaning": "To face bravely.",
-        "example": "Maharana Pratap ne mughalon se kadi takkar li aur loha liya.",
-        "language": "Hindi"
-    },
-    {
-        "idiom": "सफेद झूठ",
-        "literal_meaning": "White lie.",
-        "figurative_meaning": "An obvious or blatant lie.",
-        "example": "Wo safed jhooth bol raha hai ki wo wahan nahi tha.",
-        "language": "Hindi"
-    },
-    {
-        "idiom": "हाथ मलना",
-        "literal_meaning": "To rub hands.",
-        "figurative_meaning": "To regret.",
-        "example": "Samay nikal jaane ke baad haath malne se kuch nahi hoga.",
-        "language": "Hindi"
-    },
-    {
-        "idiom": "हाथ-पाँव मारना",
-        "literal_meaning": "To strike hands and feet.",
-        "figurative_meaning": "To make desperate efforts.",
-        "example": "Naukri paane ke liye usne bahut haath-paon maare.",
-        "language": "Hindi"
-    },
-    {
-        "idiom": "आग बबूला होना",
-        "literal_meaning": "To become a fire bubble.",
-        "figurative_meaning": "To be extremely angry.",
-        "example": "Bina wajah uski gaadi thok di gayi toh woh aag baboola ho gaya.",
-        "language": "Hindi"
-    },
-    {
-        "idiom": "आपे से बाहर होना",
-        "literal_meaning": "To be out of oneself.",
-        "figurative_meaning": "To lose control due to anger.",
-        "example": "Chhoti si baat par woh aape se bahar ho gaya.",
-        "language": "Hindi"
-    },
-    {
-        "idiom": "किताबी कीड़ा होना",
-        "literal_meaning": "To be a bookworm.",
-        "figurative_meaning": "To be always reading.",
-        "example": "Woh sirf padhta rehta hai, poora kitabi keeda hai.",
-        "language": "Hindi"
-    },
-    {
-        "idiom": "घर की मुर्गी दाल बराबर",
-        "literal_meaning": "A home-cooked chicken is equal to lentils.",
-        "figurative_meaning": "Familiarity breeds contempt; undervaluing what one has.",
-        "example": "Ghar ki murgi daal barabar, uski salah koi nahi sunta.",
-        "language": "Hindi"
-    },
-    {
-        "idiom": "चार दिन की चाँदनी फिर अंधेरी रात",
-        "literal_meaning": "Four days of moonlight, then dark night.",
-        "figurative_meaning": "A nine days' wonder; short-lived happiness.",
-        "example": "Ye nayi naukri ki kushi char din ki chandni phir andheri raat hai.",
-        "language": "Hindi"
-    },
-    {
-        "idiom": "छाती पर मूंग दलना",
-        "literal_meaning": "To grind lentils on someone's chest.",
-        "figurative_meaning": "To deliberately annoy someone while staying close to them.",
-        "example": "Tum wahan jaa kar kyu rehte ho, sirf uski chhati par moong dalne ke liye?",
-        "language": "Hindi"
-    },
-    {
-        "idiom": "छक्के छुड़ाना",
-        "literal_meaning": "To make someone lose their sixes.",
-        "figurative_meaning": "To defeat completely.",
-        "example": "Bhartiya team ne vipakshi team ke chhakke chhuda diye.",
-        "language": "Hindi"
-    },
-    {
-        "idiom": "जान हथेली पर रखना",
-        "literal_meaning": "To keep life on the palm.",
-        "figurative_meaning": "To risk one's life.",
-        "example": "Sainik apni jaan hatheli par rakh kar desh ki raksha karte hain.",
-        "language": "Hindi"
-    },
-    {
-        "idiom": "टेढ़ी खीर",
-        "literal_meaning": "Crooked rice pudding.",
-        "figurative_meaning": "A very difficult task.",
-        "example": "Bina kisi sifarish ke sarkari naukri pana tedhi kheer hai.",
-        "language": "Hindi"
-    },
-    {
-        "idiom": "डूबते को तिनके का सहारा",
-        "literal_meaning": "A drowning man gets the support of a straw.",
-        "figurative_meaning": "A drowning man catches at a straw.",
-        "example": "Aakhir samay mein uski 100 rupaye ki madad bhi doobte ko tinke ka sahara thi.",
-        "language": "Hindi"
-    },
-    {
-        "idiom": "तलवे चाटना",
-        "literal_meaning": "To lick the soles of feet.",
-        "figurative_meaning": "To flatter or bootlick for personal gain.",
-        "example": "Promotion paane ke liye woh boss ke talwe chatne laga.",
-        "language": "Hindi"
-    },
-    {
-        "idiom": "तिल का ताड़ बनाना",
-        "literal_meaning": "To make a palm tree out of a sesame seed.",
-        "figurative_meaning": "To make a mountain out of a molehill.",
-        "example": "Chhoti si baat thi, tumne toh til ka taad bana diya.",
-        "language": "Hindi"
-    },
-    {
-        "idiom": "दाल गलना",
-        "literal_meaning": "For lentils to melt/cook.",
-        "figurative_meaning": "To succeed in a trick or plan.",
-        "example": "Yahan tumhara jhooth nahi chalega, tumhari daal nahi galne wali.",
-        "language": "Hindi"
-    },
-    {
-        "idiom": "धोबी का कुत्ता न घर का न घाट का",
-        "literal_meaning": "A washerman's dog, belonging neither to the house nor the riverbank.",
-        "figurative_meaning": "A person with no fixed place or status.",
-        "example": "Dono jagah kaam karne ke chakkar mein woh dhobi ka kutta na ghar ka na ghat ka reh gaya.",
-        "language": "Hindi"
-    },
-    {
-        "idiom": "नानी याद आना",
-        "literal_meaning": "To remember one's maternal grandmother.",
-        "figurative_meaning": "To find oneself in a very difficult or painful situation.",
-        "example": "Pahaad chadhte waqt sabko nani yaad aa gayi.",
-        "language": "Hindi"
-    },
-    {
-        "idiom": "पीठ थपथपाना",
-        "literal_meaning": "To pat the back.",
-        "figurative_meaning": "To encourage or praise.",
-        "example": "Pitamah ne acche parinam par bete ki peeth thapthapai.",
-        "language": "Hindi"
-    },
-    {
-        "idiom": "फूले न समाना",
-        "literal_meaning": "Not fitting into oneself while blossoming.",
-        "figurative_meaning": "To be extremely happy.",
-        "example": "Parixa mein pratham aane par woh phoole na samaya.",
-        "language": "Hindi"
-    },
-    {
-        "idiom": "बगुला भगत",
-        "literal_meaning": "A crane devotee.",
-        "figurative_meaning": "A hypocrite.",
-        "example": "Wo dikhta toh sadhu hai, par asal mein bagula bhagat hai.",
-        "language": "Hindi"
-    },
-    {
-        "idiom": "बाल-बाल बचना",
-        "literal_meaning": "To be saved by a hair.",
-        "figurative_meaning": "To have a narrow escape.",
-        "example": "Kal sadak durghatna mein woh baal-baal bacha.",
-        "language": "Hindi"
-    },
-    {
-        "idiom": "रफूचक्कर होना",
-        "literal_meaning": "To become darning and a wheel.",
-        "figurative_meaning": "To run away or flee.",
-        "example": "Chori karne ke baad woh turant rafuchakkar ho gaya.",
-        "language": "Hindi"
-    },
-    {
-        "idiom": "राई का पहाड़ बनाना",
-        "literal_meaning": "To make a mountain out of mustard seeds.",
-        "figurative_meaning": "To exaggerate a small issue.",
-        "example": "Baat itni si thi, lekin tumne toh rai ka pahad bana diya.",
-        "language": "Hindi"
-    },
-    {
-        "idiom": "रंगा सियार",
-        "literal_meaning": "A painted jackal.",
-        "figurative_meaning": "A deceiver or hypocrite.",
-        "example": "Uski mithi baaton mein mat aana, woh poora ranga siyar hai.",
-        "language": "Hindi"
-    },
-    {
-        "idiom": "हाथ साफ करना",
-        "literal_meaning": "To clean hands.",
-        "figurative_meaning": "To steal something or show sleight of hand.",
-        "example": "Bheed ka fayda utha kar chor ne purse par hath saaf kar diya.",
-        "language": "Hindi"
-    },
-    {
-        "idiom": "अंग-अंग ढीला होना",
-        "literal_meaning": "Every limb getting loose.",
-        "figurative_meaning": "To be extremely tired.",
-        "example": "Din bhar kaam karne ke baad mera ang-ang dheela ho gaya.",
-        "language": "Hindi"
-    },
-    {
-        "idiom": "अंगारे उगलना",
-        "literal_meaning": "To spew embers.",
-        "figurative_meaning": "To speak very harshly or angrily.",
-        "example": "Jab usne sachai jani, to woh angare ugalne laga.",
-        "language": "Hindi"
-    },
-    {
-        "idiom": "अंधे की लाठी",
-        "literal_meaning": "A blind man's stick.",
-        "figurative_meaning": "The only support.",
-        "example": "Shravan Kumar apne andhe maa-baap ki lathi tha.",
-        "language": "Hindi"
-    },
-    {
-        "idiom": "अंधे के हाथ बटेर लगना",
-        "literal_meaning": "A quail falling into a blind man's hands.",
-        "figurative_meaning": "Getting something valuable without the necessary qualifications.",
-        "example": "Bina padhai kiye uski sarkari naukri lag gayi, yeh to andhe ke hath bater lagna hai.",
-        "language": "Hindi"
-    },
-    {
-        "idiom": "अक्ल का दुश्मन",
-        "literal_meaning": "Enemy of intellect.",
-        "figurative_meaning": "A foolish person.",
-        "example": "Tum toh bilkul akal ke dushman ho jo itna asaan kaam nahi kar sake.",
-        "language": "Hindi"
-    },
-    {
-        "idiom": "अपने मुँह मियाँ मिट्ठू बनना",
-        "literal_meaning": "To become a sweet-talker from one's own mouth.",
-        "figurative_meaning": "To blow one's own trumpet; self-praise.",
-        "example": "Apne muh miya mitthu banne ka koi fayda nahi, log tumhara kaam dekhte hain.",
-        "language": "Hindi"
-    },
-    {
-        "idiom": "आँख का तारा होना",
-        "literal_meaning": "To be the star of the eye.",
-        "figurative_meaning": "To be the apple of someone's eye; very dear.",
-        "example": "Raju apni maa ki aankh ka tara hai.",
-        "language": "Hindi"
-    },
-    {
-        "idiom": "आँखें बिछाना",
-        "literal_meaning": "To lay down one's eyes.",
-        "figurative_meaning": "To welcome someone with great respect and eagerness.",
-        "example": "Humne mehmano ke swagat mein aankhein bicha di.",
-        "language": "Hindi"
-    },
-    {
-        "idiom": "आकाश-पाताल एक करना",
-        "literal_meaning": "To make sky and underworld one.",
-        "figurative_meaning": "To move heaven and earth; work very hard.",
-        "example": "Usne pariksha pas karne ke liye aakash-patal ek kar diya.",
-        "language": "Hindi"
-    },
-    {
-        "idiom": "ईंट से ईंट बजाना",
-        "literal_meaning": "To strike brick against brick.",
-        "figurative_meaning": "To completely destroy or retaliate fiercely.",
-        "example": "Bhartiya sena ne dushman ki eent se eent baja di.",
-        "language": "Hindi"
-    },
-    {
-        "idiom": "उँगली उठाना",
-        "literal_meaning": "To raise a finger.",
-        "figurative_meaning": "To point fingers; blame someone.",
-        "example": "Bina saboot ke kisi par ungali uthana galat hai.",
-        "language": "Hindi"
-    },
-    {
-        "idiom": "कमर कसना",
-        "literal_meaning": "To tighten the belt.",
-        "figurative_meaning": "To get ready for a difficult task.",
-        "example": "Pariksha ke liye sabhi chhatron ne kamar kas li hai.",
-        "language": "Hindi"
-    },
-    {
-        "idiom": "कलेजे पर साँप लोटना",
-        "literal_meaning": "A snake rolling on the liver.",
-        "figurative_meaning": "To burn with jealousy.",
-        "example": "Meri nayi gaadi dekh kar uske kaleje par saanp lot gaya.",
-        "language": "Hindi"
-    },
-    {
-        "idiom": "कान भरना",
-        "literal_meaning": "To fill ears.",
-        "figurative_meaning": "To poison someone's mind against another.",
-        "example": "Rani hamesha saas ke khilaf bahu ke kaan bharti hai.",
-        "language": "Hindi"
-    },
-    {
-        "idiom": "खून पसीना एक करना",
-        "literal_meaning": "To make blood and sweat one.",
-        "figurative_meaning": "To work incredibly hard.",
-        "example": "Kisan khet mein khoon pasina ek karke fasal ugate hain.",
-        "language": "Hindi"
-    },
-    {
-        "idiom": "गले का हार होना",
-        "literal_meaning": "To be a necklace.",
-        "figurative_meaning": "To be someone's favorite or deeply loved.",
-        "example": "Beti apne pita ke gale ka haar hoti hai.",
-        "language": "Hindi"
-    },
-    {
-        "idiom": "गागर में सागर भरना",
-        "literal_meaning": "To fill an ocean in a small pot.",
-        "figurative_meaning": "To express deep or vast meaning in a few words.",
-        "example": "Kabir ke dohe gagar mein sagar bharne ke saman hain.",
-        "language": "Hindi"
-    },
-    {
-        "idiom": "घी के दीये जलाना",
-        "literal_meaning": "To light ghee lamps.",
-        "figurative_meaning": "To celebrate a great victory or joy.",
-        "example": "Ram ke Ayodhya lautne par logon ne ghee ke diye jalaye.",
-        "language": "Hindi"
-    },
-    {
-        "idiom": "चाँदी काटना",
-        "literal_meaning": "To cut silver.",
-        "figurative_meaning": "To earn a lot of money easily.",
-        "example": "Diwali ke tyohar par dukaandar khub chandi katte hain.",
-        "language": "Hindi"
-    },
-    {
-        "idiom": "चुल्लू भर पानी में डूब मरना",
-        "literal_meaning": "To drown in a handful of water.",
-        "figurative_meaning": "To be deeply ashamed.",
-        "example": "Chori pakde jane par uski sthiti chullu bhar pani mein doob marne jaisi thi.",
-        "language": "Hindi"
-    },
-    {
-        "idiom": "जान पर खेलना",
-        "literal_meaning": "To play on life.",
-        "figurative_meaning": "To take a massive risk.",
-        "example": "Bachche ko aag se bachane ke liye maa apni jaan par khel gayi.",
-        "language": "Hindi"
-    },
-    {
-        "idiom": "जमीन आसमान एक करना",
-        "literal_meaning": "To make earth and sky one.",
-        "figurative_meaning": "To put in an immense effort.",
-        "example": "Chor ko pakadne ke liye police ne zameen aasman ek kar diya.",
-        "language": "Hindi"
-    },
-    {
-        "idiom": "डाँवाडोल होना",
-        "literal_meaning": "To be swaying.",
-        "figurative_meaning": "To be unstable or wavering.",
-        "example": "Nuksan ke baad uski aarthik sthiti danwadol ho gayi hai.",
-        "language": "Hindi"
-    },
-    {
-        "idiom": "दिन दूनी रात चौगुनी",
-        "literal_meaning": "Double by day, quadruple by night.",
-        "figurative_meaning": "To progress very rapidly.",
-        "example": "Bhagwan kare tumhara vyapar din dooni raat chauguni unnati kare.",
-        "language": "Hindi"
-    },
-    {
-        "idiom": "दूध का दूध पानी का पानी",
-        "literal_meaning": "Milk to milk, water to water.",
-        "figurative_meaning": "Absolute and fair justice.",
-        "example": "Nyayalay ne faisla sunakar doodh ka doodh aur pani ka pani kar diya.",
-        "language": "Hindi"
-    },
-    {
-        "idiom": "नमक मिर्च लगाना",
-        "literal_meaning": "To apply salt and chili.",
-        "figurative_meaning": "To exaggerate a story.",
-        "example": "Usko har baat namak mirch lagakar batane ki aadat hai.",
-        "language": "Hindi"
-    },
-    {
-        "idiom": "पहाड़ टूट पड़ना",
-        "literal_meaning": "A mountain breaking down.",
-        "figurative_meaning": "A sudden major disaster or tragedy.",
-        "example": "Pita ki mrityu se us par jaise pahad toot pada.",
-        "language": "Hindi"
-    },
-    {
-        "idiom": "पानी-पानी होना",
-        "literal_meaning": "To become water-water.",
-        "figurative_meaning": "To be extremely embarrassed.",
-        "example": "Sabke samne jhooth pakda jane par woh pani-pani ho gaya.",
-        "language": "Hindi"
-    },
-    {
-        "idiom": "बाल की खाल निकालना",
-        "literal_meaning": "To extract skin from hair.",
-        "figurative_meaning": "To nitpick or over-analyze.",
-        "example": "Vakil sahab ko har baat mein baal ki khaal nikalne ki aadat hai.",
-        "language": "Hindi"
-    },
-    {
-        "idiom": "मुँह की खाना",
-        "literal_meaning": "To eat of the mouth.",
-        "figurative_meaning": "To suffer a humiliating defeat.",
-        "example": "Dushman sena ko yuddh mein munh ki khani padi.",
-        "language": "Hindi"
-    },
-    {
-        "idiom": "रंगे हाथों पकड़ना",
-        "literal_meaning": "To catch with colored hands.",
-        "figurative_meaning": "To catch red-handed.",
-        "example": "Police ne chor ko chori karte hue range hathon pakad liya.",
-        "language": "Hindi"
-    },
-    {
-        "idiom": "लाल पीला होना",
-        "literal_meaning": "To become red and yellow.",
-        "figurative_meaning": "To be furious.",
-        "example": "Mera nuksan dekh kar pitaji laal peele ho gaye.",
-        "language": "Hindi"
-    },
-    {
-        "idiom": "हवा का रुख देखना",
-        "literal_meaning": "To see the direction of the wind.",
-        "figurative_meaning": "To assess a situation before acting.",
-        "example": "Samajhdar log humesha hawa ka rukh dekh kar kadam uthate hain.",
-        "language": "Hindi"
-    },
-    {
-        "idiom": "कलई खुलना",
-        "literal_meaning": "The whitewash coming off.",
-        "figurative_meaning": "A secret being revealed.",
-        "example": "Chori pakde jane par uski saari kalai khul gayi.",
-        "language": "Hindi"
-    },
-    {
-        "idiom": "अंधेरे घर का उजाला",
-        "literal_meaning": "Light of a dark house.",
-        "figurative_meaning": "The only son or hope of a family.",
-        "example": "Ravi apne mata-pita ke liye andhere ghar ka ujala hai.",
-        "language": "Hindi"
-    }
+  {
+    "idiom": "अंधेर नगरी चौपट राजा",
+    "literal_meaning": "A city of darkness, a senseless king.",
+    "figurative_meaning": "Complete disorder due to incompetent leadership.",
+    "example": "Is daftar mein koi niyam nahi hai — andheri nagari chaupat raja.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "आसमान से गिरा खजूर में अटका",
+    "literal_meaning": "Fell from the sky, got stuck in the date-palm.",
+    "figurative_meaning": "Escaping one problem only to land in another.",
+    "example": "Ek musibat se nikla toh doosri aa gayi — asmaan se gira khajoor mein atka.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "ऊँट के मुँह में जीरा",
+    "literal_meaning": "A cumin seed in a camel's mouth.",
+    "figurative_meaning": "A completely insufficient amount for a large need.",
+    "example": "Itne kaam ke liye sirf do log — yeh toh unt ke munh mein jeera hai.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "घर का भेदी लंका ढाए",
+    "literal_meaning": "The insider's informer destroys Lanka.",
+    "figurative_meaning": "Betrayal from within causes the greatest damage.",
+    "example": "Data leak andar wale ne kiya — ghar ka bhedi Lanka dhaye.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "नाच न जाने आँगन टेढ़ा",
+    "literal_meaning": "Can't dance, blames the crooked courtyard.",
+    "figurative_meaning": "Blaming external factors for one's own incompetence.",
+    "example": "Ravi haar gaya aur pitch ko dosh diya — naach na jaane aangan tedha.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "दूध का दूध पानी का पानी",
+    "literal_meaning": "Milk is milk, water is water.",
+    "figurative_meaning": "To deliver a perfectly fair and clear judgment.",
+    "example": "Judge ne sach saaf kar diya — doodh ka doodh paani ka paani.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "एक पंथ दो काज",
+    "literal_meaning": "One path, two tasks.",
+    "figurative_meaning": "Accomplishing two things with a single effort.",
+    "example": "Delhi mein kaam bhi hua aur dost se bhi mila — ek panth do kaaj.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "जल में रहकर मगर से बैर",
+    "literal_meaning": "Enmity with the crocodile while living in water.",
+    "figurative_meaning": "Picking a fight with someone you depend on.",
+    "example": "Boss se hi dushman mol li — jal mein rahkar magar se bair.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "थोथा चना बाजे घना",
+    "literal_meaning": "An empty chickpea makes the most noise.",
+    "figurative_meaning": "Those with little knowledge or substance make the most noise.",
+    "example": "Woh sirf baatein karta hai, kaam kuch nahi — thotha chana baje ghana.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "बंदर क्या जाने अदरक का स्वाद",
+    "literal_meaning": "What does a monkey know of the taste of ginger?",
+    "figurative_meaning": "A person cannot appreciate something beyond their understanding.",
+    "example": "Use art ki koi samajh nahi — bandar kya jaane adrak ka swad.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "लातों के भूत बातों से नहीं मानते",
+    "literal_meaning": "Ghosts of kicks don't listen to words.",
+    "figurative_meaning": "Some people only respond to force, not reason.",
+    "example": "Usne samjhane par dhyan nahi diya — laaton ke bhoot baaton se nahi maante.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "अधजल गगरी छलकत जाए",
+    "literal_meaning": "A half-filled pot keeps spilling.",
+    "figurative_meaning": "People with little knowledge tend to show off the most.",
+    "example": "Naye student hi sabse zyada bolte hain — adhajal gagri chhalkat jaye.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "काला अक्षर भैंस बराबर",
+    "literal_meaning": "Black letters are equal to a buffalo.",
+    "figurative_meaning": "Completely illiterate or unable to understand something.",
+    "example": "Unhe contract padh ke kuch samajh nahi aaya — kala akshar bhains barabar.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "चोर की दाढ़ी में तिनका",
+    "literal_meaning": "A straw in the thief's beard.",
+    "figurative_meaning": "A guilty person always feels suspicious and exposed.",
+    "example": "Jab naam liya toh woh ghabra gaya — chor ki dadhi mein tinka.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "दो नावों पर पैर रखना",
+    "literal_meaning": "Keeping a foot on two boats.",
+    "figurative_meaning": "Trying to pursue two conflicting paths simultaneously.",
+    "example": "Woh naukri bhi karna chahta hai aur padhai bhi — do naavon par pair rakhna.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "मन चंगा तो कठौती में गंगा",
+    "literal_meaning": "If the heart is pure, the Ganga is in the washbasin.",
+    "figurative_meaning": "A pure mind finds the divine everywhere; inner purity matters more than ritual.",
+    "example": "Zaruri nahi mandir jao — man changa toh kathauti mein Ganga.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "साँप भी मर जाए और लाठी भी न टूटे",
+    "literal_meaning": "The snake dies and the stick doesn't break either.",
+    "figurative_meaning": "Achieving the goal without losing or sacrificing anything.",
+    "example": "Usne jhagda sुलझाया aur dono खुश रहे — saanp bhi mar jaye aur laathi bhi na toote.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "अपनी गली में कुत्ता भी शेर होता है",
+    "literal_meaning": "Even a dog is a lion in its own lane.",
+    "figurative_meaning": "People feel bold and brave only in their own familiar territory.",
+    "example": "Woh apne gaon mein bahut brave hai — apni gali mein kutta bhi sher hota hai.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "खोदा पहाड़ निकली चुहिया",
+    "literal_meaning": "Dug a mountain, out came a mouse.",
+    "figurative_meaning": "Great effort or expectation resulting in a very small outcome.",
+    "example": "Itni mehnat ke baad sirf yeh result — khoda pahad nikli chuhiya.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "हाथ कंगन को आरसी क्या",
+    "literal_meaning": "Why does a bracelet on the hand need a mirror?",
+    "figurative_meaning": "An obvious truth needs no further proof.",
+    "example": "Woh cheater hai, sab dekh chuke hain — haath kangan ko aarsi kya.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "जैसा देश वैसा भेष",
+    "literal_meaning": "As the country, so the dress.",
+    "figurative_meaning": "One should adapt to the customs and norms of wherever they are.",
+    "example": "Yahan ka tarika seekh lo — jaisa desh waisa bhesh.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "उल्टा चोर कोतवाल को डाँटे",
+    "literal_meaning": "The thief reprimands the police officer.",
+    "figurative_meaning": "The wrongdoer blames or attacks the person trying to hold them accountable.",
+    "example": "Usne galti ki aur mujhe hi daant raha hai — ulta chor kotwal ko daante.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "अब पछताए होत क्या जब चिड़िया चुग गई खेत",
+    "literal_meaning": "What use is regret when the bird has already eaten the field?",
+    "figurative_meaning": "Regret is useless after the damage is already done.",
+    "example": "Exam ke baad padhne baitha — ab pachtaye hot kya jab chidiya chug gayi khet.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "नौ दो ग्यारह होना",
+    "literal_meaning": "Nine plus two equals eleven.",
+    "figurative_meaning": "To flee or escape quickly.",
+    "example": "Police dekhi toh woh nau do gyarah ho gaya.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "बहती गंगा में हाथ धोना",
+    "literal_meaning": "Washing one's hands in the flowing Ganga.",
+    "figurative_meaning": "Taking advantage of an opportunity while it lasts.",
+    "example": "Sab profit le rahe the toh usne bhi liya — behti Ganga mein haath dhona.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "आँख का अंधा नाम नयनसुख",
+    "literal_meaning": "Blind in the eyes, named Nayansukh (joy of eyes).",
+    "figurative_meaning": "A person whose name or reputation is the complete opposite of reality.",
+    "example": "Woh manager hai par kuch manage nahi karta — aankh ka andha naam Nayansukh.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "कहाँ राजा भोज कहाँ गंगू तेली",
+    "literal_meaning": "Where is King Bhoj and where is Gangu the oil-presser?",
+    "figurative_meaning": "A huge gap between two people in status, ability, or class.",
+    "example": "Uski tulna us expert se mat karo — kahan raja Bhoj kahan Gangu teli.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "जिसकी लाठी उसकी भैंस",
+    "literal_meaning": "Whoever has the stick owns the buffalo.",
+    "figurative_meaning": "Power belongs to those who are strongest; might is right.",
+    "example": "Wahan jo powerful hai woh rules banata hai — jiski laathi uski bhains.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "सौ सुनार की एक लुहार की",
+    "literal_meaning": "One blow of a blacksmith equals a hundred of a goldsmith.",
+    "figurative_meaning": "One decisive action is worth more than a hundred small or weak ones.",
+    "example": "Usne ek baar mein kaam khatam kar diya — sau sunaar ki ek luhaar ki.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "मुँह में राम बगल में छुरी",
+    "literal_meaning": "Ram's name on the lips, a knife under the arm.",
+    "figurative_meaning": "Someone who appears pious or friendly but harbors deceitful intentions.",
+    "example": "Woh meetha bolta hai par daga deta hai — munh mein Ram bagal mein churi.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "अकेला चना भाड़ नहीं फोड़ सकता",
+    "literal_meaning": "A single chickpea cannot burst the roaster.",
+    "figurative_meaning": "One person alone cannot bring about major change.",
+    "example": "Ek insaan se yeh system nahi badlega — akela chana bhaad nahi phod sakta.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "घर का जोगी जोगड़ा आन गाँव का सिद्ध",
+    "literal_meaning": "The ascetic at home is ordinary; the one from another village is revered.",
+    "figurative_meaning": "Familiarity breeds contempt; outsiders are valued more than locals.",
+    "example": "Apne teacher ko ignore karte hain, bahar wale ko mante hain — ghar ka jogi jogda.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "आम के आम गुठलियों के दам",
+    "literal_meaning": "The mango itself and profit from its seeds too.",
+    "figurative_meaning": "Getting double benefit from a single thing.",
+    "example": "Kaam bhi hua aur paise bhi mile — aam ke aam guthlion ke daam.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "नेकी कर दरिया में डाल",
+    "literal_meaning": "Do good and throw it in the river.",
+    "figurative_meaning": "Do good deeds without expecting anything in return.",
+    "example": "Usne madad ki aur bhool gaya — neki kar dariya mein daal.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "पानी में रहकर मगरमच्छ से बैर नहीं",
+    "literal_meaning": "Don't make an enemy of the crocodile while living in water.",
+    "figurative_meaning": "Avoid conflict with those who have power over you.",
+    "example": "Office mein manager se mat lado — paani mein rahkar magarmacch se bair nahi.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "जब तक साँस तब तक आस",
+    "literal_meaning": "As long as there is breath, there is hope.",
+    "figurative_meaning": "One should never give up hope while alive.",
+    "example": "Haaro mat — jab tak saans tab tak aas.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "चार दिन की चाँदनी फिर अँधेरी रात",
+    "literal_meaning": "Four days of moonlight, then a dark night.",
+    "figurative_meaning": "Good times don't last forever.",
+    "example": "Yeh khushi zyada din nahi chalegi — chaar din ki chandni phir andheri raat.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "भागते भूत की लँगोटी भली",
+    "literal_meaning": "Even a fleeing ghost's loincloth is valuable.",
+    "figurative_meaning": "Something is better than nothing.",
+    "example": "Thoda paisa hi sahi, kuch toh mila — bhagate bhoot ki langoti bhali.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "दूर के ढोल सुहावने लगते हैं",
+    "literal_meaning": "Drums from afar sound pleasant.",
+    "figurative_meaning": "Things appear better from a distance than they really are.",
+    "example": "Woh desh bahut acha lagta hai par rehna mushkil hai — door ke dhol suhawne lagte hain.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "बिन माँगे मोती मिले माँगे मिले न भीख",
+    "literal_meaning": "Pearls come unasked; begging yields nothing.",
+    "figurative_meaning": "Fate gives freely what it will; begging or demanding gets you nothing.",
+    "example": "Jab expect nahi kiya tab promotion mila — bin maange moti mile.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "आँखें चार होना",
+    "literal_meaning": "Eyes become four.",
+    "figurative_meaning": "To meet face to face; also to fall in love.",
+    "example": "Pehli baar jab unse mila toh aankhen char ho gayin.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "कुएँ का मेंढक",
+    "literal_meaning": "A frog in a well.",
+    "figurative_meaning": "A person with a very limited worldview and no exposure to the wider world.",
+    "example": "Usne kabhi shehar nahi dekha — woh kuen ka mendhak hai.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "सिर मुँड़ाते ही ओले पड़े",
+    "literal_meaning": "No sooner was the head shaved than hailstones fell.",
+    "figurative_meaning": "Bad luck strikes right at the start of a new venture.",
+    "example": "Dukaan kholi aur pehle din hi market crash ho gayi — sir mundaate hi ole pade.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "एक हाथ से ताली नहीं बजती",
+    "literal_meaning": "A clap cannot be made with one hand.",
+    "figurative_meaning": "No conflict or cooperation happens without both sides participating.",
+    "example": "Dono ki galti hai — ek haath se taali nahi bajti.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "मन के हारे हार है मन के जीते जीत",
+    "literal_meaning": "Defeated in mind is defeat; victorious in mind is victory.",
+    "figurative_meaning": "The outcome depends on your mental attitude and willpower.",
+    "example": "Himmat rakho — man ke haare haar hai man ke jeete jeet.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "पहले आओ पहले पाओ",
+    "literal_meaning": "First come, first served.",
+    "figurative_meaning": "Those who act early get the benefit.",
+    "example": "Tickets sirf pehle sau logon ko milenge — pehle aao pehle pao.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "जैसी करनी वैसी भरनी",
+    "literal_meaning": "As you sow, so shall you reap.",
+    "figurative_meaning": "Your actions determine your consequences.",
+    "example": "Usne dhooka diya aur ab khud taklif mein hai — jaisi karni waisi bharni.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "काम का न काज का दुश्मन अनाज का",
+    "literal_meaning": "Of no use for work or task, but an enemy of grain (a freeloader).",
+    "figurative_meaning": "A person who is completely useless but consumes resources.",
+    "example": "Woh kuch nahi karta sirf khaata hai — kaam ka na kaaj ka dushman anaaj ka.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "हाथी के दाँत खाने के और दिखाने के और",
+    "literal_meaning": "An elephant has different teeth for eating and for showing.",
+    "figurative_meaning": "Saying one thing publicly and doing something else privately; hypocrisy.",
+    "example": "Woh sab ke saamne seedha banta hai par andar se alag hai — haathi ke daant.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "नानी याद आना",
+    "literal_meaning": "Remembering one's maternal grandmother.",
+    "figurative_meaning": "To be in great distress or difficulty.",
+    "example": "Itna kaam dekha toh nani yaad aa gayi.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "सावधानी हटी दुर्घटना घटी",
+    "literal_meaning": "When caution leaves, accidents happen.",
+    "figurative_meaning": "A moment of carelessness is all it takes for disaster to strike.",
+    "example": "Ek pal dhyan hata aur haath cut gaya — saavdhaani hati durghatna ghati.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "चादर देखकर पैर फैलाओ",
+    "literal_meaning": "Stretch your legs only as far as the blanket reaches.",
+    "figurative_meaning": "Live within your means; don't spend beyond what you have.",
+    "example": "Itna udhar mat lo — chadar dekhkar pair phailao.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "जो गरजते हैं वो बरसते नहीं",
+    "literal_meaning": "Those who thunder do not rain.",
+    "figurative_meaning": "People who make the most noise rarely follow through with action.",
+    "example": "Vaoh bahut dhamki deta hai par kuch karta nahi — jo garajte hain wo barsate nahi.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "हर चमकने वाली चीज़ सोना नहीं होती",
+    "literal_meaning": "Not everything that shines is gold.",
+    "figurative_meaning": "Appearances can be deceptive; not everything attractive is valuable.",
+    "example": "Woh company bahut achi lagti thi par andar khaali thi — har chamakne wali cheez sona nahi hoti.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "खाली दिमाग शैतान का घर",
+    "literal_meaning": "An empty mind is the devil's house.",
+    "figurative_meaning": "Idle people tend to get into trouble or think harmful thoughts.",
+    "example": "Kuch karo, baithhe rehne se bura sochte ho — khaali dimaag shaitan ka ghar.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "पत्थर पर दूब नहीं जमती",
+    "literal_meaning": "Grass does not grow on stone.",
+    "figurative_meaning": "A hard-hearted person cannot be made compassionate.",
+    "example": "Use samjhana bekar hai — patthar par doob nahi jamti.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "तेली का तेल जले, मशालची का दिल जले",
+    "literal_meaning": "The oil-seller's oil burns, the torchbearer's heart burns.",
+    "figurative_meaning": "Someone else does the work and bears the cost, while another person takes the credit or glory.",
+    "example": "Main kaam karta hoon, woh naam leta hai — teli ka tel jale, mashalchi ka dil jale.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "बोया पेड़ बबूल का आम कहाँ से होय",
+    "literal_meaning": "You planted a thorn tree, where will mangoes come from?",
+    "figurative_meaning": "You cannot expect good results from bad actions.",
+    "example": "Usne dhoka diya aur ab wafadaari chahta hai — boya ped babul ka aam kahan se hoy.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "अपना उल्लू सीधा करना",
+    "literal_meaning": "Straightening one's own owl.",
+    "figurative_meaning": "To serve only one's own selfish interests.",
+    "example": "Woh kisi ki madad nahi karta, apna ullu seedha karta hai.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "कभी नाव गाड़ी पर कभी गाड़ी नाव पर",
+    "literal_meaning": "Sometimes the boat rides the cart, sometimes the cart rides the boat.",
+    "figurative_meaning": "Life is unpredictable; roles and circumstances keep reversing.",
+    "example": "Aaj woh bada hai, kal hum the — kabhi naav gaadi par kabhi gaadi naav par.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "नेकी और पूछ-पूछ",
+    "literal_meaning": "Doing good and asking about it repeatedly.",
+    "figurative_meaning": "True kindness needs no announcement; advertising generosity defeats its purpose.",
+    "example": "Usne donate kiya aur sab ko bataya — neki aur pooch pooch.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "सच्चाई कड़वी होती है",
+    "literal_meaning": "Truth is bitter.",
+    "figurative_meaning": "Honest words are often unpleasant but necessary.",
+    "example": "Mujhe pata tha woh nahi sunenge — sachhai kadvi hoti hai.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "पानी पीकर जात पूछते हो",
+    "literal_meaning": "You drink the water and then ask about the caste.",
+    "figurative_meaning": "Raising irrelevant objections only after already benefiting from something.",
+    "example": "Kaam karwa liya, ab zyada sawaal — paani peekar jaat poochte ho.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "हाथ कटे बाद पछतावा क्या",
+    "literal_meaning": "What use is regret after the hand is cut?",
+    "figurative_meaning": "Regretting after the damage is done is useless.",
+    "example": "Ab rona kyun — haath kate baad pachtava kya.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "उस पार की घास हरी होती है",
+    "literal_meaning": "The grass on the other side is green.",
+    "figurative_meaning": "What others have always seems better than what you have.",
+    "example": "Woh desh acha lagta hai — us paar ki ghaas hari hoti hai.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "बिल्ली के भाग्य से छींका टूटा",
+    "literal_meaning": "By the cat's luck the shelf broke.",
+    "figurative_meaning": "Getting something by sheer luck rather than effort or deserve.",
+    "example": "Usse chance achanch mil gaya — billi ke bhagya se chhika toota.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "रस्सी जल गई पर ऐंठ न गई",
+    "literal_meaning": "The rope burned but the twist didn't leave it.",
+    "figurative_meaning": "Even after losing everything, the arrogant person does not give up their pride.",
+    "example": "Sab kho diya phir bhi ghamand hai — rassi jal gayi par aintha na gayi.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "पर उपदेश कुशल बहुतेरे",
+    "literal_meaning": "Many are skilled at giving advice to others.",
+    "figurative_meaning": "People are quick to advise others but rarely follow their own counsel.",
+    "example": "Woh mujhe batata hai par khud nahi karta — par updesh kushal bahutere.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "सोने पर सुहागा",
+    "literal_meaning": "Borax on gold.",
+    "figurative_meaning": "Something that adds extra value to something already excellent.",
+    "example": "Ache project mein uski help bhi mil gayi — sone par suhaga.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "काम का समय काम करो, खेल का समय खेलो",
+    "literal_meaning": "Work at work time, play at play time.",
+    "figurative_meaning": "There is a right time for everything; don't mix responsibilities with leisure.",
+    "example": "Office mein timepass mat karo — kaam ka samay kaam karo khel ka samay khelo.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "अधूरा ज्ञान खतरनाक होता है",
+    "literal_meaning": "Incomplete knowledge is dangerous.",
+    "figurative_meaning": "Partial understanding of something can cause more harm than total ignorance.",
+    "example": "Thodi jaankari lekar expert ban gaya — adhura gyaan khatarnak hota hai.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "जल्दी का काम शैतान का",
+    "literal_meaning": "Hasty work is the devil's.",
+    "figurative_meaning": "Rushing leads to mistakes; patience produces better results.",
+    "example": "Jaldi mein sab gadbad kar diya — jaldi ka kaam shaitan ka.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "नाम बड़े दर्शन छोटे",
+    "literal_meaning": "Big name, small sight.",
+    "figurative_meaning": "Something or someone that is famous but disappointing in reality.",
+    "example": "Itna sunaa tha restaurant ke baare mein, khana bekar tha — naam bade darshan chhote.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "एक तो करेला ऊपर से नीम चढ़ा",
+    "literal_meaning": "First bitter gourd, then topped with neem.",
+    "figurative_meaning": "A bad situation made even worse by adding another negative element.",
+    "example": "Pehle se pareshaan tha, ab yeh khabar bhi — ek toh karela upar se neem chadha.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "अपनी करनी याद रखो",
+    "literal_meaning": "Remember your own deeds.",
+    "figurative_meaning": "Be mindful of your own actions before judging others.",
+    "example": "Doosron ko blame karne se pehle — apni karni yaad rakho.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "समय बड़ा बलवान",
+    "literal_meaning": "Time is very powerful.",
+    "figurative_meaning": "Time changes everything; no situation is permanent.",
+    "example": "Abhi bura lag raha hai, badlega — samay bada balvaan.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "मन की मन में रही",
+    "literal_meaning": "What was in the mind stayed in the mind.",
+    "figurative_meaning": "Failing to express one's feelings or desires; a wish left unfulfilled.",
+    "example": "Woh kuch kehna chahta tha, nahi keh paya — man ki man mein rahi.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "आँख ओझल पहाड़ ओझल",
+    "literal_meaning": "Out of sight, out of mind.",
+    "figurative_meaning": "Once someone leaves or is not visible, they are quickly forgotten.",
+    "example": "Woh transfer hua aur sab bhool gaye — aankh ojhal pahad ojhal.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "अक्ल बड़ी या भैंस",
+    "literal_meaning": "What is greater — intelligence or a buffalo?",
+    "figurative_meaning": "Brains are more valuable than brute strength or size.",
+    "example": "Machine se nahi, dimag se kaam lena padega — akl badi ya bhains.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "काठ की हाँडी बार बार नहीं चढ़ती",
+    "literal_meaning": "A wooden pot cannot be placed on the fire again and again.",
+    "figurative_meaning": "A trick or deception can only work once.",
+    "example": "Ek baar chaal chali thi, ab nahi chalegi — kaath ki handi baar baar nahi chadhti.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "हर रोज़ दिवाली नहीं होती",
+    "literal_meaning": "Diwali does not come every day.",
+    "figurative_meaning": "Good times and celebrations do not last forever; enjoy them while they last.",
+    "example": "Itna mat kharch karo, har roz Diwali nahi hoti.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "चलती का नाम गाड़ी",
+    "literal_meaning": "What moves is called a vehicle.",
+    "figurative_meaning": "An active, functional person or thing has value; only those who work are respected.",
+    "example": "Jo kaam karta hai wahi aage badhta hai — chalti ka naam gaadi.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "एक मछली सारे तालाब को गंदा करती है",
+    "literal_meaning": "One fish makes the entire pond dirty.",
+    "figurative_meaning": "One bad person can corrupt an entire group.",
+    "example": "Us ek aadmi ki wajah se poori team ka naam kharab hua — ek machli saare talab ko ganda karti hai.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "जिसे पीना है वह कुएँ तक जाएगा",
+    "literal_meaning": "The one who is thirsty will go to the well.",
+    "figurative_meaning": "A truly motivated person will make the effort to get what they need.",
+    "example": "Agar chahiye toh dhundh lega — jise peena hai woh kuen tak jayega.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "बूँद बूँद से सागर बनता है",
+    "literal_meaning": "Drop by drop, an ocean is formed.",
+    "figurative_meaning": "Small consistent efforts accumulate into great results.",
+    "example": "Roz thoda bachao — bund bund se saagar banta hai.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "ठंडा लोहा गर्म लोहे को काटता है",
+    "literal_meaning": "Cold iron cuts hot iron.",
+    "figurative_meaning": "Calm and patience can overcome aggression and anger.",
+    "example": "Usse ladna nahi, shaant raho — thanda loha garm lohe ko kaata hai.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "बगल में छोरा, शहर में ढिंढोरा",
+    "literal_meaning": "The child is in the armpit, yet the search is announced through the town.",
+    "figurative_meaning": "Looking everywhere for something that is right beside you.",
+    "example": "File laptop pe thi, poora daftar dhundha — bagal mein chhora, sheher mein dhindora.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "हर काम का एक वक्त होता है",
+    "literal_meaning": "Every task has its own time.",
+    "figurative_meaning": "Everything should be done at the right moment; timing matters.",
+    "example": "Abhi nahi, sahi waqt ka intezaar karo — har kaam ka ek waqt hota hai.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "सेर को सवा सेर",
+    "literal_meaning": "A seer met by one-and-a-quarter seer.",
+    "figurative_meaning": "Meeting your match; someone cleverer than the clever one.",
+    "example": "Woh akad mein raha, phir usse bhi bada mila — ser ko sawa ser.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "अंत भला तो सब भला",
+    "literal_meaning": "If the end is good, everything is good.",
+    "figurative_meaning": "A good outcome justifies the entire process; all's well that ends well.",
+    "example": "Raasta mushkil tha par kaam hua — ant bhala toh sab bhala.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "खुदा मेहरबान तो गधा पहलवान",
+    "literal_meaning": "If God is kind, even a donkey can become a wrestler.",
+    "figurative_meaning": "With luck and favour on your side, even an incompetent person can succeed.",
+    "example": "Vaoh kuch nahi karta, bas kismat achhi hai — khuda mehrban toh gadha pahalvan.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "नौकर का नहीं यार का काम",
+    "literal_meaning": "Not the servant's work, but a friend's work.",
+    "figurative_meaning": "A true friend helps you without being asked and without payment.",
+    "example": "Usne bina maange help ki — naukkar ka nahi yaar ka kaam.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "इतना मत सोचो कि कुछ न हो",
+    "literal_meaning": "Don't think so much that nothing gets done.",
+    "figurative_meaning": "Overthinking leads to paralysis; sometimes action must replace analysis.",
+    "example": "Plan baad mein, pehle shuru karo — itna mat socho ki kuch na ho.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "सच्चा दोस्त वही जो मुसीबत में काम आए",
+    "literal_meaning": "A true friend is one who is useful in trouble.",
+    "figurative_meaning": "Real friendship is proven in difficult times, not easy ones.",
+    "example": "Jab sab chale gaye woh ruka — sachcha dost wahi jo musibat mein kaam aaye.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "आज का काम कल पर मत छोड़ो",
+    "literal_meaning": "Do not leave today's work for tomorrow.",
+    "figurative_meaning": "Procrastination leads to accumulation of problems.",
+    "example": "Report aaj likhni thi, kal hogi nahi — aaj ka kaam kal par mat chhodo.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "बड़े बोल का सिर नीचा",
+    "literal_meaning": "Big talk leads to a bowed head.",
+    "figurative_meaning": "Boasting leads to embarrassment when you fail to deliver.",
+    "example": "Usne bahut dava kiya tha, ab sharminda hai — bade bol ka sir neeche.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "हर पेड़ पर आम नहीं लगते",
+    "literal_meaning": "Not every tree bears mangoes.",
+    "figurative_meaning": "Not everyone you meet will be helpful or valuable.",
+    "example": "Sab se expectation mat rakh — har ped par aam nahi lagte.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "जो दिखता है वह बिकता है",
+    "literal_meaning": "What is visible sells.",
+    "figurative_meaning": "Presentation and visibility matter; things that are noticed get attention and value.",
+    "example": "Marketing zaroori hai — jo dikhta hai woh bikta hai.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "गुड़ खाओ गुलगुले से परहेज़",
+    "literal_meaning": "Eating jaggery but avoiding the fried sweet made from it.",
+    "figurative_meaning": "Accepting something while hypocritically rejecting something essentially the same.",
+    "example": "Usne rishwat li par doosron ko daanta — gud khao gulgulon se parhej.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "अच्छे दिन आते हैं",
+    "literal_meaning": "Good days do come.",
+    "figurative_meaning": "No matter how hard the current situation, better times will follow.",
+    "example": "Himmat rakh — acchhe din aate hain.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "खिसियानी बिल्ली खंभा नोचे",
+    "literal_meaning": "A frustrated cat scratches the pillar.",
+    "figurative_meaning": "Taking out one's embarrassment or anger on an unrelated target.",
+    "example": "Boss ne daanta toh usne junior par gussa nikala — khisiyani billi khamba noche.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "मन मारकर बैठना",
+    "literal_meaning": "Sitting by killing one's own desires.",
+    "figurative_meaning": "Suppressing one's wishes and suffering in silence.",
+    "example": "Woh jaana chahta tha par man maar ke baith gaya.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "बातों से पेट नहीं भरता",
+    "literal_meaning": "Words do not fill the stomach.",
+    "figurative_meaning": "Promises and talk alone cannot meet real needs.",
+    "example": "Sirf wada karke kya hoga — baaton se pet nahi bharta.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "ओखली में सिर दिया तो मूसलों का क्या डर",
+    "literal_meaning": "If you put your head in the mortar, why fear the pestle?",
+    "figurative_meaning": "Once committed to a risky path, there is no point fearing its consequences.",
+    "example": "Business shuru kar liya, ab risk toh lena padega — okhli mein sir diya toh muslon ka kya dar.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "हर चमकती चीज़ सोना नहीं होती",
+    "literal_meaning": "Not everything that glitters is gold.",
+    "figurative_meaning": "Appearances can be deceptive; do not judge by looks alone.",
+    "example": "Itna acha dikhta hai par kaam kuch nahi — har chamakti cheez sona nahi hoti.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "छोटा मुँह बड़ी बात",
+    "literal_meaning": "A small mouth, big talk.",
+    "figurative_meaning": "Speaking beyond one's standing or experience.",
+    "example": "Naye aadmi ne senior ko seedha jawab diya — chhota munh badi baat.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "रस्सी जल गई पर ऐंठन न गई",
+    "literal_meaning": "The rope has burned but the twist remains.",
+    "figurative_meaning": "A person loses all their power yet retains their arrogance.",
+    "example": "Vaoh retire ho gaya par abhi bhi hukum chalaata hai — rassi jal gayi par ainthan na gayi.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "जितनी चादर हो उतने पाँव पसारो",
+    "literal_meaning": "Stretch your legs only as far as your blanket reaches.",
+    "figurative_meaning": "Live within your means; do not overextend yourself.",
+    "example": "Itna kharcha mat karo — jitni chadar ho utne paaon pasaro.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "नेकी और पूछ पूछ",
+    "literal_meaning": "Doing good and asking again and again.",
+    "figurative_meaning": "Doing a good deed should not require repeated seeking of recognition.",
+    "example": "Madad ki toh ki, bar bar mat yaad dilao — neki aur pooch pooch.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "आए थे हरि भजन को ओटन लगे कपास",
+    "literal_meaning": "Came to pray to Hari, ended up carding cotton.",
+    "figurative_meaning": "Getting distracted from the original purpose by irrelevant activities.",
+    "example": "Study karne baitha tha, phone chalata raha — aaye the Hari bhajan ko otan lage kapas.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "हाँ में हाँ मिलाना",
+    "literal_meaning": "Adding yes to yes.",
+    "figurative_meaning": "Blindly agreeing with everything someone says; being a yes-man.",
+    "example": "Woh boss ki har baat maan leta hai — haaan mein haaan milaana.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "कागज की नाव",
+    "literal_meaning": "A paper boat.",
+    "figurative_meaning": "Something that appears functional but is fundamentally fragile and temporary.",
+    "example": "Unka plan kagaz ki naav jaisa tha — baarish mein doob gaya.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "टेढ़ी उँगली से घी निकालना",
+    "literal_meaning": "Extracting ghee with a crooked finger.",
+    "figurative_meaning": "Using indirect or clever means to achieve something that won't yield to a direct approach.",
+    "example": "Seedhe maange nahi diya, par tedi ungali se kaam nikal liya.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "धोबी का कुत्ता न घर का न घाट का",
+    "literal_meaning": "The washerman's dog belongs neither to the home nor the riverbank.",
+    "figurative_meaning": "Someone who belongs nowhere; having no fixed place or loyalty.",
+    "example": "Woh na company ka hai na client ka — dhobi ka kutta na ghar ka na ghaat ka.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "कौवे की चाल चली, हंस की चाल भी गई",
+    "literal_meaning": "Tried to walk like a crow, lost even the swan's gait.",
+    "figurative_meaning": "Imitating others badly and also losing your own natural abilities.",
+    "example": "Usne doosron ki copy ki aur khud ki style bhi kho di — kauve ki chal chali, hans ki chal bhi gayi.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "आँखें खुली रखना",
+    "literal_meaning": "Keeping one's eyes open.",
+    "figurative_meaning": "Staying alert and aware of what is happening around you.",
+    "example": "Business mein aankhen khuli rakhna zaroori hai.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "मौका मिले तो माल उड़ाओ",
+    "literal_meaning": "When you get the chance, take the goods.",
+    "figurative_meaning": "Exploit an opportunity without hesitation.",
+    "example": "Offer aaya toh turant le liya — mouka mile toh maal udaao.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "उतना ही बोलो जितना पचे",
+    "literal_meaning": "Speak only as much as can be digested.",
+    "figurative_meaning": "Do not say more than you can back up or that others can absorb.",
+    "example": "Meeting mein zyada bolne ki zaroorat nahi — utna hi bolo jitna pache.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "बड़े बुज़ुर्गों की बात माननी चाहिए",
+    "literal_meaning": "One should listen to elders.",
+    "figurative_meaning": "The advice of experienced people should be respected.",
+    "example": "Unhone pehle se bata diya tha — bade bujurgon ki baat maanni chahiye.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "छाँव में बैठकर धूप की बात करना",
+    "literal_meaning": "Talking about the harsh sun while sitting in the shade.",
+    "figurative_meaning": "Speaking about hardship without having experienced it yourself.",
+    "example": "Woh garibi ke baare mein gyaan de raha hai — chhaanv mein baith kar dhoop ki baat karna.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "अकड़ दिखाने से काम नहीं बनता",
+    "literal_meaning": "Showing arrogance does not get the work done.",
+    "figurative_meaning": "Stubbornness and pride are obstacles, not tools.",
+    "example": "Usne akad dikhayi, deal nikal gayi — akad dikhane se kaam nahi banta.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "जो बोया वो काटा",
+    "literal_meaning": "What was sown was reaped.",
+    "figurative_meaning": "The consequences you face are a direct result of your own actions.",
+    "example": "Usne dhoka diya, ab akela hai — jo boya wo kaata.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "सुबह का भूला शाम को घर आए तो भूला नहीं कहलाता",
+    "literal_meaning": "One who strayed in the morning and returns in the evening is not called lost.",
+    "figurative_meaning": "It is never too late to correct a mistake and return to the right path.",
+    "example": "Usne galti sudhar li — subah ka bhula shaam ko ghar aaye toh bhula nahi kehlata.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "टका सा जवाब देना",
+    "literal_meaning": "Giving a coin's worth of an answer.",
+    "figurative_meaning": "Dismissing someone with a blunt or curt refusal.",
+    "example": "Request ki par usne taka sa jawab de diya.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "आग लगने पर कुआँ खोदना",
+    "literal_meaning": "Digging a well when the fire has already started.",
+    "figurative_meaning": "Preparing for a crisis only after it has already begun.",
+    "example": "Server down hua tab backup ki baat ki — aag lagne par kuan khodna.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "नदी में रहकर नाव से बैर",
+    "literal_meaning": "Enmity with the boat while living in the river.",
+    "figurative_meaning": "Opposing the very thing that keeps you safe or helps you survive.",
+    "example": "Apni team se hi ladaai mol li — nadi mein rahkar naav se bair.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "कहना आसान, करना मुश्किल",
+    "literal_meaning": "Easy to say, hard to do.",
+    "figurative_meaning": "Actions are always harder than words make them seem.",
+    "example": "Plan sab banaate hain, execute koi nahi karta — kehna aasan karna mushkil.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "आँख मूँद कर भरोसा करना",
+    "literal_meaning": "Trusting with eyes shut.",
+    "figurative_meaning": "Placing blind faith in someone without critical thought.",
+    "example": "Usne bina jaanch ke sign kar diya — aankh moond kar bharosa karna.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "गागर में सागर",
+    "literal_meaning": "An ocean in a pot.",
+    "figurative_meaning": "Expressing great depth of meaning in very few words.",
+    "example": "Usne do line mein sab keh diya — gagar mein sagar.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "आधा तीतर आधा बटेर",
+    "literal_meaning": "Half partridge, half quail.",
+    "figurative_meaning": "Something mixed and inconsistent; neither one thing nor another.",
+    "example": "Unka proposal aadha-aadha tha — adha teetar adha bater.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "पढ़े फ़ारसी, बेचे तेल",
+    "literal_meaning": "Studied Persian, sells oil.",
+    "figurative_meaning": "Someone whose education or qualifications are completely unrelated to what they actually do.",
+    "example": "MBA kiya aur dukaan chala raha hai — padhe farsi beche tel.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "मुसीबत कभी अकेली नहीं आती",
+    "literal_meaning": "Trouble never comes alone.",
+    "figurative_meaning": "Problems tend to arrive together in clusters.",
+    "example": "Pehle naukri gayi, phir tabiyat kharab — musibat kabhi akeli nahi aati.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "बिन पानी सब सून",
+    "literal_meaning": "Without water, everything is desolate.",
+    "figurative_meaning": "Without the essential element, nothing else works.",
+    "example": "Team mein trust nahi toh kuch nahi — bin pani sab soon.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "घाव हरा हो जाना",
+    "literal_meaning": "A wound turning green (fresh again).",
+    "figurative_meaning": "Old pain being revived by a new reminder.",
+    "example": "Uss baat ne purana dard wapas le aaya — ghaav hara ho gaya.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "पत्थर पर दूब उगाना",
+    "literal_meaning": "Growing grass on a stone.",
+    "figurative_meaning": "Attempting the impossible; wasting effort on something that cannot yield results.",
+    "example": "Usse samjhana patthar par doob ugaane jaisa hai.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "न रहेगा बाँस न बजेगी बाँसुरी",
+    "literal_meaning": "If there is no bamboo, there will be no flute music.",
+    "figurative_meaning": "Eliminating the source of a problem stops it completely.",
+    "example": "Data source hi delete kar diya — na rahega baans na bajegi baansuri.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "अपनी करनी पार उतरनी",
+    "literal_meaning": "Your own deeds carry you across.",
+    "figurative_meaning": "Only your own efforts and actions will ultimately save you.",
+    "example": "Koi nahi aayega help karne — apni karni paar utarni.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "जहाँ चाह वहाँ राह",
+    "literal_meaning": "Where there is will, there is a way.",
+    "figurative_meaning": "Determination creates its own path.",
+    "example": "Resources kam the par usne kar dikhaya — jahan chaah wahan raah.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "मेहनत का फल मीठा होता है",
+    "literal_meaning": "The fruit of hard work is sweet.",
+    "figurative_meaning": "The rewards of genuine effort are more satisfying.",
+    "example": "Itni padhai ke baad rank aaya — mehnat ka phal meetha hota hai.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "किसी के मुँह में घी शक्कर",
+    "literal_meaning": "May there be ghee and sugar in someone's mouth.",
+    "figurative_meaning": "Wishing that what someone says turns out to be true.",
+    "example": "Tumne kaha sab theek hoga — tumhare munh mein ghee shakkar.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "उगले तो अंधा, निगले तो काना",
+    "literal_meaning": "Spit it out and go blind; swallow it and go one-eyed.",
+    "figurative_meaning": "A situation where both options lead to a bad outcome.",
+    "example": "Kuch kaho toh bhi takleef, na kaho toh bhi — ugle toh andha, nile toh kaana.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "तुम डाल डाल हम पात पात",
+    "literal_meaning": "You move branch by branch, I move leaf by leaf.",
+    "figurative_meaning": "I can match every trick you use; meeting cunning with cunning.",
+    "example": "Usne naya plan banaya par main tayaar tha — tum daal daal hum paat paat.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "चाँदी का जूता",
+    "literal_meaning": "A silver shoe.",
+    "figurative_meaning": "Using money or bribery to get things done.",
+    "example": "Koi kaam nahi ho raha tha, chandi ka joota lagaya toh ho gaya.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "जान है तो जहान है",
+    "literal_meaning": "If there is life, there is the world.",
+    "figurative_meaning": "Health and life come before everything else.",
+    "example": "Itna kaam mat karo, jaan hai toh jahaan hai.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "रात गई बात गई",
+    "literal_meaning": "The night is gone, the matter is gone.",
+    "figurative_meaning": "Once something is over, there is no point dwelling on it.",
+    "example": "Jo hua so hua — raat gayi baat gayi.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "नींव मज़बूत हो तो मकान टिकता है",
+    "literal_meaning": "If the foundation is strong, the house stands.",
+    "figurative_meaning": "A solid base ensures long-term stability.",
+    "example": "Early habits ne usse aage tak help kiya — neev mazboot ho toh makaan tikta hai.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "हाथ दिखाना",
+    "literal_meaning": "Showing the hand.",
+    "figurative_meaning": "Refusing or turning someone away.",
+    "example": "Help maangi toh usne seedha haath dikha diya.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "काम आए सो दाम आए",
+    "literal_meaning": "Whatever is useful commands a price.",
+    "figurative_meaning": "Things and people are valued by their usefulness.",
+    "example": "Naye tool bahut kaam aaya — kaam aaye so daam aaye.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "समय की रेत",
+    "literal_meaning": "The sand of time.",
+    "figurative_meaning": "Moments pass quickly and cannot be held on to.",
+    "example": "Bachpan kitni jaldi guzar gaya — samay ki ret haath se fisalti rehti hai.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "बिना मेहनत फल नहीं",
+    "literal_meaning": "Without effort there is no fruit.",
+    "figurative_meaning": "Nothing worthwhile is achieved without hard work.",
+    "example": "Seedha result chahiye par kaam nahi karna — bina mehnat phal nahi.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "हर घड़ी एक सी नहीं होती",
+    "literal_meaning": "Not every moment is the same.",
+    "figurative_meaning": "Circumstances change; good and bad times alternate.",
+    "example": "Abhi muskil hai par badlega — har ghadi ek si nahi hoti.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "मन की आँखें खोलना",
+    "literal_meaning": "Opening the eyes of the mind.",
+    "figurative_meaning": "Gaining awareness or insight about a situation.",
+    "example": "Uski baat ne man ki aankhein khol di.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "दूसरों का दुख देख कर सीखना",
+    "literal_meaning": "Learning by watching others' suffering.",
+    "figurative_meaning": "Wise people learn from others' mistakes, not just their own.",
+    "example": "Maine unka haal dekha aur apni galti sudhar li — doosron ka dukh dekh ke seekhna.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "अनजान बनना",
+    "literal_meaning": "Pretending to be a stranger.",
+    "figurative_meaning": "Feigning ignorance to avoid responsibility.",
+    "example": "Sab kuch jaanta tha phir bhi anjaan ban gaya.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "दाना पानी उठ जाना",
+    "literal_meaning": "Food and water being lifted away.",
+    "figurative_meaning": "One's fortune or time at a place coming to an end.",
+    "example": "Yahaan ka daana paani uth gaya — kuch din mein transfer ho gaya.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "खून पसीना एक करना",
+    "literal_meaning": "Making blood and sweat one.",
+    "figurative_meaning": "Working extremely hard with full dedication.",
+    "example": "Usne project ke liye khoon paseena ek kar diya.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "आग बबूला होना",
+    "literal_meaning": "Becoming a ball of fire.",
+    "figurative_meaning": "To become extremely angry.",
+    "example": "Baat sunke woh aag babula ho gaya.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "छोटे मुँह बड़ी बात",
+    "literal_meaning": "Big words from a small mouth.",
+    "figurative_meaning": "Making grand claims that are beyond one's standing or ability.",
+    "example": "Naye hain aur CEO ko suggest kar rahe hain — chhote munh badi baat.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "रंगे हाथों पकड़ना",
+    "literal_meaning": "Catching with coloured hands.",
+    "figurative_meaning": "To catch someone red-handed in the act.",
+    "example": "Woh cheating kar raha tha, range haathon pakda gaya.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "मुफ्त की शराब काज़ी को भी हलाल",
+    "literal_meaning": "Even a qazi considers free wine permissible.",
+    "figurative_meaning": "People bend their principles when something is offered for free.",
+    "example": "Keh raha tha nahi chahiye, free mila toh le liya — muft ki sharab kazi ko bhi halal.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "सीधी उँगली से घी नहीं निकलता",
+    "literal_meaning": "Ghee doesn't come out with a straight finger.",
+    "figurative_meaning": "Sometimes you need to be clever or indirect to get things done.",
+    "example": "Directly maange toh nahi milta — seedhi ungali se ghee nahi nikalta.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "कल करे सो आज कर",
+    "literal_meaning": "Do today what you plan for tomorrow.",
+    "figurative_meaning": "Do not procrastinate; act now.",
+    "example": "Report kal bhejunга bolke mat ruko — kal kare so aaj kar.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "अपना हाथ जगन्नाथ",
+    "literal_meaning": "One's own hand is Lord Jagannath.",
+    "figurative_meaning": "Self-reliance is the surest support; do not depend on others.",
+    "example": "Koi nahi aaya help karne — apna haath Jagannath.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "गई भैंस पानी में",
+    "literal_meaning": "The buffalo has gone into the water.",
+    "figurative_meaning": "Something is irretrievably lost.",
+    "example": "Paise gaye, vaapas nahi aayenge — gayi bhains paani mein.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "पाँचों उँगलियाँ बराबर नहीं होतीं",
+    "literal_meaning": "All five fingers are not equal.",
+    "figurative_meaning": "People and things are inherently different; equality is not universal.",
+    "example": "Har student alag hota hai — paanchon ungliyan barabar nahi hotin.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "जितना गुड़ डालो उतना मीठा",
+    "literal_meaning": "The more jaggery you add, the sweeter it gets.",
+    "figurative_meaning": "Greater effort or input yields proportionally better results.",
+    "example": "Jitna kaam karo utna better output — jitna gud dalo utna meetha.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "बड़ा घर पेट में",
+    "literal_meaning": "A big house in the stomach.",
+    "figurative_meaning": "Capable of keeping secrets; not revealing anything.",
+    "example": "Usne sab suna par kisi ko nahi bataya — bada ghar pet mein hai uska.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "किसी का नमक खाना",
+    "literal_meaning": "Eating someone's salt.",
+    "figurative_meaning": "Being in someone's debt or under their hospitality; owing loyalty.",
+    "example": "Unhone itna kiya hai, unka namak khaya hai hamne.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "पहाड़ खोदकर चूहा निकालना",
+    "literal_meaning": "Dig a mountain and find a mouse.",
+    "figurative_meaning": "Enormous effort yielding a completely trivial result.",
+    "example": "Teen mahine kaam kiya aur result yeh raha — pahad khod ke chuha nikalna.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "घी के दिये जलाना",
+    "literal_meaning": "Lighting lamps with ghee.",
+    "figurative_meaning": "Celebrating lavishly over good news.",
+    "example": "Result aaya toh ghar mein ghee ke diye jala diye.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "आग में कूदना",
+    "literal_meaning": "Jumping into fire.",
+    "figurative_meaning": "Knowingly walking into a dangerous or harmful situation.",
+    "example": "Jaante hue bhi us deal mein ghus gaya — aag mein koodna tha.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "चुप रहना सोने के बराबर",
+    "literal_meaning": "Silence is equal to gold.",
+    "figurative_meaning": "Knowing when to stay quiet is a great virtue.",
+    "example": "Bekar ki bahas mein mat padna — chup rehna sone ke baraabar.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "लकीर का फकीर",
+    "literal_meaning": "A fakir of lines.",
+    "figurative_meaning": "Someone who blindly follows tradition without thinking.",
+    "example": "Naye ideas ko reject karta hai — lakeer ka faqeer hai woh.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "हवा का रुख देखना",
+    "literal_meaning": "Watching the direction of the wind.",
+    "figurative_meaning": "Assessing a situation before taking a position.",
+    "example": "Kuch kehne se pehle hawa ka rukh dekh liya.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "अंधे के हाथ बटेर",
+    "literal_meaning": "A quail in the hands of a blind man.",
+    "figurative_meaning": "Getting something valuable purely by luck, without deserving or knowing it.",
+    "example": "Usne kuch kiya nahi aur prize mil gaya — andhe ke haath bater.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "दोनों हाथों में लड्डू",
+    "literal_meaning": "Laddus in both hands.",
+    "figurative_meaning": "Being in a win-win situation no matter what happens.",
+    "example": "Dono options mein faayda hai — donon haathon mein laddu hai.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "बाँसुरी बजाना",
+    "literal_meaning": "Playing the flute.",
+    "figurative_meaning": "Making light of a serious situation; being carefree when one shouldn't be.",
+    "example": "Crisis mein bhi woh bansuri baja raha tha.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "ऊपर से राम राम भीतर से कुटिलता",
+    "literal_meaning": "Ram Ram on the outside, cunning on the inside.",
+    "figurative_meaning": "Appearing pious and kind while secretly being scheming.",
+    "example": "Sab ko greet karta hai par peeth peechhe kuch aur — oopar se Ram Ram bheetar se kutilaata.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "नाव में सवार होना",
+    "literal_meaning": "Being in the same boat.",
+    "figurative_meaning": "Sharing the same difficult situation with others.",
+    "example": "Hum dono ek hi naav mein hain — saath milke nikalna hoga.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "आधी छोड़ पूरी को धावे, आधी मिले न पूरी पावे",
+    "literal_meaning": "Abandons the half to chase the whole; gets neither half nor whole.",
+    "figurative_meaning": "Greedily chasing more while abandoning what you have leads to total loss.",
+    "example": "Ek kaam chhoda doosre ke liye, dono gaye — aadhi chhod poori ko dhaave.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "आस्तीन का साँप",
+    "literal_meaning": "A snake in the sleeve.",
+    "figurative_meaning": "A hidden enemy who pretends to be a friend.",
+    "example": "Vaoh hamaara dost tha aur usine hi document leak kiya — aasteen ka saanp.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "बुरे फँसे",
+    "literal_meaning": "Badly trapped.",
+    "figurative_meaning": "To be caught in a very difficult situation with no easy exit.",
+    "example": "Usne contract sign kiya aur phere bure phase.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "जो दिखता है वो होता नहीं",
+    "literal_meaning": "What appears is not what is.",
+    "figurative_meaning": "Reality is often different from appearances.",
+    "example": "Achi tarah baat karta hai par bharosagemand nahi — jo dikhta hai wo hota nahi.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "कटे पर नमक छिड़कना",
+    "literal_meaning": "Sprinkling salt on a wound.",
+    "figurative_meaning": "Making a painful situation even worse through words or actions.",
+    "example": "Woh pehle se dukhi tha, tune aur bura keh diya — kate par namak chhidakna.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "नीम हकीम खतरे जान",
+    "literal_meaning": "A half-baked doctor is a danger to life.",
+    "figurative_meaning": "Partial knowledge or incompetent expertise is dangerous.",
+    "example": "Usne adhoori jankari se kaam kiya aur sab bigad gaya — neem hakeem khatre jaan.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "टका सा मुँह लेकर रह जाना",
+    "literal_meaning": "Being left holding a coin-sized face.",
+    "figurative_meaning": "Being left embarrassed or disappointed with nothing to show.",
+    "example": "Itni umeed thi par kuch nahi mila — taka sa munh lekar rah gaya.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "खाली बर्तन शोर करते हैं",
+    "literal_meaning": "Empty vessels make noise.",
+    "figurative_meaning": "People with little substance or knowledge tend to be the loudest.",
+    "example": "Jo jaanta nahi wahi sabse zyada bolta hai — khali bartan shor karte hain.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "नज़रबंद करना",
+    "literal_meaning": "To put under house arrest.",
+    "figurative_meaning": "To restrict someone's freedom.",
+    "example": "Usne apne vicharon ko nazarband kiya, kyunki wo jaanta tha ki samaj unhe sweekar nahi karega.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "धरना देना",
+    "literal_meaning": "To sit in protest.",
+    "figurative_meaning": "To stand firm on an issue.",
+    "example": "Kisaan dharna dekar apni maangein manwane mein safal hue.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "दीवारों के कान होना",
+    "literal_meaning": "Walls have ears.",
+    "figurative_meaning": "Confidential matters may be overheard.",
+    "example": "Jab bhi tum baat karo, yaad rakho deewaron ke kaan hote hain.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "थक कर चूर होना",
+    "literal_meaning": "To be completely exhausted.",
+    "figurative_meaning": "To be extremely tired.",
+    "example": "Kaam karte-karate woh thak kar choor ho gaya.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "तिनके का सहारा",
+    "literal_meaning": "A straw's support.",
+    "figurative_meaning": "A small help in a difficult situation.",
+    "example": "Uski madad tinke ka sahara saabit hui jab sab kuch ulat gaya.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "सांप भी मर जाए और लाठी भी न टूटे",
+    "literal_meaning": "The snake should die, but the stick should not break.",
+    "figurative_meaning": "Finding a solution that satisfies all parties without loss.",
+    "example": "Is samasya ka samadhan aisa hona chahiye ki saanp bhi mar jaye aur laathi bhi na toote.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "बंदर क्या जाने अदरक का",
+    "literal_meaning": "What does a monkey know of ginger?",
+    "figurative_meaning": "Someone is unaware of the value or significance of something.",
+    "example": "Usne jab us kitaab ki keemat dekhi to mujhe laga ki woh bandar kya jaane adrak ka.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "जख्म पर नमक छिड़कना",
+    "literal_meaning": "Sprinkling salt on wounds.",
+    "figurative_meaning": "Adding to someone's pain.",
+    "example": "Usne mere jakhm par namak chhidka jab usne meri asafalta ka mazak udaaya.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "टक्कर खाना",
+    "literal_meaning": "To take a hit.",
+    "figurative_meaning": "To compete or confront.",
+    "example": "Bazaar mein pratispardha ke chalte humein takkar khana pada.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "ठिकाने लगाना",
+    "literal_meaning": "To put in place.",
+    "figurative_meaning": "To eliminate someone.",
+    "example": "Usne apne dushmanon ko thikane lagane ki yojana banayi.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "दिल बाग-बाग होना",
+    "literal_meaning": "Heart blooming like a garden.",
+    "figurative_meaning": "Feeling extremely happy.",
+    "example": "Uski safalta se uska dil bag-bag ho gaya.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "आग में घी डालना",
+    "literal_meaning": "To pour ghee in fire.",
+    "figurative_meaning": "To aggravate a situation.",
+    "example": "Usne aag mein ghee daalne ka kaam kiya jab usne unki ladai ke beech ek aur jhooth bol diya.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "ईद का चाँद होना",
+    "literal_meaning": "To be the moon of Eid.",
+    "figurative_meaning": "To be rarely seen.",
+    "example": "Bhai, tum toh aajkal Eid ka chaand ho gaye ho, kabhi dikhte hi nahi.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "उल्टा चोर कोतवाल को डांटे",
+    "literal_meaning": "The thief scolds the police officer.",
+    "figurative_meaning": "The pot calling the kettle black.",
+    "example": "Galti tumhari hai aur tum mujhe hi suna rahe ho? Yeh toh ulta chor kotwal ko daante wali baat ho gayi.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "एक अनार सौ बीमार",
+    "literal_meaning": "One pomegranate, a hundred sick people.",
+    "figurative_meaning": "Demand is much higher than supply.",
+    "example": "Naukri ek hai aur ummeedwar hazaar, yeh toh ek anar sau beemar wali sthiti hai.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "भैंस के आगे बीन बजाना",
+    "literal_meaning": "To play a flute in front of a buffalo.",
+    "figurative_meaning": "Casting pearls before swine.",
+    "example": "Us murkh ko samjhana bhains ke aage been bajana jaisa hai.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "हवा से बातें करना",
+    "literal_meaning": "To talk to the wind.",
+    "figurative_meaning": "To run very fast.",
+    "example": "Uska ghoda maidan mein hawa se baatein kar raha tha.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "आँखों में धूल झोंकना",
+    "literal_meaning": "To throw dust in eyes.",
+    "figurative_meaning": "To deceive someone.",
+    "example": "Chor sabki aankhon mein dhool jhonk kar bhaag gaya.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "अक्ल पर पत्थर पड़ना",
+    "literal_meaning": "Stones falling on intellect.",
+    "figurative_meaning": "To lose one's senses.",
+    "example": "Uski akal par patthar pad gaye the jab usne apna saara paisa juye mein laga diya.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "अपने पैर पर कुल्हाड़ी मारना",
+    "literal_meaning": "To hit an axe on one's own foot.",
+    "figurative_meaning": "To harm oneself.",
+    "example": "Usne naukri chhod kar apne hi pair par kulhadi maar li.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "दाँत खट्टे करना",
+    "literal_meaning": "To make teeth sour.",
+    "figurative_meaning": "To defeat completely.",
+    "example": "Bhartiya sena ne dushman ke daant khatte kar diye.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "दाल में काला होना",
+    "literal_meaning": "Something black in the lentils.",
+    "figurative_meaning": "Something is fishy.",
+    "example": "Wo chupke chupke baat kar rahe hain, zaroor daal mein kuch kaala hai.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "लोहे के चने चबाना",
+    "literal_meaning": "To chew iron chickpeas.",
+    "figurative_meaning": "To do a very difficult task.",
+    "example": "UPSC exam pass karna lohe ke chane chabane ke barabar hai.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "श्री गणेश करना",
+    "literal_meaning": "To do Shri Ganesh.",
+    "figurative_meaning": "To start something new.",
+    "example": "Aaj unhone apne naye dukaan ka shri ganesh kiya.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "मुठ्ठी गर्म करना",
+    "literal_meaning": "To warm the fist.",
+    "figurative_meaning": "To give a bribe.",
+    "example": "Bina mutthi garm kiye yahan koi kaam nahi hota.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "रातों की नींद हराम होना",
+    "literal_meaning": "Sleep of nights becoming forbidden.",
+    "figurative_meaning": "To be extremely worried or anxious.",
+    "example": "Exam ke chakkar mein uski raaton ki neend haram ho gayi hai.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "लकीर का फकीर होना",
+    "literal_meaning": "To be a beggar of the line.",
+    "figurative_meaning": "To blindly follow old traditions.",
+    "example": "Zamana badal gaya hai, kab tak lakeer ke fakeer bane rahoge?",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "लोहा लेना",
+    "literal_meaning": "To take iron.",
+    "figurative_meaning": "To face bravely.",
+    "example": "Maharana Pratap ne mughalon se kadi takkar li aur loha liya.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "सफेद झूठ",
+    "literal_meaning": "White lie.",
+    "figurative_meaning": "An obvious or blatant lie.",
+    "example": "Wo safed jhooth bol raha hai ki wo wahan nahi tha.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "हाथ मलना",
+    "literal_meaning": "To rub hands.",
+    "figurative_meaning": "To regret.",
+    "example": "Samay nikal jaane ke baad haath malne se kuch nahi hoga.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "हाथ-पाँव मारना",
+    "literal_meaning": "To strike hands and feet.",
+    "figurative_meaning": "To make desperate efforts.",
+    "example": "Naukri paane ke liye usne bahut haath-paon maare.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "आपे से बाहर होना",
+    "literal_meaning": "To be out of oneself.",
+    "figurative_meaning": "To lose control due to anger.",
+    "example": "Chhoti si baat par woh aape se bahar ho gaya.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "किताबी कीड़ा होना",
+    "literal_meaning": "To be a bookworm.",
+    "figurative_meaning": "To be always reading.",
+    "example": "Woh sirf padhta rehta hai, poora kitabi keeda hai.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "घर की मुर्गी दाल बराबर",
+    "literal_meaning": "A home-cooked chicken is equal to lentils.",
+    "figurative_meaning": "Familiarity breeds contempt; undervaluing what one has.",
+    "example": "Ghar ki murgi daal barabar, uski salah koi nahi sunta.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "चार दिन की चाँदनी फिर अंधेरी रात",
+    "literal_meaning": "Four days of moonlight, then dark night.",
+    "figurative_meaning": "A nine days' wonder; short-lived happiness.",
+    "example": "Ye nayi naukri ki kushi char din ki chandni phir andheri raat hai.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "छाती पर मूंग दलना",
+    "literal_meaning": "To grind lentils on someone's chest.",
+    "figurative_meaning": "To deliberately annoy someone while staying close to them.",
+    "example": "Tum wahan jaa kar kyu rehte ho, sirf uski chhati par moong dalne ke liye?",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "छक्के छुड़ाना",
+    "literal_meaning": "To make someone lose their sixes.",
+    "figurative_meaning": "To defeat completely.",
+    "example": "Bhartiya team ne vipakshi team ke chhakke chhuda diye.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "जान हथेली पर रखना",
+    "literal_meaning": "To keep life on the palm.",
+    "figurative_meaning": "To risk one's life.",
+    "example": "Sainik apni jaan hatheli par rakh kar desh ki raksha karte hain.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "टेढ़ी खीर",
+    "literal_meaning": "Crooked rice pudding.",
+    "figurative_meaning": "A very difficult task.",
+    "example": "Bina kisi sifarish ke sarkari naukri pana tedhi kheer hai.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "डूबते को तिनके का सहारा",
+    "literal_meaning": "A drowning man gets the support of a straw.",
+    "figurative_meaning": "A drowning man catches at a straw.",
+    "example": "Aakhir samay mein uski 100 rupaye ki madad bhi doobte ko tinke ka sahara thi.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "तलवे चाटना",
+    "literal_meaning": "To lick the soles of feet.",
+    "figurative_meaning": "To flatter or bootlick for personal gain.",
+    "example": "Promotion paane ke liye woh boss ke talwe chatne laga.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "तिल का ताड़ बनाना",
+    "literal_meaning": "To make a palm tree out of a sesame seed.",
+    "figurative_meaning": "To make a mountain out of a molehill.",
+    "example": "Chhoti si baat thi, tumne toh til ka taad bana diya.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "दाल गलना",
+    "literal_meaning": "For lentils to melt/cook.",
+    "figurative_meaning": "To succeed in a trick or plan.",
+    "example": "Yahan tumhara jhooth nahi chalega, tumhari daal nahi galne wali.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "पीठ थपथपाना",
+    "literal_meaning": "To pat the back.",
+    "figurative_meaning": "To encourage or praise.",
+    "example": "Pitamah ne acche parinam par bete ki peeth thapthapai.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "फूले न समाना",
+    "literal_meaning": "Not fitting into oneself while blossoming.",
+    "figurative_meaning": "To be extremely happy.",
+    "example": "Parixa mein pratham aane par woh phoole na samaya.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "बगुला भगत",
+    "literal_meaning": "A crane devotee.",
+    "figurative_meaning": "A hypocrite.",
+    "example": "Wo dikhta toh sadhu hai, par asal mein bagula bhagat hai.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "बाल-बाल बचना",
+    "literal_meaning": "To be saved by a hair.",
+    "figurative_meaning": "To have a narrow escape.",
+    "example": "Kal sadak durghatna mein woh baal-baal bacha.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "रफूचक्कर होना",
+    "literal_meaning": "To become darning and a wheel.",
+    "figurative_meaning": "To run away or flee.",
+    "example": "Chori karne ke baad woh turant rafuchakkar ho gaya.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "राई का पहाड़ बनाना",
+    "literal_meaning": "To make a mountain out of mustard seeds.",
+    "figurative_meaning": "To exaggerate a small issue.",
+    "example": "Baat itni si thi, lekin tumne toh rai ka pahad bana diya.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "रंगा सियार",
+    "literal_meaning": "A painted jackal.",
+    "figurative_meaning": "A deceiver or hypocrite.",
+    "example": "Uski mithi baaton mein mat aana, woh poora ranga siyar hai.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "हाथ साफ करना",
+    "literal_meaning": "To clean hands.",
+    "figurative_meaning": "To steal something or show sleight of hand.",
+    "example": "Bheed ka fayda utha kar chor ne purse par hath saaf kar diya.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "अंग-अंग ढीला होना",
+    "literal_meaning": "Every limb getting loose.",
+    "figurative_meaning": "To be extremely tired.",
+    "example": "Din bhar kaam karne ke baad mera ang-ang dheela ho gaya.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "अंगारे उगलना",
+    "literal_meaning": "To spew embers.",
+    "figurative_meaning": "To speak very harshly or angrily.",
+    "example": "Jab usne sachai jani, to woh angare ugalne laga.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "अंधे की लाठी",
+    "literal_meaning": "A blind man's stick.",
+    "figurative_meaning": "The only support.",
+    "example": "Shravan Kumar apne andhe maa-baap ki lathi tha.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "अंधे के हाथ बटेर लगना",
+    "literal_meaning": "A quail falling into a blind man's hands.",
+    "figurative_meaning": "Getting something valuable without the necessary qualifications.",
+    "example": "Bina padhai kiye uski sarkari naukri lag gayi, yeh to andhe ke hath bater lagna hai.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "अक्ल का दुश्मन",
+    "literal_meaning": "Enemy of intellect.",
+    "figurative_meaning": "A foolish person.",
+    "example": "Tum toh bilkul akal ke dushman ho jo itna asaan kaam nahi kar sake.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "अपने मुँह मियाँ मिट्ठू बनना",
+    "literal_meaning": "To become a sweet-talker from one's own mouth.",
+    "figurative_meaning": "To blow one's own trumpet; self-praise.",
+    "example": "Apne muh miya mitthu banne ka koi fayda nahi, log tumhara kaam dekhte hain.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "आँख का तारा होना",
+    "literal_meaning": "To be the star of the eye.",
+    "figurative_meaning": "To be the apple of someone's eye; very dear.",
+    "example": "Raju apni maa ki aankh ka tara hai.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "आँखें बिछाना",
+    "literal_meaning": "To lay down one's eyes.",
+    "figurative_meaning": "To welcome someone with great respect and eagerness.",
+    "example": "Humne mehmano ke swagat mein aankhein bicha di.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "आकाश-पाताल एक करना",
+    "literal_meaning": "To make sky and underworld one.",
+    "figurative_meaning": "To move heaven and earth; work very hard.",
+    "example": "Usne pariksha pas karne ke liye aakash-patal ek kar diya.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "ईंट से ईंट बजाना",
+    "literal_meaning": "To strike brick against brick.",
+    "figurative_meaning": "To completely destroy or retaliate fiercely.",
+    "example": "Bhartiya sena ne dushman ki eent se eent baja di.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "उँगली उठाना",
+    "literal_meaning": "To raise a finger.",
+    "figurative_meaning": "To point fingers; blame someone.",
+    "example": "Bina saboot ke kisi par ungali uthana galat hai.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "कमर कसना",
+    "literal_meaning": "To tighten the belt.",
+    "figurative_meaning": "To get ready for a difficult task.",
+    "example": "Pariksha ke liye sabhi chhatron ne kamar kas li hai.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "कलेजे पर साँप लोटना",
+    "literal_meaning": "A snake rolling on the liver.",
+    "figurative_meaning": "To burn with jealousy.",
+    "example": "Meri nayi gaadi dekh kar uske kaleje par saanp lot gaya.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "कान भरना",
+    "literal_meaning": "To fill ears.",
+    "figurative_meaning": "To poison someone's mind against another.",
+    "example": "Rani hamesha saas ke khilaf bahu ke kaan bharti hai.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "गले का हार होना",
+    "literal_meaning": "To be a necklace.",
+    "figurative_meaning": "To be someone's favorite or deeply loved.",
+    "example": "Beti apne pita ke gale ka haar hoti hai.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "गागर में सागर भरना",
+    "literal_meaning": "To fill an ocean in a small pot.",
+    "figurative_meaning": "To express deep or vast meaning in a few words.",
+    "example": "Kabir ke dohe gagar mein sagar bharne ke saman hain.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "घी के दीये जलाना",
+    "literal_meaning": "To light ghee lamps.",
+    "figurative_meaning": "To celebrate a great victory or joy.",
+    "example": "Ram ke Ayodhya lautne par logon ne ghee ke diye jalaye.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "चाँदी काटना",
+    "literal_meaning": "To cut silver.",
+    "figurative_meaning": "To earn a lot of money easily.",
+    "example": "Diwali ke tyohar par dukaandar khub chandi katte hain.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "चुल्लू भर पानी में डूब मरना",
+    "literal_meaning": "To drown in a handful of water.",
+    "figurative_meaning": "To be deeply ashamed.",
+    "example": "Chori pakde jane par uski sthiti chullu bhar pani mein doob marne jaisi thi.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "जान पर खेलना",
+    "literal_meaning": "To play on life.",
+    "figurative_meaning": "To take a massive risk.",
+    "example": "Bachche ko aag se bachane ke liye maa apni jaan par khel gayi.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "जमीन आसमान एक करना",
+    "literal_meaning": "To make earth and sky one.",
+    "figurative_meaning": "To put in an immense effort.",
+    "example": "Chor ko pakadne ke liye police ne zameen aasman ek kar diya.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "डाँवाडोल होना",
+    "literal_meaning": "To be swaying.",
+    "figurative_meaning": "To be unstable or wavering.",
+    "example": "Nuksan ke baad uski aarthik sthiti danwadol ho gayi hai.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "दिन दूनी रात चौगुनी",
+    "literal_meaning": "Double by day, quadruple by night.",
+    "figurative_meaning": "To progress very rapidly.",
+    "example": "Bhagwan kare tumhara vyapar din dooni raat chauguni unnati kare.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "नमक मिर्च लगाना",
+    "literal_meaning": "To apply salt and chili.",
+    "figurative_meaning": "To exaggerate a story.",
+    "example": "Usko har baat namak mirch lagakar batane ki aadat hai.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "पहाड़ टूट पड़ना",
+    "literal_meaning": "A mountain breaking down.",
+    "figurative_meaning": "A sudden major disaster or tragedy.",
+    "example": "Pita ki mrityu se us par jaise pahad toot pada.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "पानी-पानी होना",
+    "literal_meaning": "To become water-water.",
+    "figurative_meaning": "To be extremely embarrassed.",
+    "example": "Sabke samne jhooth pakda jane par woh pani-pani ho gaya.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "बाल की खाल निकालना",
+    "literal_meaning": "To extract skin from hair.",
+    "figurative_meaning": "To nitpick or over-analyze.",
+    "example": "Vakil sahab ko har baat mein baal ki khaal nikalne ki aadat hai.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "मुँह की खाना",
+    "literal_meaning": "To eat of the mouth.",
+    "figurative_meaning": "To suffer a humiliating defeat.",
+    "example": "Dushman sena ko yuddh mein munh ki khani padi.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "रंगे हाथों पकड़ना",
+    "literal_meaning": "To catch with colored hands.",
+    "figurative_meaning": "To catch red-handed.",
+    "example": "Police ne chor ko chori karte hue range hathon pakad liya.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "लाल पीला होना",
+    "literal_meaning": "To become red and yellow.",
+    "figurative_meaning": "To be furious.",
+    "example": "Mera nuksan dekh kar pitaji laal peele ho gaye.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "कलई खुलना",
+    "literal_meaning": "The whitewash coming off.",
+    "figurative_meaning": "A secret being revealed.",
+    "example": "Chori pakde jane par uski saari kalai khul gayi.",
+    "language": "Hindi"
+  },
+  {
+    "idiom": "अंधेरे घर का उजाला",
+    "literal_meaning": "Light of a dark house.",
+    "figurative_meaning": "The only son or hope of a family.",
+    "example": "Ravi apne mata-pita ke liye andhere ghar ka ujala hai.",
+    "language": "Hindi"
+  }
 ]

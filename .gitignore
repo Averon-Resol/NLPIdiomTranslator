@@ -24,6 +24,7 @@ src/wandb/
 results/
 
 # Generated backup/checkpoint data
+data/raw/backup_data
 data/processed/*backup*.csv
 data/processed/*rebuilt*.csv
 data/processed/*checkpoint*.csv
