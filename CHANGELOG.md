@@ -40,6 +40,32 @@ Known issues at baseline:
 <!-- New entries go at the top of this section, most recent first -->
 
 ---
+2026-05-31
+
+Added
+
+Modern Web Interface (`app.py` & `templates/index.html`):
+Built a responsive, single-page web UI using Tailwind CSS and Lucide Icons. The frontend now features interactive language selection, loading states, and clipboard copying, served directly via Flask.
+
+Environment Management: 
+Integrated `python-dotenv` utilizing `find_dotenv()` for robust, location-agnostic loading of the `GROQ_API_KEY` to secure the cloud integration.
+
+Changed
+
+Hybrid RAG Architecture (`generator.py`):
+Shifted from purely local generation to a hybrid architecture. Replaced the local Gemma-2-2B model with the Groq API, utilizing Meta's `llama-3.3-70b-versatile` model. This bypasses all local VRAM constraints and provides near-instantaneous, high-quality translations using LPUs.
+
+Retriever Language Filtering (`pipeline.py`):
+Fixed a bug where semantic retrieval context was bleeding across languages. Added a language map to correctly convert full language names (e.g., "telugu") to the 2-letter codes (e.g., "te") expected by the FAISS index.
+
+Removed
+
+Heavy Local Dependencies:
+Stripped `accelerate`, `peft`, `trl`, and `bitsandbytes` from `requirements.txt`. The web app is now incredibly lightweight, relying only on `flask`, `groq`, and the core detector/retriever libraries.
+
+Local Generator Weights:
+Safely deleted the `models/generator/` directory, freeing up gigabytes of local storage since generation is now handled entirely in the cloud.
+
 2026-05-29 (Update 2)
 
 Changed

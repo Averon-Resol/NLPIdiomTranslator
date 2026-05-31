@@ -20,5 +20,6 @@ pandas
 mock
 sacrebleu
 urduhack
+groq
 evaluation
 git+https://github.com/AI4Bharat/IndicTransToolkit.git

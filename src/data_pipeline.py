@@ -288,6 +288,7 @@ def download_kaggle_json(filename: str, lang_code: str) -> pd.DataFrame:
             
         rows = []
         for item in data:
+            # 1. Native to English (For Detector and Retriever)
             rows.append({
                 "source_idiom" : item.get("idiom", ""),
                 "source_lang"  : lang_code,
@@ -298,8 +299,21 @@ def download_kaggle_json(filename: str, lang_code: str) -> pd.DataFrame:
                 "split"        : "train",
                 "source"       : "Kaggle-Indian-Idioms",
             })
+            
+            # 2. English to Native (CRITICAL FOR GENERATOR)
+            rows.append({
+                "source_idiom" : item.get("figurative_meaning", ""),
+                "source_lang"  : "en",
+                "target_idiom" : item.get("idiom", ""),
+                "target_lang"  : lang_code,
+                "label"        : 1,
+                "idiom_string" : item.get("idiom", ""),
+                "split"        : "train",
+                "source"       : "Kaggle-Indian-Idioms-Reverse",
+            })
+            
         df = pd.DataFrame(rows)
-        print(f"  → {len(df)} examples loaded from {filename}.")
+        print(f"  → {len(df)} examples (both directions) loaded from {filename}.")
         return df
     except Exception as e:
         print(f"  [ERROR] Failed to load {filename}: {e}")
@@ -390,8 +404,7 @@ def build_unified_dataset():
     print(f"[SAVED] detection_only.csv  → {len(detection_df)} rows")
 
     # ── Cross-lingual subset for Person 2 & 3 ──
-    target_text = unified["target_idiom"].fillna("").astype(str).str.strip()
-    cross_df = unified[target_text != ""].copy()
+    cross_df = unified[unified["target_idiom"].notna() & (unified["target_idiom"].str.strip() != "")].copy()
     out_cross = DATA_PROC / "cross_lingual.csv"
     cross_df.to_csv(out_cross, index=False, encoding="utf-8")
     print(f"[SAVED] cross_lingual.csv   → {len(cross_df)} rows")
