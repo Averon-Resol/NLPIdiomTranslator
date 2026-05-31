@@ -50,7 +50,7 @@ class CrossLingualRetriever:
         self.meta_path = self.index_dir / "metadata.csv"
         self.config_path = self.index_dir / "retriever_config.json"
 
-        self.model = SentenceTransformer(self.model_name)
+        self.model = SentenceTransformer(self.model_name, device="cpu")
         self.index = None
         self.metadata: Optional[pd.DataFrame] = None
 
@@ -195,7 +195,11 @@ class CrossLingualRetriever:
             normalize_embeddings=True,
         ).astype(np.float32)
 
-        search_k = min(max(top_k * 10, top_k), len(self.metadata))
+        if target_lang or source_lang:
+            search_k = len(self.metadata) # Scan whole index if language filter is on
+        else:
+            search_k = min(max(top_k * 10, top_k), len(self.metadata))
+
         scores, indices = self.index.search(query_vec, search_k)
 
         results = []

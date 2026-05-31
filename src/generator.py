@@ -38,9 +38,7 @@ Usage:
 
 import argparse
 import json
-import os
-import random
-from dataclasses import dataclass, field
+from dataclasses import dataclass
 from pathlib import Path
 from typing import Optional
 
@@ -181,11 +179,19 @@ def _load_cross_lingual_pairs() -> pd.DataFrame:
         return pd.DataFrame()
 
     df = pd.read_csv(path)
+    
+    # Clean up empty rows
     df = df[
         df["source_idiom"].notna() & df["target_idiom"].notna() &
         (df["source_idiom"].str.strip() != "") &
         (df["target_idiom"].str.strip() != "")
     ].copy()
+
+    # ── CRITICAL DATA FIX ──────────────────────────────────────────────────
+    # Exclude rows from the generic 'kunchukuttan' parallel corpus dataset
+    if "source" in df.columns:
+        df = df[df["source"].fillna("").astype(str).str.lower() != "kunchukuttan"].copy()
+    # ───────────────────────────────────────────────────────────────────────
 
     rows = []
     for _, row in df.iterrows():
@@ -202,7 +208,6 @@ def _load_cross_lingual_pairs() -> pd.DataFrame:
 
     return pd.DataFrame(rows)
 
-
 def prepare_training_data() -> tuple[pd.DataFrame, pd.DataFrame, pd.DataFrame]:
     """
     Combines raw + cross-lingual pairs, deduplicates, and splits into
@@ -217,6 +222,11 @@ def prepare_training_data() -> tuple[pd.DataFrame, pd.DataFrame, pd.DataFrame]:
     cross_df = _load_cross_lingual_pairs()
 
     all_pairs = pd.concat([raw_df, cross_df], ignore_index=True)
+    if all_pairs.empty:
+        raise ValueError(
+            "No generator training pairs found. Add raw idiom JSON files under "
+            "data/raw or create data/processed/cross_lingual.csv."
+        )
     all_pairs.drop_duplicates(subset=["input_text", "target_text"], inplace=True)
     all_pairs.reset_index(drop=True, inplace=True)
 
@@ -226,6 +236,8 @@ def prepare_training_data() -> tuple[pd.DataFrame, pd.DataFrame, pd.DataFrame]:
     # Shuffle and split
     all_pairs = all_pairs.sample(frac=1, random_state=CFG.seed).reset_index(drop=True)
     n         = len(all_pairs)
+    if n < 3:
+        raise ValueError("Need at least 3 generator training pairs to create train/val/test splits.")
     n_test    = max(1, int(n * CFG.test_split))
     n_val     = max(1, int(n * CFG.val_split))
     n_train   = n - n_val - n_test
@@ -292,9 +304,8 @@ def train():
         AutoModelForCausalLM,
         AutoTokenizer,
         BitsAndBytesConfig,
-        TrainingArguments
     )
-    from peft import LoraConfig, get_peft_model, prepare_model_for_kbit_training
+    from peft import LoraConfig
     from trl import SFTTrainer, SFTConfig
 
     # 1. Update Config (You can change this at the top of your file too)
@@ -368,7 +379,7 @@ def train():
         group_by_length=True,
         lr_scheduler_type="cosine",
         fp16=False,
-        bf16=True, # RTX 3070 Ti supports bf16
+        bf16=torch.cuda.is_available() and torch.cuda.is_bf16_supported(),
         max_length=128,
         dataset_text_field="text",
         dataloader_num_workers=4,
@@ -515,7 +526,7 @@ class IdiomGenerator:
         from peft import PeftModel
 
         mp = model_path or str(MODEL_DIR)
-        model_id = "google/gemma-2-9b-it"
+        model_id = "google/gemma-2-2b-it"
 
         self.tokenizer = AutoTokenizer.from_pretrained(mp)
         bnb_config = BitsAndBytesConfig(load_in_4bit=True, bnb_4bit_compute_dtype=torch.bfloat16)
@@ -543,7 +554,39 @@ class IdiomGenerator:
         input_len = enc['input_ids'].shape[1]
         generated = self.tokenizer.decode(out[0][input_len:], skip_special_tokens=True).strip()
 
-        return {"input": text, "target_lang": target_lang, "generated": generated}
+        return {
+            "input": text,
+            "input_prompt": prompt_text,
+            "target_lang": target_lang,
+            "generated": generated,
+        }
+
+    def generate_top_k(self, text: str, target_lang: str = "ml", top_k: int = 3) -> list[dict]:
+        """Generate several candidates for the CLI's --top_k option."""
+        import torch
+
+        lang_name = LANG_NAMES.get(target_lang, target_lang)
+        prompt_text = f"translate idiom to {lang_name}: {text.strip()}"
+        formatted_prompt = f"<bos><start_of_turn>user\n{prompt_text}<end_of_turn>\n<start_of_turn>model\n"
+        enc = self.tokenizer(formatted_prompt, return_tensors="pt").to(self.model.device)
+
+        with torch.no_grad():
+            out = self.model.generate(
+                **enc,
+                max_new_tokens=CFG.max_target_length,
+                do_sample=True,
+                temperature=0.7,
+                top_p=0.9,
+                num_return_sequences=top_k,
+                pad_token_id=self.tokenizer.eos_token_id,
+            )
+
+        input_len = enc["input_ids"].shape[1]
+        results = []
+        for rank, tokens in enumerate(out, 1):
+            generated = self.tokenizer.decode(tokens[input_len:], skip_special_tokens=True).strip()
+            results.append({"rank": rank, "generated": generated, "score": None})
+        return results
 
 # ─── CLI Entry Point ──────────────────────────────────────────────────────────
 

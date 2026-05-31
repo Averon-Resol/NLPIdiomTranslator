@@ -294,7 +294,7 @@ class IdiomDetector:
         self.tokenizer  = AutoTokenizer.from_pretrained(mp)
         self.model      = AutoModelForSequenceClassification.from_pretrained(mp)
         self.model.eval()
-        self.device     = torch.device("cuda" if torch.cuda.is_available() else "cpu")
+        self.device     = torch.device("cpu")
         self.model.to(self.device)
         print(f"[IdiomDetector] Loaded from {mp} | Device: {self.device}")
 
