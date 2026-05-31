@@ -23,6 +23,9 @@ wandb/
 src/wandb/
 results/
 
+idiom/
+
+assignment/
 # Generated backup/checkpoint data
 data/raw/backup_data
 data/processed/*backup*.csv
@@ -48,5 +51,11 @@ malayalam.json
 
 append_json.py
 
+tmp_trainer
+
 results.zip
+results_discuss.md
 .env
+
+test_model.py
+test.txt
